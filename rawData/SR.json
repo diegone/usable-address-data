@@ -1,0 +1,73 @@
+{
+	"data/SR/Wanica": {
+		"id": "data/SR/Wanica",
+		"key": "Wanica",
+		"lang": "nl",
+		"isoid": "WA"
+	},
+	"data/SR/Para": {
+		"id": "data/SR/Para",
+		"key": "Para",
+		"lang": "nl",
+		"isoid": "PR"
+	},
+	"data/SR/Commewijne": {
+		"id": "data/SR/Commewijne",
+		"key": "Commewijne",
+		"lang": "nl",
+		"isoid": "CM"
+	},
+	"data/SR/Paramaribo": {
+		"id": "data/SR/Paramaribo",
+		"key": "Paramaribo",
+		"lang": "nl",
+		"isoid": "PM"
+	},
+	"data/SR/Coronie": {
+		"id": "data/SR/Coronie",
+		"key": "Coronie",
+		"lang": "nl",
+		"isoid": "CR"
+	},
+	"data/SR/Saramacca": {
+		"id": "data/SR/Saramacca",
+		"key": "Saramacca",
+		"lang": "nl",
+		"isoid": "SA"
+	},
+	"data/SR/Sipaliwini": {
+		"id": "data/SR/Sipaliwini",
+		"key": "Sipaliwini",
+		"lang": "nl",
+		"isoid": "SI"
+	},
+	"data/SR": {
+		"id": "data/SR",
+		"key": "SR",
+		"name": "SURINAME",
+		"lang": "nl",
+		"languages": "nl",
+		"fmt": "%N%n%O%n%A%n%C%n%S",
+		"upper": "AS",
+		"sub_keys": "Brokopondo~Commewijne~Coronie~Marowijne~Nickerie~Para~Paramaribo~Saramacca~Sipaliwini~Wanica",
+		"sub_isoids": "BR~CM~CR~MA~NI~PR~PM~SA~SI~WA"
+	},
+	"data/SR/Nickerie": {
+		"id": "data/SR/Nickerie",
+		"key": "Nickerie",
+		"lang": "nl",
+		"isoid": "NI"
+	},
+	"data/SR/Marowijne": {
+		"id": "data/SR/Marowijne",
+		"key": "Marowijne",
+		"lang": "nl",
+		"isoid": "MA"
+	},
+	"data/SR/Brokopondo": {
+		"id": "data/SR/Brokopondo",
+		"key": "Brokopondo",
+		"lang": "nl",
+		"isoid": "BR"
+	}
+}

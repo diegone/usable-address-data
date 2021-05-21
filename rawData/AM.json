@@ -1,0 +1,117 @@
+{
+	"data/AM/Արարատ": {
+		"id": "data/AM/Արարատ",
+		"key": "Արարատ",
+		"lang": "hy",
+		"lname": "Ararat",
+		"zip": "0[6-8]",
+		"zipex": "0601,0823",
+		"isoid": "AR"
+	},
+	"data/AM/Լոռի": {
+		"id": "data/AM/Լոռի",
+		"key": "Լոռի",
+		"lang": "hy",
+		"lname": "Lori",
+		"zip": "1[7-9]|2[01]",
+		"zipex": "1701,2117",
+		"isoid": "LO"
+	},
+	"data/AM/Վայոց ձոր": {
+		"id": "data/AM/Վայոց ձոր",
+		"key": "Վայոց ձոր",
+		"lang": "hy",
+		"lname": "Vayots Dzor",
+		"zip": "3[6-8]",
+		"zipex": "3601,3810",
+		"isoid": "VD"
+	},
+	"data/AM/Գեղարքունիք": {
+		"id": "data/AM/Գեղարքունիք",
+		"key": "Գեղարքունիք",
+		"lang": "hy",
+		"lname": "Gegharkunik",
+		"zip": "1[2-6]",
+		"zipex": "1201,1626",
+		"isoid": "GR"
+	},
+	"data/AM/Արմավիր": {
+		"id": "data/AM/Արմավիր",
+		"key": "Արմավիր",
+		"lang": "hy",
+		"lname": "Armavir",
+		"zip": "09|1[01]",
+		"zipex": "0901,1149",
+		"isoid": "AV"
+	},
+	"data/AM/Արագածոտն": {
+		"id": "data/AM/Արագածոտն",
+		"key": "Արագածոտն",
+		"lang": "hy",
+		"lname": "Aragatsotn",
+		"zip": "0[2-5]",
+		"zipex": "0201,0514",
+		"isoid": "AG"
+	},
+	"data/AM/Կոտայք": {
+		"id": "data/AM/Կոտայք",
+		"key": "Կոտայք",
+		"lang": "hy",
+		"lname": "Kotayk",
+		"zip": "2[2-5]",
+		"zipex": "2201,2506",
+		"isoid": "KT"
+	},
+	"data/AM": {
+		"id": "data/AM",
+		"key": "AM",
+		"name": "ARMENIA",
+		"lang": "hy",
+		"languages": "hy",
+		"fmt": "%N%n%O%n%A%n%Z%n%C%n%S",
+		"lfmt": "%N%n%O%n%A%n%Z%n%C%n%S",
+		"zip": "(?:37)?\\d{4}",
+		"zipex": "375010,0002,0010",
+		"sub_keys": "Արագածոտն~Արարատ~Արմավիր~Գեղարքունիք~Երևան~Լոռի~Կոտայք~Շիրակ~Սյունիք~Վայոց ձոր~Տավուշ",
+		"sub_lnames": "Aragatsotn~Ararat~Armavir~Gegharkunik~Yerevan~Lori~Kotayk~Shirak~Syunik~Vayots Dzor~Tavush",
+		"sub_zips": "0[2-5]~0[6-8]~09|1[01]~1[2-6]~00~1[7-9]|2[01]~2[2-5]~2[6-9]|3[01]~3[2-5]~3[6-8]~39|4[0-2]",
+		"sub_zipexs": "0201,0514~0601,0823~0901,1149~1201,1626~0000,0099~1701,2117~2201,2506~2601,3126~3201,3519~3601,3810~3901,4216",
+		"sub_isoids": "AG~AR~AV~GR~ER~LO~KT~SH~SU~VD~TV"
+	},
+	"data/AM/Սյունիք": {
+		"id": "data/AM/Սյունիք",
+		"key": "Սյունիք",
+		"lang": "hy",
+		"lname": "Syunik",
+		"zip": "3[2-5]",
+		"zipex": "3201,3519",
+		"isoid": "SU"
+	},
+	"data/AM/Տավուշ": {
+		"id": "data/AM/Տավուշ",
+		"key": "Տավուշ",
+		"lang": "hy",
+		"lname": "Tavush",
+		"zip": "39|4[0-2]",
+		"zipex": "3901,4216",
+		"isoid": "TV"
+	},
+	"data/AM/Շիրակ": {
+		"id": "data/AM/Շիրակ",
+		"key": "Շիրակ",
+		"lang": "hy",
+		"lname": "Shirak",
+		"zip": "2[6-9]|3[01]",
+		"zipex": "2601,3126",
+		"isoid": "SH"
+	},
+	"data/AM/Երևան": {
+		"id": "data/AM/Երևան",
+		"key": "Երևան",
+		"lang": "hy",
+		"lname": "Yerevan",
+		"zip": "00",
+		"zipex": "0000,0099",
+		"isoid": "ER"
+	}
+}

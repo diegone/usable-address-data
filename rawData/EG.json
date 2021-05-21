@@ -1,0 +1,261 @@
+{
+	"data/EG/الشرقية": {
+		"id": "data/EG/الشرقية",
+		"key": "الشرقية",
+		"lang": "ar",
+		"lname": "Ash Sharqia Governorate",
+		"zip": "44",
+		"zipex": "44000",
+		"isoid": "SHR"
+	},
+	"data/EG/البحر الأحمر": {
+		"id": "data/EG/البحر الأحمر",
+		"key": "البحر الأحمر",
+		"lang": "ar",
+		"lname": "Red Sea Governorate",
+		"zip": "84",
+		"zipex": "84000",
+		"isoid": "BA"
+	},
+	"data/EG/الإسكندرية": {
+		"id": "data/EG/الإسكندرية",
+		"key": "الإسكندرية",
+		"lang": "ar",
+		"lname": "Alexandria Governorate",
+		"zip": "2[13]",
+		"zipex": "21000,23000",
+		"isoid": "ALX"
+	},
+	"data/EG/الدقهلية": {
+		"id": "data/EG/الدقهلية",
+		"key": "الدقهلية",
+		"lang": "ar",
+		"lname": "Dakahlia Governorate",
+		"zip": "35",
+		"zipex": "35000",
+		"isoid": "DK"
+	},
+	"data/EG/جنوب سيناء": {
+		"id": "data/EG/جنوب سيناء",
+		"key": "جنوب سيناء",
+		"lang": "ar",
+		"lname": "South Sinai Governorate",
+		"zip": "46",
+		"zipex": "46000",
+		"isoid": "JS"
+	},
+	"data/EG/كفر الشيخ": {
+		"id": "data/EG/كفر الشيخ",
+		"key": "كفر الشيخ",
+		"lang": "ar",
+		"lname": "Kafr El Sheikh Governorate",
+		"zip": "33",
+		"zipex": "33000",
+		"isoid": "KFS"
+	},
+	"data/EG/الإسماعيلية": {
+		"id": "data/EG/الإسماعيلية",
+		"key": "الإسماعيلية",
+		"lang": "ar",
+		"lname": "Ismailia Governorate",
+		"zip": "41",
+		"zipex": "41000",
+		"isoid": "IS"
+	},
+	"data/EG/الجيزة": {
+		"id": "data/EG/الجيزة",
+		"key": "الجيزة",
+		"lang": "ar",
+		"lname": "Giza Governorate",
+		"zip": "12",
+		"zipex": "12000",
+		"isoid": "GZ"
+	},
+	"data/EG/مطروح": {
+		"id": "data/EG/مطروح",
+		"key": "مطروح",
+		"lang": "ar",
+		"lname": "Matrouh Governorate",
+		"zip": "51",
+		"zipex": "51000",
+		"isoid": "MT"
+	},
+	"data/EG/قنا": {
+		"id": "data/EG/قنا",
+		"key": "قنا",
+		"lang": "ar",
+		"lname": "Qena Governorate",
+		"zip": "83",
+		"zipex": "83000",
+		"isoid": "KN"
+	},
+	"data/EG/البحيرة": {
+		"id": "data/EG/البحيرة",
+		"key": "البحيرة",
+		"lang": "ar",
+		"lname": "El Beheira Governorate",
+		"zip": "22",
+		"zipex": "22000",
+		"isoid": "BH"
+	},
+	"data/EG/بني سويف": {
+		"id": "data/EG/بني سويف",
+		"key": "بني سويف",
+		"lang": "ar",
+		"lname": "Beni Suef Governorate",
+		"zip": "62",
+		"zipex": "62000",
+		"isoid": "BNS"
+	},
+	"data/EG/السويس": {
+		"id": "data/EG/السويس",
+		"key": "السويس",
+		"lang": "ar",
+		"lname": "Suez Governorate",
+		"zip": "43",
+		"zipex": "43000",
+		"isoid": "SUZ"
+	},
+	"data/EG/شمال سيناء": {
+		"id": "data/EG/شمال سيناء",
+		"key": "شمال سيناء",
+		"lang": "ar",
+		"lname": "North Sinai Governorate",
+		"zip": "45",
+		"zipex": "45000",
+		"isoid": "SIN"
+	},
+	"data/EG/المنيا": {
+		"id": "data/EG/المنيا",
+		"key": "المنيا",
+		"lang": "ar",
+		"lname": "Menia Governorate",
+		"zip": "61",
+		"zipex": "61000",
+		"isoid": "MN"
+	},
+	"data/EG/الفيوم": {
+		"id": "data/EG/الفيوم",
+		"key": "الفيوم",
+		"lang": "ar",
+		"lname": "Faiyum Governorate",
+		"zip": "63",
+		"zipex": "63000",
+		"isoid": "FYM"
+	},
+	"data/EG/المنوفية": {
+		"id": "data/EG/المنوفية",
+		"key": "المنوفية",
+		"lang": "ar",
+		"lname": "Menofia Governorate",
+		"zip": "32",
+		"zipex": "32000",
+		"isoid": "MNF"
+	},
+	"data/EG/القاهرة": {
+		"id": "data/EG/القاهرة",
+		"key": "القاهرة",
+		"lang": "ar",
+		"lname": "Cairo Governorate",
+		"zip": "11",
+		"zipex": "11000",
+		"isoid": "C"
+	},
+	"data/EG/الأقصر": {
+		"id": "data/EG/الأقصر",
+		"key": "الأقصر",
+		"lang": "ar",
+		"lname": "Luxor Governorate",
+		"zip": "85",
+		"zipex": "85000",
+		"isoid": "LX"
+	},
+	"data/EG": {
+		"id": "data/EG",
+		"key": "EG",
+		"name": "EGYPT",
+		"lang": "ar",
+		"languages": "ar",
+		"fmt": "%N%n%O%n%A%n%C%n%S%n%Z",
+		"lfmt": "%N%n%O%n%A%n%C%n%S%n%Z",
+		"zip": "\\d{5}",
+		"zipex": "12411,11599",
+		"sub_keys": "أسوان~أسيوط~الإسكندرية~الإسماعيلية~الأقصر~البحر الأحمر~البحيرة~الجيزة~الدقهلية~السويس~الشرقية~الغربية~الفيوم~القاهرة~القليوبية~المنوفية~المنيا~الوادي الجديد~بني سويف~بورسعيد~جنوب سيناء~دمياط~سوهاج~شمال سيناء~قنا~كفر الشيخ~مطروح",
+		"sub_lnames": "Aswan Governorate~Asyut Governorate~Alexandria Governorate~Ismailia Governorate~Luxor Governorate~Red Sea Governorate~El Beheira Governorate~Giza Governorate~Dakahlia Governorate~Suez Governorate~Ash Sharqia Governorate~Gharbia Governorate~Faiyum Governorate~Cairo Governorate~Qalyubia Governorate~Menofia Governorate~Menia Governorate~New Valley Governorate~Beni Suef Governorate~Port Said Governorate~South Sinai Governorate~Damietta Governorate~Sohag Governorate~North Sinai Governorate~Qena Governorate~Kafr El Sheikh Governorate~Matrouh Governorate",
+		"sub_zips": "81~71~2[13]~41~85~84~22~12~35~43~44~31~63~11~13~32~61~72~62~42~46~34~82~45~83~33~51",
+		"sub_zipexs": "81000~71000~21000,23000~41000~85000~84000~22000~12000~35000~43000~44000~31000~63000~11000~13000~32000~61000~72000~62000~42000~46000~34000~82000~45000~83000~33000~51000",
+		"sub_isoids": "ASN~AST~ALX~IS~LX~BA~BH~GZ~DK~SUZ~SHR~GH~FYM~C~KB~MNF~MN~WAD~BNS~PTS~JS~DT~SHG~SIN~KN~KFS~MT"
+	},
+	"data/EG/أسوان": {
+		"id": "data/EG/أسوان",
+		"key": "أسوان",
+		"lang": "ar",
+		"lname": "Aswan Governorate",
+		"zip": "81",
+		"zipex": "81000",
+		"isoid": "ASN"
+	},
+	"data/EG/الوادي الجديد": {
+		"id": "data/EG/الوادي الجديد",
+		"key": "الوادي الجديد",
+		"lang": "ar",
+		"lname": "New Valley Governorate",
+		"zip": "72",
+		"zipex": "72000",
+		"isoid": "WAD"
+	},
+	"data/EG/أسيوط": {
+		"id": "data/EG/أسيوط",
+		"key": "أسيوط",
+		"lang": "ar",
+		"lname": "Asyut Governorate",
+		"zip": "71",
+		"zipex": "71000",
+		"isoid": "AST"
+	},
+	"data/EG/دمياط": {
+		"id": "data/EG/دمياط",
+		"key": "دمياط",
+		"lang": "ar",
+		"lname": "Damietta Governorate",
+		"zip": "34",
+		"zipex": "34000",
+		"isoid": "DT"
+	},
+	"data/EG/بورسعيد": {
+		"id": "data/EG/بورسعيد",
+		"key": "بورسعيد",
+		"lang": "ar",
+		"lname": "Port Said Governorate",
+		"zip": "42",
+		"zipex": "42000",
+		"isoid": "PTS"
+	},
+	"data/EG/القليوبية": {
+		"id": "data/EG/القليوبية",
+		"key": "القليوبية",
+		"lang": "ar",
+		"lname": "Qalyubia Governorate",
+		"zip": "13",
+		"zipex": "13000",
+		"isoid": "KB"
+	},
+	"data/EG/الغربية": {
+		"id": "data/EG/الغربية",
+		"key": "الغربية",
+		"lang": "ar",
+		"lname": "Gharbia Governorate",
+		"zip": "31",
+		"zipex": "31000",
+		"isoid": "GH"
+	},
+	"data/EG/سوهاج": {
+		"id": "data/EG/سوهاج",
+		"key": "سوهاج",
+		"lang": "ar",
+		"lname": "Sohag Governorate",
+		"zip": "82",
+		"zipex": "82000",
+		"isoid": "SHG"
+	}
+}

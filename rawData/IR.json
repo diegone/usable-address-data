@@ -1,0 +1,233 @@
+{
+	"data/IR/استان گیلان": {
+		"id": "data/IR/استان گیلان",
+		"key": "استان گیلان",
+		"lang": "fa",
+		"lname": "Gilan Province",
+		"isoid": "01"
+	},
+	"data/IR/استان قزوین": {
+		"id": "data/IR/استان قزوین",
+		"key": "استان قزوین",
+		"lang": "fa",
+		"lname": "Qazvin Province",
+		"isoid": "26"
+	},
+	"data/IR/استان مازندران": {
+		"id": "data/IR/استان مازندران",
+		"key": "استان مازندران",
+		"lang": "fa",
+		"lname": "Mazandaran Province",
+		"isoid": "02"
+	},
+	"data/IR/استان مرکزی": {
+		"id": "data/IR/استان مرکزی",
+		"key": "استان مرکزی",
+		"lang": "fa",
+		"lname": "Markazi Province",
+		"isoid": "00"
+	},
+	"data/IR/استان کهگیلویه و بویراحمد": {
+		"id": "data/IR/استان کهگیلویه و بویراحمد",
+		"key": "استان کهگیلویه و بویراحمد",
+		"lang": "fa",
+		"lname": "Kohgiluyeh and Boyer-Ahmad Province",
+		"isoid": "17"
+	},
+	"data/IR/استان چهارمحال و بختیاری": {
+		"id": "data/IR/استان چهارمحال و بختیاری",
+		"key": "استان چهارمحال و بختیاری",
+		"lang": "fa",
+		"lname": "Chaharmahal and Bakhtiari Province",
+		"isoid": "14"
+	},
+	"data/IR/استان قم": {
+		"id": "data/IR/استان قم",
+		"key": "استان قم",
+		"lang": "fa",
+		"lname": "Qom Province",
+		"isoid": "25"
+	},
+	"data/IR/استان خراسان شمالی": {
+		"id": "data/IR/استان خراسان شمالی",
+		"key": "استان خراسان شمالی",
+		"lang": "fa",
+		"lname": "North Khorasan Province",
+		"isoid": "28"
+	},
+	"data/IR/استان خراسان رضوی": {
+		"id": "data/IR/استان خراسان رضوی",
+		"key": "استان خراسان رضوی",
+		"lang": "fa",
+		"lname": "Razavi Khorasan Province",
+		"isoid": "09"
+	},
+	"data/IR/استان تهران": {
+		"id": "data/IR/استان تهران",
+		"key": "استان تهران",
+		"lang": "fa",
+		"lname": "Tehran Province",
+		"isoid": "23"
+	},
+	"data/IR/استان خراسان جنوبی": {
+		"id": "data/IR/استان خراسان جنوبی",
+		"key": "استان خراسان جنوبی",
+		"lang": "fa",
+		"lname": "South Khorasan Province",
+		"isoid": "29"
+	},
+	"data/IR/استان گلستان": {
+		"id": "data/IR/استان گلستان",
+		"key": "استان گلستان",
+		"lang": "fa",
+		"lname": "Golestan Province",
+		"isoid": "27"
+	},
+	"data/IR/استان خوزستان": {
+		"id": "data/IR/استان خوزستان",
+		"key": "استان خوزستان",
+		"lang": "fa",
+		"lname": "Khuzestan Province",
+		"isoid": "06"
+	},
+	"data/IR/استان ایلام": {
+		"id": "data/IR/استان ایلام",
+		"key": "استان ایلام",
+		"lang": "fa",
+		"lname": "Ilam Province",
+		"isoid": "16"
+	},
+	"data/IR/استان اصفهان": {
+		"id": "data/IR/استان اصفهان",
+		"key": "استان اصفهان",
+		"lang": "fa",
+		"lname": "Isfahan Province",
+		"isoid": "10"
+	},
+	"data/IR/استان کردستان": {
+		"id": "data/IR/استان کردستان",
+		"key": "استان کردستان",
+		"lang": "fa",
+		"lname": "Kurdistan Province",
+		"isoid": "12"
+	},
+	"data/IR/استان فارس": {
+		"id": "data/IR/استان فارس",
+		"key": "استان فارس",
+		"lang": "fa",
+		"lname": "Fars Province",
+		"isoid": "07"
+	},
+	"data/IR/استان بوشهر": {
+		"id": "data/IR/استان بوشهر",
+		"key": "استان بوشهر",
+		"lang": "fa",
+		"lname": "Bushehr Province",
+		"isoid": "18"
+	},
+	"data/IR/استان زنجان": {
+		"id": "data/IR/استان زنجان",
+		"key": "استان زنجان",
+		"lang": "fa",
+		"lname": "Zanjan Province",
+		"isoid": "19"
+	},
+	"data/IR/استان کرمان": {
+		"id": "data/IR/استان کرمان",
+		"key": "استان کرمان",
+		"lang": "fa",
+		"lname": "Kerman Province",
+		"isoid": "08"
+	},
+	"data/IR/استان سیستان و بلوچستان": {
+		"id": "data/IR/استان سیستان و بلوچستان",
+		"key": "استان سیستان و بلوچستان",
+		"lang": "fa",
+		"lname": "Sistan and Baluchestan Province",
+		"isoid": "11"
+	},
+	"data/IR/استان یزد": {
+		"id": "data/IR/استان یزد",
+		"key": "استان یزد",
+		"lang": "fa",
+		"lname": "Yazd Province",
+		"isoid": "21"
+	},
+	"data/IR/استان آذربایجان غربی": {
+		"id": "data/IR/استان آذربایجان غربی",
+		"key": "استان آذربایجان غربی",
+		"lang": "fa",
+		"lname": "West Azerbaijan Province",
+		"isoid": "04"
+	},
+	"data/IR/استان کرمانشاه": {
+		"id": "data/IR/استان کرمانشاه",
+		"key": "استان کرمانشاه",
+		"lang": "fa",
+		"lname": "Kermanshah Province",
+		"isoid": "05"
+	},
+	"data/IR/استان هرمزگان": {
+		"id": "data/IR/استان هرمزگان",
+		"key": "استان هرمزگان",
+		"lang": "fa",
+		"lname": "Hormozgan Province",
+		"isoid": "22"
+	},
+	"data/IR/استان سمنان": {
+		"id": "data/IR/استان سمنان",
+		"key": "استان سمنان",
+		"lang": "fa",
+		"lname": "Semnan Province",
+		"isoid": "20"
+	},
+	"data/IR/استان لرستان": {
+		"id": "data/IR/استان لرستان",
+		"key": "استان لرستان",
+		"lang": "fa",
+		"lname": "Lorestan Province",
+		"isoid": "15"
+	},
+	"data/IR/استان همدان": {
+		"id": "data/IR/استان همدان",
+		"key": "استان همدان",
+		"lang": "fa",
+		"lname": "Hamadan Province",
+		"isoid": "13"
+	},
+	"data/IR": {
+		"id": "data/IR",
+		"key": "IR",
+		"name": "IRAN",
+		"lang": "fa",
+		"languages": "fa",
+		"fmt": "%O%n%N%n%S%n%C, %D%n%A%n%Z",
+		"zip": "\\d{5}-?\\d{5}",
+		"zipex": "11936-12345",
+		"sublocality_name_type": "neighborhood",
+		"sub_keys": "استان آذربایجان شرقی~استان آذربایجان غربی~استان اردبیل~استان اصفهان~استان البرز~استان ایلام~استان بوشهر~استان تهران~استان چهارمحال و بختیاری~استان خراسان جنوبی~استان خراسان رضوی~استان خراسان شمالی~استان خوزستان~استان زنجان~استان سمنان~استان سیستان و بلوچستان~استان فارس~استان قزوین~استان قم~استان کردستان~استان کرمان~استان کرمانشاه~استان کهگیلویه و بویراحمد~استان گلستان~استان گیلان~استان لرستان~استان مازندران~استان مرکزی~استان هرمزگان~استان همدان~استان یزد",
+		"sub_lnames": "East Azerbaijan Province~West Azerbaijan Province~Ardabil Province~Isfahan Province~Alborz Province~Ilam Province~Bushehr Province~Tehran Province~Chaharmahal and Bakhtiari Province~South Khorasan Province~Razavi Khorasan Province~North Khorasan Province~Khuzestan Province~Zanjan Province~Semnan Province~Sistan and Baluchestan Province~Fars Province~Qazvin Province~Qom Province~Kurdistan Province~Kerman Province~Kermanshah Province~Kohgiluyeh and Boyer-Ahmad Province~Golestan Province~Gilan Province~Lorestan Province~Mazandaran Province~Markazi Province~Hormozgan Province~Hamadan Province~Yazd Province",
+		"sub_isoids": "03~04~24~10~30~16~18~23~14~29~09~28~06~19~20~11~07~26~25~12~08~05~17~27~01~15~02~00~22~13~21"
+	},
+	"data/IR/استان اردبیل": {
+		"id": "data/IR/استان اردبیل",
+		"key": "استان اردبیل",
+		"lang": "fa",
+		"lname": "Ardabil Province",
+		"isoid": "24"
+	},
+	"data/IR/استان البرز": {
+		"id": "data/IR/استان البرز",
+		"key": "استان البرز",
+		"lang": "fa",
+		"lname": "Alborz Province",
+		"isoid": "30"
+	},
+	"data/IR/استان آذربایجان شرقی": {
+		"id": "data/IR/استان آذربایجان شرقی",
+		"key": "استان آذربایجان شرقی",
+		"lang": "fa",
+		"lname": "East Azerbaijan Province",
+		"isoid": "03"
+	}
+}

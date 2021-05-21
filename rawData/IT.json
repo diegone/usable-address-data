@@ -1,0 +1,875 @@
+{
+	"data/IT/BR": {
+		"id": "data/IT/BR",
+		"key": "BR",
+		"name": "Brindisi",
+		"lang": "it",
+		"zip": "72",
+		"isoid": "BR"
+	},
+	"data/IT/BA": {
+		"id": "data/IT/BA",
+		"key": "BA",
+		"name": "Bari",
+		"lang": "it",
+		"zip": "70",
+		"isoid": "BA"
+	},
+	"data/IT/MB": {
+		"id": "data/IT/MB",
+		"key": "MB",
+		"name": "Monza e Brianza",
+		"lang": "it",
+		"zip": "208|20900",
+		"isoid": "MB"
+	},
+	"data/IT/VE": {
+		"id": "data/IT/VE",
+		"key": "VE",
+		"name": "Venezia",
+		"lang": "it",
+		"zip": "30",
+		"isoid": "VE"
+	},
+	"data/IT/NO": {
+		"id": "data/IT/NO",
+		"key": "NO",
+		"name": "Novara",
+		"lang": "it",
+		"zip": "28[01]",
+		"isoid": "NO"
+	},
+	"data/IT/SP": {
+		"id": "data/IT/SP",
+		"key": "SP",
+		"name": "La Spezia",
+		"lang": "it",
+		"zip": "19",
+		"isoid": "SP"
+	},
+	"data/IT/BL": {
+		"id": "data/IT/BL",
+		"key": "BL",
+		"name": "Belluno",
+		"lang": "it",
+		"zip": "32",
+		"isoid": "BL"
+	},
+	"data/IT/MI": {
+		"id": "data/IT/MI",
+		"key": "MI",
+		"name": "Milano",
+		"lang": "it",
+		"zip": "20",
+		"isoid": "MI"
+	},
+	"data/IT/SO": {
+		"id": "data/IT/SO",
+		"key": "SO",
+		"name": "Sondrio",
+		"lang": "it",
+		"zip": "23[01]",
+		"isoid": "SO"
+	},
+	"data/IT/LI": {
+		"id": "data/IT/LI",
+		"key": "LI",
+		"name": "Livorno",
+		"lang": "it",
+		"zip": "57",
+		"isoid": "LI"
+	},
+	"data/IT/TV": {
+		"id": "data/IT/TV",
+		"key": "TV",
+		"name": "Treviso",
+		"lang": "it",
+		"zip": "31",
+		"isoid": "TV"
+	},
+	"data/IT/PR": {
+		"id": "data/IT/PR",
+		"key": "PR",
+		"name": "Parma",
+		"lang": "it",
+		"zip": "43",
+		"isoid": "PR"
+	},
+	"data/IT/FI": {
+		"id": "data/IT/FI",
+		"key": "FI",
+		"name": "Firenze",
+		"lang": "it",
+		"zip": "50",
+		"isoid": "FI"
+	},
+	"data/IT/AL": {
+		"id": "data/IT/AL",
+		"key": "AL",
+		"name": "Alessandria",
+		"lang": "it",
+		"zip": "15",
+		"isoid": "AL"
+	},
+	"data/IT/VI": {
+		"id": "data/IT/VI",
+		"key": "VI",
+		"name": "Vicenza",
+		"lang": "it",
+		"zip": "36",
+		"isoid": "VI"
+	},
+	"data/IT/MC": {
+		"id": "data/IT/MC",
+		"key": "MC",
+		"name": "Macerata",
+		"lang": "it",
+		"zip": "62",
+		"isoid": "MC"
+	},
+	"data/IT/TP": {
+		"id": "data/IT/TP",
+		"key": "TP",
+		"name": "Trapani",
+		"lang": "it",
+		"zip": "91",
+		"isoid": "TP"
+	},
+	"data/IT/RI": {
+		"id": "data/IT/RI",
+		"key": "RI",
+		"name": "Rieti",
+		"lang": "it",
+		"zip": "02",
+		"isoid": "RI"
+	},
+	"data/IT/AR": {
+		"id": "data/IT/AR",
+		"key": "AR",
+		"name": "Arezzo",
+		"lang": "it",
+		"zip": "52",
+		"isoid": "AR"
+	},
+	"data/IT/SR": {
+		"id": "data/IT/SR",
+		"key": "SR",
+		"name": "Siracusa",
+		"lang": "it",
+		"zip": "96",
+		"isoid": "SR"
+	},
+	"data/IT/CE": {
+		"id": "data/IT/CE",
+		"key": "CE",
+		"name": "Caserta",
+		"lang": "it",
+		"zip": "81",
+		"isoid": "CE"
+	},
+	"data/IT/RG": {
+		"id": "data/IT/RG",
+		"key": "RG",
+		"name": "Ragusa",
+		"lang": "it",
+		"zip": "97",
+		"isoid": "RG"
+	},
+	"data/IT/PA": {
+		"id": "data/IT/PA",
+		"key": "PA",
+		"name": "Palermo",
+		"lang": "it",
+		"zip": "90",
+		"isoid": "PA"
+	},
+	"data/IT/RN": {
+		"id": "data/IT/RN",
+		"key": "RN",
+		"name": "Rimini",
+		"lang": "it",
+		"zip": "47[89]",
+		"isoid": "RN"
+	},
+	"data/IT/FE": {
+		"id": "data/IT/FE",
+		"key": "FE",
+		"name": "Ferrara",
+		"lang": "it",
+		"zip": "44",
+		"isoid": "FE"
+	},
+	"data/IT/NU": {
+		"id": "data/IT/NU",
+		"key": "NU",
+		"name": "Nuoro",
+		"lang": "it",
+		"zip": "080[1-4]|08100",
+		"isoid": "NU"
+	},
+	"data/IT/PT": {
+		"id": "data/IT/PT",
+		"key": "PT",
+		"name": "Pistoia",
+		"lang": "it",
+		"zip": "51",
+		"isoid": "PT"
+	},
+	"data/IT/SS": {
+		"id": "data/IT/SS",
+		"key": "SS",
+		"name": "Sassari",
+		"lang": "it",
+		"zip": "07[01]|08020",
+		"isoid": "SS"
+	},
+	"data/IT/CS": {
+		"id": "data/IT/CS",
+		"key": "CS",
+		"name": "Cosenza",
+		"lang": "it",
+		"zip": "87",
+		"isoid": "CS"
+	},
+	"data/IT/ME": {
+		"id": "data/IT/ME",
+		"key": "ME",
+		"name": "Messina",
+		"lang": "it",
+		"zip": "98",
+		"isoid": "ME"
+	},
+	"data/IT/AV": {
+		"id": "data/IT/AV",
+		"key": "AV",
+		"name": "Avellino",
+		"lang": "it",
+		"zip": "83",
+		"isoid": "AV"
+	},
+	"data/IT/CL": {
+		"id": "data/IT/CL",
+		"key": "CL",
+		"name": "Caltanissetta",
+		"lang": "it",
+		"zip": "93",
+		"isoid": "CL"
+	},
+	"data/IT/VT": {
+		"id": "data/IT/VT",
+		"key": "VT",
+		"name": "Viterbo",
+		"lang": "it",
+		"zip": "01",
+		"isoid": "VT"
+	},
+	"data/IT/MS": {
+		"id": "data/IT/MS",
+		"key": "MS",
+		"name": "Massa-Carrara",
+		"lang": "it",
+		"zip": "54",
+		"isoid": "MS"
+	},
+	"data/IT/CN": {
+		"id": "data/IT/CN",
+		"key": "CN",
+		"name": "Cuneo",
+		"lang": "it",
+		"zip": "12|18025",
+		"isoid": "CN"
+	},
+	"data/IT/SA": {
+		"id": "data/IT/SA",
+		"key": "SA",
+		"name": "Salerno",
+		"lang": "it",
+		"zip": "84",
+		"isoid": "SA"
+	},
+	"data/IT/GR": {
+		"id": "data/IT/GR",
+		"key": "GR",
+		"name": "Grosseto",
+		"lang": "it",
+		"zip": "58",
+		"isoid": "GR"
+	},
+	"data/IT/OR": {
+		"id": "data/IT/OR",
+		"key": "OR",
+		"name": "Oristano",
+		"lang": "it",
+		"zip": "090[7-9]|09170|0801[039]|0803[04]",
+		"isoid": "OR"
+	},
+	"data/IT/LU": {
+		"id": "data/IT/LU",
+		"key": "LU",
+		"name": "Lucca",
+		"lang": "it",
+		"zip": "55",
+		"isoid": "LU"
+	},
+	"data/IT/GE": {
+		"id": "data/IT/GE",
+		"key": "GE",
+		"name": "Genova",
+		"lang": "it",
+		"zip": "16",
+		"isoid": "GE"
+	},
+	"data/IT/AT": {
+		"id": "data/IT/AT",
+		"key": "AT",
+		"name": "Asti",
+		"lang": "it",
+		"zip": "14",
+		"isoid": "AT"
+	},
+	"data/IT/CB": {
+		"id": "data/IT/CB",
+		"key": "CB",
+		"name": "Campobasso",
+		"lang": "it",
+		"zip": "860[1-4]|86100",
+		"isoid": "CB"
+	},
+	"data/IT/VV": {
+		"id": "data/IT/VV",
+		"key": "VV",
+		"name": "Vibo Valentia",
+		"lang": "it",
+		"zip": "89[89]",
+		"isoid": "VV"
+	},
+	"data/IT/AQ": {
+		"id": "data/IT/AQ",
+		"key": "AQ",
+		"name": "L'Aquila",
+		"lang": "it",
+		"zip": "67",
+		"isoid": "AQ"
+	},
+	"data/IT/CH": {
+		"id": "data/IT/CH",
+		"key": "CH",
+		"name": "Chieti",
+		"lang": "it",
+		"zip": "66",
+		"isoid": "CH"
+	},
+	"data/IT": {
+		"id": "data/IT",
+		"key": "IT",
+		"name": "ITALY",
+		"lang": "it",
+		"languages": "it",
+		"fmt": "%N%n%O%n%A%n%Z %C %S",
+		"require": "ACSZ",
+		"upper": "CS",
+		"zip": "\\d{5}",
+		"zipex": "00144,47037,39049",
+		"posturl": "http://www.poste.it/online/cercacap/",
+		"sub_keys": "AG~AL~AN~AO~AR~AP~AT~AV~BA~BT~BL~BN~BG~BI~BO~BZ~BS~BR~CA~CL~CB~CE~CT~CZ~CH~CO~CS~CR~KR~CN~EN~FM~FE~FI~FG~FC~FR~GE~GO~GR~IM~IS~AQ~SP~LT~LE~LC~LI~LO~LU~MC~MN~MS~MT~ME~MI~MO~MB~NA~NO~NU~OR~PD~PA~PR~PV~PG~PU~PE~PC~PI~PT~PN~PZ~PO~RG~RA~RC~RE~RI~RN~RM~RO~SA~SS~SV~SI~SR~SO~SU~TA~TE~TR~TO~TP~TN~TV~TS~UD~VA~VE~VB~VC~VR~VV~VI~VT",
+		"sub_names": "Agrigento~Alessandria~Ancona~Aosta~Arezzo~Ascoli Piceno~Asti~Avellino~Bari~Barletta-Andria-Trani~Belluno~Benevento~Bergamo~Biella~Bologna~Bolzano~Brescia~Brindisi~Cagliari~Caltanissetta~Campobasso~Caserta~Catania~Catanzaro~Chieti~Como~Cosenza~Cremona~Crotone~Cuneo~Enna~Fermo~Ferrara~Firenze~Foggia~Forlì-Cesena~Frosinone~Genova~Gorizia~Grosseto~Imperia~Isernia~L'Aquila~La Spezia~Latina~Lecce~Lecco~Livorno~Lodi~Lucca~Macerata~Mantova~Massa-Carrara~Matera~Messina~Milano~Modena~Monza e Brianza~Napoli~Novara~Nuoro~Oristano~Padova~Palermo~Parma~Pavia~Perugia~Pesaro e Urbino~Pescara~Piacenza~Pisa~Pistoia~Pordenone~Potenza~Prato~Ragusa~Ravenna~Reggio Calabria~Reggio Emilia~Rieti~Rimini~Roma~Rovigo~Salerno~Sassari~Savona~Siena~Siracusa~Sondrio~Sud Sardegna~Taranto~Teramo~Terni~Torino~Trapani~Trento~Treviso~Trieste~Udine~Varese~Venezia~Verbano-Cusio-Ossola~Vercelli~Verona~Vibo Valentia~Vicenza~Viterbo",
+		"sub_zips": "92~15~60~11~52~63~14~83~70~76[01]~32~82~24~13[89]~40~39~25~72~0912[1-9]|0913[0-4]|0901[0289]|0902[03468]|0903[0234]|0904|0803[035]|08043~93~860[1-4]|86100~81~95~88[01]~66~22~87~26[01]~88[89]~12|18025~94~638|63900~44~50~71~47[015]~03~16~34[01]7~58~18~860[7-9]|86170~67~19~04~73~23[89]~57~26[89]~55~62~46~54~75~98~20~41~208|20900~80~28[01]~080[1-4]|08100~090[7-9]|09170|0801[039]|0803[04]~35~90~43~27~06~61~65~29~56~51~330[7-9]|33170~85~59~97~48~89[01]~42~02~47[89]~00~45~84~07[01]|08020~17|12071~53~96~23[01]~090[1-5][0-9]|0906[0-6]|080[1-4]~74~64~05~10~91~38~31~3401|341[0-689]|34062~330[1-5]|33100~21~30~28[89]~13[01]~37~89[89]~36~01",
+		"sub_isoids": "AG~AL~AN~AO~AR~AP~AT~AV~BA~BT~BL~BN~BG~BI~BO~BZ~BS~BR~CA~CL~CB~CE~CT~CZ~CH~CO~CS~CR~KR~CN~EN~FM~FE~FI~FG~FC~FR~GE~GO~GR~IM~IS~AQ~SP~LT~LE~LC~LI~LO~LU~MC~MN~MS~MT~ME~MI~MO~MB~NA~NO~NU~OR~PD~PA~PR~PV~PG~PU~PE~PC~PI~PT~PN~PZ~PO~RG~RA~RC~RE~RI~RN~RM~RO~SA~SS~SV~SI~SR~SO~SU~TA~TE~TR~TO~TP~TN~TV~TS~UD~VA~VE~VB~VC~VR~VV~VI~VT"
+	},
+	"data/IT/LC": {
+		"id": "data/IT/LC",
+		"key": "LC",
+		"name": "Lecco",
+		"lang": "it",
+		"zip": "23[89]",
+		"isoid": "LC"
+	},
+	"data/IT/PO": {
+		"id": "data/IT/PO",
+		"key": "PO",
+		"name": "Prato",
+		"lang": "it",
+		"zip": "59",
+		"isoid": "PO"
+	},
+	"data/IT/SU": {
+		"id": "data/IT/SU",
+		"key": "SU",
+		"name": "Sud Sardegna",
+		"lang": "it",
+		"zip": "090[1-5][0-9]|0906[0-6]|080[1-4]",
+		"isoid": "SU"
+	},
+	"data/IT/PN": {
+		"id": "data/IT/PN",
+		"key": "PN",
+		"name": "Pordenone",
+		"lang": "it",
+		"zip": "330[7-9]|33170",
+		"isoid": "PN"
+	},
+	"data/IT/CO": {
+		"id": "data/IT/CO",
+		"key": "CO",
+		"name": "Como",
+		"lang": "it",
+		"zip": "22",
+		"isoid": "CO"
+	},
+	"data/IT/RM": {
+		"id": "data/IT/RM",
+		"key": "RM",
+		"name": "Roma",
+		"lang": "it",
+		"zip": "00",
+		"isoid": "RM"
+	},
+	"data/IT/PI": {
+		"id": "data/IT/PI",
+		"key": "PI",
+		"name": "Pisa",
+		"lang": "it",
+		"zip": "56",
+		"isoid": "PI"
+	},
+	"data/IT/PV": {
+		"id": "data/IT/PV",
+		"key": "PV",
+		"name": "Pavia",
+		"lang": "it",
+		"zip": "27",
+		"isoid": "PV"
+	},
+	"data/IT/RA": {
+		"id": "data/IT/RA",
+		"key": "RA",
+		"name": "Ravenna",
+		"lang": "it",
+		"zip": "48",
+		"isoid": "RA"
+	},
+	"data/IT/IM": {
+		"id": "data/IT/IM",
+		"key": "IM",
+		"name": "Imperia",
+		"lang": "it",
+		"zip": "18",
+		"isoid": "IM"
+	},
+	"data/IT/AG": {
+		"id": "data/IT/AG",
+		"key": "AG",
+		"name": "Agrigento",
+		"lang": "it",
+		"zip": "92",
+		"isoid": "AG"
+	},
+	"data/IT/TE": {
+		"id": "data/IT/TE",
+		"key": "TE",
+		"name": "Teramo",
+		"lang": "it",
+		"zip": "64",
+		"isoid": "TE"
+	},
+	"data/IT/BS": {
+		"id": "data/IT/BS",
+		"key": "BS",
+		"name": "Brescia",
+		"lang": "it",
+		"zip": "25",
+		"isoid": "BS"
+	},
+	"data/IT/FG": {
+		"id": "data/IT/FG",
+		"key": "FG",
+		"name": "Foggia",
+		"lang": "it",
+		"zip": "71",
+		"isoid": "FG"
+	},
+	"data/IT/PU": {
+		"id": "data/IT/PU",
+		"key": "PU",
+		"name": "Pesaro e Urbino",
+		"lang": "it",
+		"zip": "61",
+		"isoid": "PU"
+	},
+	"data/IT/RO": {
+		"id": "data/IT/RO",
+		"key": "RO",
+		"name": "Rovigo",
+		"lang": "it",
+		"zip": "45",
+		"isoid": "RO"
+	},
+	"data/IT/BO": {
+		"id": "data/IT/BO",
+		"key": "BO",
+		"name": "Bologna",
+		"lang": "it",
+		"zip": "40",
+		"isoid": "BO"
+	},
+	"data/IT/VC": {
+		"id": "data/IT/VC",
+		"key": "VC",
+		"name": "Vercelli",
+		"lang": "it",
+		"zip": "13[01]",
+		"isoid": "VC"
+	},
+	"data/IT/FR": {
+		"id": "data/IT/FR",
+		"key": "FR",
+		"name": "Frosinone",
+		"lang": "it",
+		"zip": "03",
+		"isoid": "FR"
+	},
+	"data/IT/EN": {
+		"id": "data/IT/EN",
+		"key": "EN",
+		"name": "Enna",
+		"lang": "it",
+		"zip": "94",
+		"isoid": "EN"
+	},
+	"data/IT/VA": {
+		"id": "data/IT/VA",
+		"key": "VA",
+		"name": "Varese",
+		"lang": "it",
+		"zip": "21",
+		"isoid": "VA"
+	},
+	"data/IT/BN": {
+		"id": "data/IT/BN",
+		"key": "BN",
+		"name": "Benevento",
+		"lang": "it",
+		"zip": "82",
+		"isoid": "BN"
+	},
+	"data/IT/VR": {
+		"id": "data/IT/VR",
+		"key": "VR",
+		"name": "Verona",
+		"lang": "it",
+		"zip": "37",
+		"isoid": "VR"
+	},
+	"data/IT/AP": {
+		"id": "data/IT/AP",
+		"key": "AP",
+		"name": "Ascoli Piceno",
+		"lang": "it",
+		"zip": "63",
+		"isoid": "AP"
+	},
+	"data/IT/RC": {
+		"id": "data/IT/RC",
+		"key": "RC",
+		"name": "Reggio Calabria",
+		"lang": "it",
+		"zip": "89[01]",
+		"isoid": "RC"
+	},
+	"data/IT/RE": {
+		"id": "data/IT/RE",
+		"key": "RE",
+		"name": "Reggio Emilia",
+		"lang": "it",
+		"zip": "42",
+		"isoid": "RE"
+	},
+	"data/IT/PE": {
+		"id": "data/IT/PE",
+		"key": "PE",
+		"name": "Pescara",
+		"lang": "it",
+		"zip": "65",
+		"isoid": "PE"
+	},
+	"data/IT/CA": {
+		"id": "data/IT/CA",
+		"key": "CA",
+		"name": "Cagliari",
+		"lang": "it",
+		"zip": "0912[1-9]|0913[0-4]|0901[0289]|0902[03468]|0903[0234]|0904|0803[035]|08043",
+		"isoid": "CA"
+	},
+	"data/IT/CZ": {
+		"id": "data/IT/CZ",
+		"key": "CZ",
+		"name": "Catanzaro",
+		"lang": "it",
+		"zip": "88[01]",
+		"isoid": "CZ"
+	},
+	"data/IT/KR": {
+		"id": "data/IT/KR",
+		"key": "KR",
+		"name": "Crotone",
+		"lang": "it",
+		"zip": "88[89]",
+		"isoid": "KR"
+	},
+	"data/IT/FM": {
+		"id": "data/IT/FM",
+		"key": "FM",
+		"name": "Fermo",
+		"lang": "it",
+		"zip": "638|63900",
+		"isoid": "FM"
+	},
+	"data/IT/AO": {
+		"id": "data/IT/AO",
+		"key": "AO",
+		"name": "Aosta",
+		"lang": "it",
+		"zip": "11",
+		"isoid": "AO"
+	},
+	"data/IT/TA": {
+		"id": "data/IT/TA",
+		"key": "TA",
+		"name": "Taranto",
+		"lang": "it",
+		"zip": "74",
+		"isoid": "TA"
+	},
+	"data/IT/BZ": {
+		"id": "data/IT/BZ",
+		"key": "BZ",
+		"name": "Bolzano",
+		"lang": "it",
+		"zip": "39",
+		"isoid": "BZ"
+	},
+	"data/IT/PC": {
+		"id": "data/IT/PC",
+		"key": "PC",
+		"name": "Piacenza",
+		"lang": "it",
+		"zip": "29",
+		"isoid": "PC"
+	},
+	"data/IT/SV": {
+		"id": "data/IT/SV",
+		"key": "SV",
+		"name": "Savona",
+		"lang": "it",
+		"zip": "17|12071",
+		"isoid": "SV"
+	},
+	"data/IT/CT": {
+		"id": "data/IT/CT",
+		"key": "CT",
+		"name": "Catania",
+		"lang": "it",
+		"zip": "95",
+		"isoid": "CT"
+	},
+	"data/IT/PD": {
+		"id": "data/IT/PD",
+		"key": "PD",
+		"name": "Padova",
+		"lang": "it",
+		"zip": "35",
+		"isoid": "PD"
+	},
+	"data/IT/AN": {
+		"id": "data/IT/AN",
+		"key": "AN",
+		"name": "Ancona",
+		"lang": "it",
+		"zip": "60",
+		"isoid": "AN"
+	},
+	"data/IT/BG": {
+		"id": "data/IT/BG",
+		"key": "BG",
+		"name": "Bergamo",
+		"lang": "it",
+		"zip": "24",
+		"isoid": "BG"
+	},
+	"data/IT/NA": {
+		"id": "data/IT/NA",
+		"key": "NA",
+		"name": "Napoli",
+		"lang": "it",
+		"zip": "80",
+		"isoid": "NA"
+	},
+	"data/IT/PG": {
+		"id": "data/IT/PG",
+		"key": "PG",
+		"name": "Perugia",
+		"lang": "it",
+		"zip": "06",
+		"isoid": "PG"
+	},
+	"data/IT/MT": {
+		"id": "data/IT/MT",
+		"key": "MT",
+		"name": "Matera",
+		"lang": "it",
+		"zip": "75",
+		"isoid": "MT"
+	},
+	"data/IT/VB": {
+		"id": "data/IT/VB",
+		"key": "VB",
+		"name": "Verbano-Cusio-Ossola",
+		"lang": "it",
+		"zip": "28[89]",
+		"isoid": "VB"
+	},
+	"data/IT/PZ": {
+		"id": "data/IT/PZ",
+		"key": "PZ",
+		"name": "Potenza",
+		"lang": "it",
+		"zip": "85",
+		"isoid": "PZ"
+	},
+	"data/IT/TS": {
+		"id": "data/IT/TS",
+		"key": "TS",
+		"name": "Trieste",
+		"lang": "it",
+		"zip": "3401|341[0-689]|34062",
+		"isoid": "TS"
+	},
+	"data/IT/MN": {
+		"id": "data/IT/MN",
+		"key": "MN",
+		"name": "Mantova",
+		"lang": "it",
+		"zip": "46",
+		"isoid": "MN"
+	},
+	"data/IT/CR": {
+		"id": "data/IT/CR",
+		"key": "CR",
+		"name": "Cremona",
+		"lang": "it",
+		"zip": "26[01]",
+		"isoid": "CR"
+	},
+	"data/IT/UD": {
+		"id": "data/IT/UD",
+		"key": "UD",
+		"name": "Udine",
+		"lang": "it",
+		"zip": "330[1-5]|33100",
+		"isoid": "UD"
+	},
+	"data/IT/TR": {
+		"id": "data/IT/TR",
+		"key": "TR",
+		"name": "Terni",
+		"lang": "it",
+		"zip": "05",
+		"isoid": "TR"
+	},
+	"data/IT/FC": {
+		"id": "data/IT/FC",
+		"key": "FC",
+		"name": "Forlì-Cesena",
+		"lang": "it",
+		"zip": "47[015]",
+		"isoid": "FC"
+	},
+	"data/IT/TN": {
+		"id": "data/IT/TN",
+		"key": "TN",
+		"name": "Trento",
+		"lang": "it",
+		"zip": "38",
+		"isoid": "TN"
+	},
+	"data/IT/GO": {
+		"id": "data/IT/GO",
+		"key": "GO",
+		"name": "Gorizia",
+		"lang": "it",
+		"zip": "34[01]7",
+		"isoid": "GO"
+	},
+	"data/IT/BT": {
+		"id": "data/IT/BT",
+		"key": "BT",
+		"name": "Barletta-Andria-Trani",
+		"lang": "it",
+		"zip": "76[01]",
+		"isoid": "BT"
+	},
+	"data/IT/LE": {
+		"id": "data/IT/LE",
+		"key": "LE",
+		"name": "Lecce",
+		"lang": "it",
+		"zip": "73",
+		"isoid": "LE"
+	},
+	"data/IT/TO": {
+		"id": "data/IT/TO",
+		"key": "TO",
+		"name": "Torino",
+		"lang": "it",
+		"zip": "10",
+		"isoid": "TO"
+	},
+	"data/IT/LO": {
+		"id": "data/IT/LO",
+		"key": "LO",
+		"name": "Lodi",
+		"lang": "it",
+		"zip": "26[89]",
+		"isoid": "LO"
+	},
+	"data/IT/LT": {
+		"id": "data/IT/LT",
+		"key": "LT",
+		"name": "Latina",
+		"lang": "it",
+		"zip": "04",
+		"isoid": "LT"
+	},
+	"data/IT/SI": {
+		"id": "data/IT/SI",
+		"key": "SI",
+		"name": "Siena",
+		"lang": "it",
+		"zip": "53",
+		"isoid": "SI"
+	},
+	"data/IT/MO": {
+		"id": "data/IT/MO",
+		"key": "MO",
+		"name": "Modena",
+		"lang": "it",
+		"zip": "41",
+		"isoid": "MO"
+	},
+	"data/IT/BI": {
+		"id": "data/IT/BI",
+		"key": "BI",
+		"name": "Biella",
+		"lang": "it",
+		"zip": "13[89]",
+		"isoid": "BI"
+	},
+	"data/IT/IS": {
+		"id": "data/IT/IS",
+		"key": "IS",
+		"name": "Isernia",
+		"lang": "it",
+		"zip": "860[7-9]|86170",
+		"isoid": "IS"
+	}
+}

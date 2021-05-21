@@ -1,0 +1,172 @@
+{
+	"data/PE/Pasco": {
+		"id": "data/PE/Pasco",
+		"key": "Pasco",
+		"lang": "es",
+		"isoid": "PAS"
+	},
+	"data/PE/Ica": {
+		"id": "data/PE/Ica",
+		"key": "Ica",
+		"lang": "es",
+		"isoid": "ICA"
+	},
+	"data/PE/Amazonas": {
+		"id": "data/PE/Amazonas",
+		"key": "Amazonas",
+		"lang": "es",
+		"isoid": "AMA"
+	},
+	"data/PE/Moquegua": {
+		"id": "data/PE/Moquegua",
+		"key": "Moquegua",
+		"lang": "es",
+		"isoid": "MOQ"
+	},
+	"data/PE/Puno": {
+		"id": "data/PE/Puno",
+		"key": "Puno",
+		"lang": "es",
+		"isoid": "PUN"
+	},
+	"data/PE/Piura": {
+		"id": "data/PE/Piura",
+		"key": "Piura",
+		"lang": "es",
+		"isoid": "PIU"
+	},
+	"data/PE/Apurímac": {
+		"id": "data/PE/Apurímac",
+		"key": "Apurímac",
+		"lang": "es",
+		"isoid": "APU"
+	},
+	"data/PE": {
+		"id": "data/PE",
+		"key": "PE",
+		"name": "PERU",
+		"lang": "es",
+		"languages": "es",
+		"fmt": "%N%n%O%n%A%n%C %Z%n%S",
+		"zip": "(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4}",
+		"zipex": "LIMA 23,LIMA 42,CALLAO 2,02001",
+		"posturl": "http://www.serpost.com.pe/cpostal/codigo",
+		"locality_name_type": "district",
+		"sub_keys": "Amazonas~Áncash~Apurímac~Arequipa~Ayacucho~Cajamarca~Callao~Cuzco~Gobierno Regional de Lima~Huancavelica~Huánuco~Ica~Junín~La Libertad~Lambayeque~Loreto~Madre de Dios~Moquegua~Municipalidad Metropolitana de Lima~Pasco~Piura~Puno~San Martín~Tacna~Tumbes~Ucayali",
+		"sub_isoids": "AMA~ANC~APU~ARE~AYA~CAJ~CAL~CUS~LIM~HUV~HUC~ICA~JUN~LAL~LAM~LOR~MDD~MOQ~LMA~PAS~PIU~PUN~SAM~TAC~TUM~UCA"
+	},
+	"data/PE/Loreto": {
+		"id": "data/PE/Loreto",
+		"key": "Loreto",
+		"lang": "es",
+		"isoid": "LOR"
+	},
+	"data/PE/San Martín": {
+		"id": "data/PE/San Martín",
+		"key": "San Martín",
+		"lang": "es",
+		"isoid": "SAM"
+	},
+	"data/PE/Junín": {
+		"id": "data/PE/Junín",
+		"key": "Junín",
+		"lang": "es",
+		"isoid": "JUN"
+	},
+	"data/PE/Ayacucho": {
+		"id": "data/PE/Ayacucho",
+		"key": "Ayacucho",
+		"lang": "es",
+		"isoid": "AYA"
+	},
+	"data/PE/Municipalidad Metropolitana de Lima": {
+		"id": "data/PE/Municipalidad Metropolitana de Lima",
+		"key": "Municipalidad Metropolitana de Lima",
+		"lang": "es",
+		"isoid": "LMA"
+	},
+	"data/PE/Áncash": {
+		"id": "data/PE/Áncash",
+		"key": "Áncash",
+		"lang": "es",
+		"isoid": "ANC"
+	},
+	"data/PE/Ucayali": {
+		"id": "data/PE/Ucayali",
+		"key": "Ucayali",
+		"lang": "es",
+		"isoid": "UCA"
+	},
+	"data/PE/Cuzco": {
+		"id": "data/PE/Cuzco",
+		"key": "Cuzco",
+		"lang": "es",
+		"isoid": "CUS"
+	},
+	"data/PE/Lambayeque": {
+		"id": "data/PE/Lambayeque",
+		"key": "Lambayeque",
+		"lang": "es",
+		"isoid": "LAM"
+	},
+	"data/PE/Huancavelica": {
+		"id": "data/PE/Huancavelica",
+		"key": "Huancavelica",
+		"lang": "es",
+		"isoid": "HUV"
+	},
+	"data/PE/Huánuco": {
+		"id": "data/PE/Huánuco",
+		"key": "Huánuco",
+		"lang": "es",
+		"isoid": "HUC"
+	},
+	"data/PE/Arequipa": {
+		"id": "data/PE/Arequipa",
+		"key": "Arequipa",
+		"lang": "es",
+		"isoid": "ARE"
+	},
+	"data/PE/Madre de Dios": {
+		"id": "data/PE/Madre de Dios",
+		"key": "Madre de Dios",
+		"lang": "es",
+		"isoid": "MDD"
+	},
+	"data/PE/La Libertad": {
+		"id": "data/PE/La Libertad",
+		"key": "La Libertad",
+		"lang": "es",
+		"isoid": "LAL"
+	},
+	"data/PE/Cajamarca": {
+		"id": "data/PE/Cajamarca",
+		"key": "Cajamarca",
+		"lang": "es",
+		"isoid": "CAJ"
+	},
+	"data/PE/Tumbes": {
+		"id": "data/PE/Tumbes",
+		"key": "Tumbes",
+		"lang": "es",
+		"isoid": "TUM"
+	},
+	"data/PE/Gobierno Regional de Lima": {
+		"id": "data/PE/Gobierno Regional de Lima",
+		"key": "Gobierno Regional de Lima",
+		"lang": "es",
+		"isoid": "LIM"
+	},
+	"data/PE/Callao": {
+		"id": "data/PE/Callao",
+		"key": "Callao",
+		"lang": "es",
+		"isoid": "CAL"
+	},
+	"data/PE/Tacna": {
+		"id": "data/PE/Tacna",
+		"key": "Tacna",
+		"lang": "es",
+		"isoid": "TAC"
+	}
+}

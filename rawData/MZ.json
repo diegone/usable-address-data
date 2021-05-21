@@ -1,0 +1,80 @@
+{
+	"data/MZ/Cabo Delgado": {
+		"id": "data/MZ/Cabo Delgado",
+		"key": "Cabo Delgado",
+		"lang": "pt",
+		"isoid": "P"
+	},
+	"data/MZ/Tete": {
+		"id": "data/MZ/Tete",
+		"key": "Tete",
+		"lang": "pt",
+		"isoid": "T"
+	},
+	"data/MZ/Gaza": {
+		"id": "data/MZ/Gaza",
+		"key": "Gaza",
+		"lang": "pt",
+		"isoid": "G"
+	},
+	"data/MZ/Niassa": {
+		"id": "data/MZ/Niassa",
+		"key": "Niassa",
+		"lang": "pt",
+		"isoid": "A"
+	},
+	"data/MZ": {
+		"id": "data/MZ",
+		"key": "MZ",
+		"name": "MOZAMBIQUE",
+		"lang": "pt",
+		"languages": "pt",
+		"fmt": "%N%n%O%n%A%n%Z %C%S",
+		"zip": "\\d{4}",
+		"zipex": "1102,1119,3212",
+		"sub_keys": "Cabo Delgado~Cidade de Maputo~Gaza~Inhambane~Manica~Maputo~Nampula~Niassa~Sofala~Tete~Zambezia",
+		"sub_isoids": "P~MPM~G~I~B~L~N~A~S~T~Q"
+	},
+	"data/MZ/Nampula": {
+		"id": "data/MZ/Nampula",
+		"key": "Nampula",
+		"lang": "pt",
+		"isoid": "N"
+	},
+	"data/MZ/Maputo": {
+		"id": "data/MZ/Maputo",
+		"key": "Maputo",
+		"lang": "pt",
+		"isoid": "L"
+	},
+	"data/MZ/Sofala": {
+		"id": "data/MZ/Sofala",
+		"key": "Sofala",
+		"lang": "pt",
+		"isoid": "S"
+	},
+	"data/MZ/Inhambane": {
+		"id": "data/MZ/Inhambane",
+		"key": "Inhambane",
+		"lang": "pt",
+		"isoid": "I"
+	},
+	"data/MZ/Manica": {
+		"id": "data/MZ/Manica",
+		"key": "Manica",
+		"lang": "pt",
+		"isoid": "B"
+	},
+	"data/MZ/Zambezia": {
+		"id": "data/MZ/Zambezia",
+		"key": "Zambezia",
+		"lang": "pt",
+		"isoid": "Q"
+	},
+	"data/MZ/Cidade de Maputo": {
+		"id": "data/MZ/Cidade de Maputo",
+		"key": "Cidade de Maputo",
+		"lang": "pt",
+		"isoid": "MPM"
+	}
+}

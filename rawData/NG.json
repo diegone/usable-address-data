@@ -1,0 +1,239 @@
+{
+	"data/NG/Benue": {
+		"id": "data/NG/Benue",
+		"key": "Benue",
+		"lang": "en",
+		"isoid": "BE"
+	},
+	"data/NG/Taraba": {
+		"id": "data/NG/Taraba",
+		"key": "Taraba",
+		"lang": "en",
+		"isoid": "TA"
+	},
+	"data/NG/Delta": {
+		"id": "data/NG/Delta",
+		"key": "Delta",
+		"lang": "en",
+		"isoid": "DE"
+	},
+	"data/NG/Federal Capital Territory": {
+		"id": "data/NG/Federal Capital Territory",
+		"key": "Federal Capital Territory",
+		"lang": "en",
+		"isoid": "FC"
+	},
+	"data/NG/Oyo": {
+		"id": "data/NG/Oyo",
+		"key": "Oyo",
+		"lang": "en",
+		"isoid": "OY"
+	},
+	"data/NG/Kaduna": {
+		"id": "data/NG/Kaduna",
+		"key": "Kaduna",
+		"lang": "en",
+		"isoid": "KD"
+	},
+	"data/NG/Enugu": {
+		"id": "data/NG/Enugu",
+		"key": "Enugu",
+		"lang": "en",
+		"isoid": "EN"
+	},
+	"data/NG/Ogun State": {
+		"id": "data/NG/Ogun State",
+		"key": "Ogun State",
+		"lang": "en",
+		"isoid": "OG"
+	},
+	"data/NG/Adamawa": {
+		"id": "data/NG/Adamawa",
+		"key": "Adamawa",
+		"lang": "en",
+		"isoid": "AD"
+	},
+	"data/NG/Jigawa": {
+		"id": "data/NG/Jigawa",
+		"key": "Jigawa",
+		"lang": "en",
+		"isoid": "JI"
+	},
+	"data/NG/Cross River": {
+		"id": "data/NG/Cross River",
+		"key": "Cross River",
+		"lang": "en",
+		"isoid": "CR"
+	},
+	"data/NG/Anambra": {
+		"id": "data/NG/Anambra",
+		"key": "Anambra",
+		"lang": "en",
+		"isoid": "AN"
+	},
+	"data/NG/Gombe": {
+		"id": "data/NG/Gombe",
+		"key": "Gombe",
+		"lang": "en",
+		"isoid": "GO"
+	},
+	"data/NG/Plateau": {
+		"id": "data/NG/Plateau",
+		"key": "Plateau",
+		"lang": "en",
+		"isoid": "PL"
+	},
+	"data/NG": {
+		"id": "data/NG",
+		"key": "NG",
+		"name": "NIGERIA",
+		"lang": "en",
+		"languages": "en",
+		"fmt": "%N%n%O%n%A%n%D%n%C %Z%n%S",
+		"upper": "CS",
+		"zip": "\\d{6}",
+		"zipex": "930283,300001,931104",
+		"posturl": "http://www.nigeriapostcodes.com/",
+		"state_name_type": "state",
+		"sub_keys": "Abia~Adamawa~Akwa Ibom~Anambra~Bauchi~Bayelsa~Benue~Borno~Cross River~Delta~Ebonyi~Edo~Ekiti~Enugu~Federal Capital Territory~Gombe~Imo~Jigawa~Kaduna~Kano~Katsina~Kebbi~Kogi~Kwara~Lagos~Nasarawa~Niger~Ogun State~Ondo~Osun~Oyo~Plateau~Rivers~Sokoto~Taraba~Yobe~Zamfara",
+		"sub_isoids": "AB~AD~AK~AN~BA~BY~BE~BO~CR~DE~EB~ED~EK~EN~FC~GO~IM~JI~KD~KN~KT~KE~KO~KW~LA~NA~NI~OG~ON~OS~OY~PL~RI~SO~TA~YO~ZA"
+	},
+	"data/NG/Zamfara": {
+		"id": "data/NG/Zamfara",
+		"key": "Zamfara",
+		"lang": "en",
+		"isoid": "ZA"
+	},
+	"data/NG/Rivers": {
+		"id": "data/NG/Rivers",
+		"key": "Rivers",
+		"lang": "en",
+		"isoid": "RI"
+	},
+	"data/NG/Kogi": {
+		"id": "data/NG/Kogi",
+		"key": "Kogi",
+		"lang": "en",
+		"isoid": "KO"
+	},
+	"data/NG/Kwara": {
+		"id": "data/NG/Kwara",
+		"key": "Kwara",
+		"lang": "en",
+		"isoid": "KW"
+	},
+	"data/NG/Sokoto": {
+		"id": "data/NG/Sokoto",
+		"key": "Sokoto",
+		"lang": "en",
+		"isoid": "SO"
+	},
+	"data/NG/Edo": {
+		"id": "data/NG/Edo",
+		"key": "Edo",
+		"lang": "en",
+		"isoid": "ED"
+	},
+	"data/NG/Bayelsa": {
+		"id": "data/NG/Bayelsa",
+		"key": "Bayelsa",
+		"lang": "en",
+		"isoid": "BY"
+	},
+	"data/NG/Lagos": {
+		"id": "data/NG/Lagos",
+		"key": "Lagos",
+		"lang": "en",
+		"isoid": "LA"
+	},
+	"data/NG/Niger": {
+		"id": "data/NG/Niger",
+		"key": "Niger",
+		"lang": "en",
+		"isoid": "NI"
+	},
+	"data/NG/Akwa Ibom": {
+		"id": "data/NG/Akwa Ibom",
+		"key": "Akwa Ibom",
+		"lang": "en",
+		"isoid": "AK"
+	},
+	"data/NG/Osun": {
+		"id": "data/NG/Osun",
+		"key": "Osun",
+		"lang": "en",
+		"isoid": "OS"
+	},
+	"data/NG/Abia": {
+		"id": "data/NG/Abia",
+		"key": "Abia",
+		"lang": "en",
+		"isoid": "AB"
+	},
+	"data/NG/Nasarawa": {
+		"id": "data/NG/Nasarawa",
+		"key": "Nasarawa",
+		"lang": "en",
+		"isoid": "NA"
+	},
+	"data/NG/Kebbi": {
+		"id": "data/NG/Kebbi",
+		"key": "Kebbi",
+		"lang": "en",
+		"isoid": "KE"
+	},
+	"data/NG/Ekiti": {
+		"id": "data/NG/Ekiti",
+		"key": "Ekiti",
+		"lang": "en",
+		"isoid": "EK"
+	},
+	"data/NG/Ebonyi": {
+		"id": "data/NG/Ebonyi",
+		"key": "Ebonyi",
+		"lang": "en",
+		"isoid": "EB"
+	},
+	"data/NG/Kano": {
+		"id": "data/NG/Kano",
+		"key": "Kano",
+		"lang": "en",
+		"isoid": "KN"
+	},
+	"data/NG/Bauchi": {
+		"id": "data/NG/Bauchi",
+		"key": "Bauchi",
+		"lang": "en",
+		"isoid": "BA"
+	},
+	"data/NG/Borno": {
+		"id": "data/NG/Borno",
+		"key": "Borno",
+		"lang": "en",
+		"isoid": "BO"
+	},
+	"data/NG/Imo": {
+		"id": "data/NG/Imo",
+		"key": "Imo",
+		"lang": "en",
+		"isoid": "IM"
+	},
+	"data/NG/Katsina": {
+		"id": "data/NG/Katsina",
+		"key": "Katsina",
+		"lang": "en",
+		"isoid": "KT"
+	},
+	"data/NG/Ondo": {
+		"id": "data/NG/Ondo",
+		"key": "Ondo",
+		"lang": "en",
+		"isoid": "ON"
+	},
+	"data/NG/Yobe": {
+		"id": "data/NG/Yobe",
+		"key": "Yobe",
+		"lang": "en",
+		"isoid": "YO"
+	}
+}

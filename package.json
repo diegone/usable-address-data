@@ -1,0 +1,23 @@
+{
+  "name": "usable-address-data",
+  "version": "1.0.0",
+  "description": "Static usable snapshots of Chromium Postal Address data.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegone/usable-address-data.git"
+  },
+  "author": "Diego Lagunas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegone/usable-address-data/issues"
+  },
+  "homepage": "https://github.com/diegone/usable-address-data#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

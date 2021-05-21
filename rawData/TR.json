@@ -1,0 +1,585 @@
+{
+	"data/TR/Şırnak": {
+		"id": "data/TR/Şırnak",
+		"key": "Şırnak",
+		"lang": "tr",
+		"zip": "73",
+		"isoid": "73"
+	},
+	"data/TR/Van": {
+		"id": "data/TR/Van",
+		"key": "Van",
+		"lang": "tr",
+		"zip": "65",
+		"isoid": "65"
+	},
+	"data/TR/Ardahan": {
+		"id": "data/TR/Ardahan",
+		"key": "Ardahan",
+		"lang": "tr",
+		"zip": "75",
+		"isoid": "75"
+	},
+	"data/TR/Ankara": {
+		"id": "data/TR/Ankara",
+		"key": "Ankara",
+		"lang": "tr",
+		"zip": "06",
+		"isoid": "06"
+	},
+	"data/TR/Tokat": {
+		"id": "data/TR/Tokat",
+		"key": "Tokat",
+		"lang": "tr",
+		"zip": "60",
+		"isoid": "60"
+	},
+	"data/TR/Sivas": {
+		"id": "data/TR/Sivas",
+		"key": "Sivas",
+		"lang": "tr",
+		"zip": "58",
+		"isoid": "58"
+	},
+	"data/TR/Adıyaman": {
+		"id": "data/TR/Adıyaman",
+		"key": "Adıyaman",
+		"lang": "tr",
+		"zip": "02",
+		"isoid": "02"
+	},
+	"data/TR/Muş": {
+		"id": "data/TR/Muş",
+		"key": "Muş",
+		"lang": "tr",
+		"zip": "49",
+		"isoid": "49"
+	},
+	"data/TR/Sinop": {
+		"id": "data/TR/Sinop",
+		"key": "Sinop",
+		"lang": "tr",
+		"zip": "57",
+		"isoid": "57"
+	},
+	"data/TR/Erzurum": {
+		"id": "data/TR/Erzurum",
+		"key": "Erzurum",
+		"lang": "tr",
+		"zip": "25",
+		"isoid": "25"
+	},
+	"data/TR/Aksaray": {
+		"id": "data/TR/Aksaray",
+		"key": "Aksaray",
+		"lang": "tr",
+		"zip": "68",
+		"isoid": "68"
+	},
+	"data/TR/Şanlıurfa": {
+		"id": "data/TR/Şanlıurfa",
+		"key": "Şanlıurfa",
+		"lang": "tr",
+		"zip": "63",
+		"isoid": "63"
+	},
+	"data/TR/İstanbul": {
+		"id": "data/TR/İstanbul",
+		"key": "İstanbul",
+		"lang": "tr",
+		"zip": "34",
+		"isoid": "34"
+	},
+	"data/TR/Balıkesir": {
+		"id": "data/TR/Balıkesir",
+		"key": "Balıkesir",
+		"lang": "tr",
+		"zip": "10",
+		"isoid": "10"
+	},
+	"data/TR/Afyon": {
+		"id": "data/TR/Afyon",
+		"key": "Afyon",
+		"lang": "tr",
+		"zip": "03",
+		"isoid": "03"
+	},
+	"data/TR/Kocaeli": {
+		"id": "data/TR/Kocaeli",
+		"key": "Kocaeli",
+		"lang": "tr",
+		"zip": "41",
+		"isoid": "41"
+	},
+	"data/TR/Tunceli": {
+		"id": "data/TR/Tunceli",
+		"key": "Tunceli",
+		"lang": "tr",
+		"zip": "62",
+		"isoid": "62"
+	},
+	"data/TR/Kırşehir": {
+		"id": "data/TR/Kırşehir",
+		"key": "Kırşehir",
+		"lang": "tr",
+		"zip": "40",
+		"isoid": "40"
+	},
+	"data/TR/Rize": {
+		"id": "data/TR/Rize",
+		"key": "Rize",
+		"lang": "tr",
+		"zip": "53",
+		"isoid": "53"
+	},
+	"data/TR/Karaman": {
+		"id": "data/TR/Karaman",
+		"key": "Karaman",
+		"lang": "tr",
+		"zip": "70",
+		"isoid": "70"
+	},
+	"data/TR/Kars": {
+		"id": "data/TR/Kars",
+		"key": "Kars",
+		"lang": "tr",
+		"zip": "36",
+		"isoid": "36"
+	},
+	"data/TR/Düzce": {
+		"id": "data/TR/Düzce",
+		"key": "Düzce",
+		"lang": "tr",
+		"zip": "81",
+		"isoid": "81"
+	},
+	"data/TR/Isparta": {
+		"id": "data/TR/Isparta",
+		"key": "Isparta",
+		"lang": "tr",
+		"zip": "32",
+		"isoid": "32"
+	},
+	"data/TR/Kırıkkale": {
+		"id": "data/TR/Kırıkkale",
+		"key": "Kırıkkale",
+		"lang": "tr",
+		"zip": "71",
+		"isoid": "71"
+	},
+	"data/TR/Çankırı": {
+		"id": "data/TR/Çankırı",
+		"key": "Çankırı",
+		"lang": "tr",
+		"zip": "18",
+		"isoid": "18"
+	},
+	"data/TR/Artvin": {
+		"id": "data/TR/Artvin",
+		"key": "Artvin",
+		"lang": "tr",
+		"zip": "08",
+		"isoid": "08"
+	},
+	"data/TR/Yozgat": {
+		"id": "data/TR/Yozgat",
+		"key": "Yozgat",
+		"lang": "tr",
+		"zip": "66",
+		"isoid": "66"
+	},
+	"data/TR/Siirt": {
+		"id": "data/TR/Siirt",
+		"key": "Siirt",
+		"lang": "tr",
+		"zip": "56",
+		"isoid": "56"
+	},
+	"data/TR/Trabzon": {
+		"id": "data/TR/Trabzon",
+		"key": "Trabzon",
+		"lang": "tr",
+		"zip": "61",
+		"isoid": "61"
+	},
+	"data/TR/Bitlis": {
+		"id": "data/TR/Bitlis",
+		"key": "Bitlis",
+		"lang": "tr",
+		"zip": "13",
+		"isoid": "13"
+	},
+	"data/TR/Karabük": {
+		"id": "data/TR/Karabük",
+		"key": "Karabük",
+		"lang": "tr",
+		"zip": "78",
+		"isoid": "78"
+	},
+	"data/TR/Diyarbakır": {
+		"id": "data/TR/Diyarbakır",
+		"key": "Diyarbakır",
+		"lang": "tr",
+		"zip": "21",
+		"isoid": "21"
+	},
+	"data/TR/Bilecik": {
+		"id": "data/TR/Bilecik",
+		"key": "Bilecik",
+		"lang": "tr",
+		"zip": "11",
+		"isoid": "11"
+	},
+	"data/TR/Kırklareli": {
+		"id": "data/TR/Kırklareli",
+		"key": "Kırklareli",
+		"lang": "tr",
+		"zip": "39",
+		"isoid": "39"
+	},
+	"data/TR/Bursa": {
+		"id": "data/TR/Bursa",
+		"key": "Bursa",
+		"lang": "tr",
+		"zip": "16",
+		"isoid": "16"
+	},
+	"data/TR/Amasya": {
+		"id": "data/TR/Amasya",
+		"key": "Amasya",
+		"lang": "tr",
+		"zip": "05",
+		"isoid": "05"
+	},
+	"data/TR/Mersin": {
+		"id": "data/TR/Mersin",
+		"key": "Mersin",
+		"lang": "tr",
+		"zip": "33",
+		"isoid": "33"
+	},
+	"data/TR/Bartın": {
+		"id": "data/TR/Bartın",
+		"key": "Bartın",
+		"lang": "tr",
+		"zip": "74",
+		"isoid": "74"
+	},
+	"data/TR/Antalya": {
+		"id": "data/TR/Antalya",
+		"key": "Antalya",
+		"lang": "tr",
+		"zip": "07",
+		"isoid": "07"
+	},
+	"data/TR/Adana": {
+		"id": "data/TR/Adana",
+		"key": "Adana",
+		"lang": "tr",
+		"zip": "01",
+		"isoid": "01"
+	},
+	"data/TR/Sakarya": {
+		"id": "data/TR/Sakarya",
+		"key": "Sakarya",
+		"lang": "tr",
+		"zip": "54",
+		"isoid": "54"
+	},
+	"data/TR/Mardin": {
+		"id": "data/TR/Mardin",
+		"key": "Mardin",
+		"lang": "tr",
+		"zip": "47",
+		"isoid": "47"
+	},
+	"data/TR/Manisa": {
+		"id": "data/TR/Manisa",
+		"key": "Manisa",
+		"lang": "tr",
+		"zip": "45",
+		"isoid": "45"
+	},
+	"data/TR/Zonguldak": {
+		"id": "data/TR/Zonguldak",
+		"key": "Zonguldak",
+		"lang": "tr",
+		"zip": "67",
+		"isoid": "67"
+	},
+	"data/TR/Samsun": {
+		"id": "data/TR/Samsun",
+		"key": "Samsun",
+		"lang": "tr",
+		"zip": "55",
+		"isoid": "55"
+	},
+	"data/TR/Kayseri": {
+		"id": "data/TR/Kayseri",
+		"key": "Kayseri",
+		"lang": "tr",
+		"zip": "38",
+		"isoid": "38"
+	},
+	"data/TR/Bayburt": {
+		"id": "data/TR/Bayburt",
+		"key": "Bayburt",
+		"lang": "tr",
+		"zip": "69",
+		"isoid": "69"
+	},
+	"data/TR/Uşak": {
+		"id": "data/TR/Uşak",
+		"key": "Uşak",
+		"lang": "tr",
+		"zip": "64",
+		"isoid": "64"
+	},
+	"data/TR/Çorum": {
+		"id": "data/TR/Çorum",
+		"key": "Çorum",
+		"lang": "tr",
+		"zip": "19",
+		"isoid": "19"
+	},
+	"data/TR/Ağrı": {
+		"id": "data/TR/Ağrı",
+		"key": "Ağrı",
+		"lang": "tr",
+		"zip": "04",
+		"isoid": "04"
+	},
+	"data/TR/Denizli": {
+		"id": "data/TR/Denizli",
+		"key": "Denizli",
+		"lang": "tr",
+		"zip": "20",
+		"isoid": "20"
+	},
+	"data/TR/Konya": {
+		"id": "data/TR/Konya",
+		"key": "Konya",
+		"lang": "tr",
+		"zip": "42",
+		"isoid": "42"
+	},
+	"data/TR/Kilis": {
+		"id": "data/TR/Kilis",
+		"key": "Kilis",
+		"lang": "tr",
+		"zip": "79",
+		"isoid": "79"
+	},
+	"data/TR/Iğdır": {
+		"id": "data/TR/Iğdır",
+		"key": "Iğdır",
+		"lang": "tr",
+		"zip": "76",
+		"isoid": "76"
+	},
+	"data/TR/Yalova": {
+		"id": "data/TR/Yalova",
+		"key": "Yalova",
+		"lang": "tr",
+		"zip": "77",
+		"isoid": "77"
+	},
+	"data/TR/Hakkari": {
+		"id": "data/TR/Hakkari",
+		"key": "Hakkari",
+		"lang": "tr",
+		"zip": "30",
+		"isoid": "30"
+	},
+	"data/TR/Muğla": {
+		"id": "data/TR/Muğla",
+		"key": "Muğla",
+		"lang": "tr",
+		"zip": "48",
+		"isoid": "48"
+	},
+	"data/TR/Gümüşhane": {
+		"id": "data/TR/Gümüşhane",
+		"key": "Gümüşhane",
+		"lang": "tr",
+		"zip": "29",
+		"isoid": "29"
+	},
+	"data/TR/Kütahya": {
+		"id": "data/TR/Kütahya",
+		"key": "Kütahya",
+		"lang": "tr",
+		"zip": "43",
+		"isoid": "43"
+	},
+	"data/TR/Erzincan": {
+		"id": "data/TR/Erzincan",
+		"key": "Erzincan",
+		"lang": "tr",
+		"zip": "24",
+		"isoid": "24"
+	},
+	"data/TR/Elazığ": {
+		"id": "data/TR/Elazığ",
+		"key": "Elazığ",
+		"lang": "tr",
+		"zip": "23",
+		"isoid": "23"
+	},
+	"data/TR/Nevşehir": {
+		"id": "data/TR/Nevşehir",
+		"key": "Nevşehir",
+		"lang": "tr",
+		"zip": "50",
+		"isoid": "50"
+	},
+	"data/TR/Gaziantep": {
+		"id": "data/TR/Gaziantep",
+		"key": "Gaziantep",
+		"lang": "tr",
+		"zip": "27",
+		"isoid": "27"
+	},
+	"data/TR/Edirne": {
+		"id": "data/TR/Edirne",
+		"key": "Edirne",
+		"lang": "tr",
+		"zip": "22",
+		"isoid": "22"
+	},
+	"data/TR/Hatay": {
+		"id": "data/TR/Hatay",
+		"key": "Hatay",
+		"lang": "tr",
+		"zip": "31",
+		"isoid": "31"
+	},
+	"data/TR/Osmaniye": {
+		"id": "data/TR/Osmaniye",
+		"key": "Osmaniye",
+		"lang": "tr",
+		"zip": "80",
+		"isoid": "80"
+	},
+	"data/TR/Tekirdağ": {
+		"id": "data/TR/Tekirdağ",
+		"key": "Tekirdağ",
+		"lang": "tr",
+		"zip": "59",
+		"isoid": "59"
+	},
+	"data/TR/Niğde": {
+		"id": "data/TR/Niğde",
+		"key": "Niğde",
+		"lang": "tr",
+		"zip": "51",
+		"isoid": "51"
+	},
+	"data/TR/Kahramanmaraş": {
+		"id": "data/TR/Kahramanmaraş",
+		"key": "Kahramanmaraş",
+		"lang": "tr",
+		"zip": "46",
+		"isoid": "46"
+	},
+	"data/TR/Eskişehir": {
+		"id": "data/TR/Eskişehir",
+		"key": "Eskişehir",
+		"lang": "tr",
+		"zip": "26",
+		"isoid": "26"
+	},
+	"data/TR/Giresun": {
+		"id": "data/TR/Giresun",
+		"key": "Giresun",
+		"lang": "tr",
+		"zip": "28",
+		"isoid": "28"
+	},
+	"data/TR": {
+		"id": "data/TR",
+		"key": "TR",
+		"name": "TURKEY",
+		"lang": "tr",
+		"languages": "tr",
+		"fmt": "%N%n%O%n%A%n%Z %C/%S",
+		"require": "ACZ",
+		"zip": "\\d{5}",
+		"zipex": "01960,06101",
+		"posturl": "http://postakodu.ptt.gov.tr/",
+		"locality_name_type": "district",
+		"sub_keys": "Adana~Adıyaman~Afyon~Ağrı~Aksaray~Amasya~Ankara~Antalya~Ardahan~Artvin~Aydın~Balıkesir~Bartın~Batman~Bayburt~Bilecik~Bingöl~Bitlis~Bolu~Burdur~Bursa~Çanakkale~Çankırı~Çorum~Denizli~Diyarbakır~Düzce~Edirne~Elazığ~Erzincan~Erzurum~Eskişehir~Gaziantep~Giresun~Gümüşhane~Hakkari~Hatay~Iğdır~Isparta~İstanbul~İzmir~Kahramanmaraş~Karabük~Karaman~Kars~Kastamonu~Kayseri~Kırıkkale~Kırklareli~Kırşehir~Kilis~Kocaeli~Konya~Kütahya~Malatya~Manisa~Mardin~Mersin~Muğla~Muş~Nevşehir~Niğde~Ordu~Osmaniye~Rize~Sakarya~Samsun~Siirt~Sinop~Sivas~Şanlıurfa~Şırnak~Tekirdağ~Tokat~Trabzon~Tunceli~Uşak~Van~Yalova~Yozgat~Zonguldak",
+		"sub_zips": "01~02~03~04~68~05~06~07~75~08~09~10~74~72~69~11~12~13~14~15~16~17~18~19~20~21~81~22~23~24~25~26~27~28~29~30~31~76~32~34~35~46~78~70~36~37~38~71~39~40~79~41~42~43~44~45~47~33~48~49~50~51~52~80~53~54~55~56~57~58~63~73~59~60~61~62~64~65~77~66~67",
+		"sub_isoids": "01~02~03~04~68~05~06~07~75~08~09~10~74~72~69~11~12~13~14~15~16~17~18~19~20~21~81~22~23~24~25~26~27~28~29~30~31~76~32~34~35~46~78~70~36~37~38~71~39~40~79~41~42~43~44~45~47~33~48~49~50~51~52~80~53~54~55~56~57~58~63~73~59~60~61~62~64~65~77~66~67"
+	},
+	"data/TR/Bolu": {
+		"id": "data/TR/Bolu",
+		"key": "Bolu",
+		"lang": "tr",
+		"zip": "14",
+		"isoid": "14"
+	},
+	"data/TR/Malatya": {
+		"id": "data/TR/Malatya",
+		"key": "Malatya",
+		"lang": "tr",
+		"zip": "44",
+		"isoid": "44"
+	},
+	"data/TR/Burdur": {
+		"id": "data/TR/Burdur",
+		"key": "Burdur",
+		"lang": "tr",
+		"zip": "15",
+		"isoid": "15"
+	},
+	"data/TR/Batman": {
+		"id": "data/TR/Batman",
+		"key": "Batman",
+		"lang": "tr",
+		"zip": "72",
+		"isoid": "72"
+	},
+	"data/TR/Bingöl": {
+		"id": "data/TR/Bingöl",
+		"key": "Bingöl",
+		"lang": "tr",
+		"zip": "12",
+		"isoid": "12"
+	},
+	"data/TR/Aydın": {
+		"id": "data/TR/Aydın",
+		"key": "Aydın",
+		"lang": "tr",
+		"zip": "09",
+		"isoid": "09"
+	},
+	"data/TR/Ordu": {
+		"id": "data/TR/Ordu",
+		"key": "Ordu",
+		"lang": "tr",
+		"zip": "52",
+		"isoid": "52"
+	},
+	"data/TR/Kastamonu": {
+		"id": "data/TR/Kastamonu",
+		"key": "Kastamonu",
+		"lang": "tr",
+		"zip": "37",
+		"isoid": "37"
+	},
+	"data/TR/Çanakkale": {
+		"id": "data/TR/Çanakkale",
+		"key": "Çanakkale",
+		"lang": "tr",
+		"zip": "17",
+		"isoid": "17"
+	},
+	"data/TR/İzmir": {
+		"id": "data/TR/İzmir",
+		"key": "İzmir",
+		"lang": "tr",
+		"zip": "35",
+		"isoid": "35"
+	}
+}

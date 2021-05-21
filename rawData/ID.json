@@ -1,0 +1,219 @@
+{
+	"data/ID/Sumatera Utara": {
+		"id": "data/ID/Sumatera Utara",
+		"key": "Sumatera Utara",
+		"lang": "id",
+		"isoid": "SU"
+	},
+	"data/ID/Jambi": {
+		"id": "data/ID/Jambi",
+		"key": "Jambi",
+		"lang": "id",
+		"isoid": "JA"
+	},
+	"data/ID/Sulawesi Tenggara": {
+		"id": "data/ID/Sulawesi Tenggara",
+		"key": "Sulawesi Tenggara",
+		"lang": "id",
+		"isoid": "SG"
+	},
+	"data/ID/Jawa Tengah": {
+		"id": "data/ID/Jawa Tengah",
+		"key": "Jawa Tengah",
+		"lang": "id",
+		"isoid": "JT"
+	},
+	"data/ID/Lampung": {
+		"id": "data/ID/Lampung",
+		"key": "Lampung",
+		"lang": "id",
+		"isoid": "LA"
+	},
+	"data/ID/Kalimantan Selatan": {
+		"id": "data/ID/Kalimantan Selatan",
+		"key": "Kalimantan Selatan",
+		"lang": "id",
+		"isoid": "KS"
+	},
+	"data/ID/Kalimantan Utara": {
+		"id": "data/ID/Kalimantan Utara",
+		"key": "Kalimantan Utara",
+		"lang": "id",
+		"isoid": "KU"
+	},
+	"data/ID/Nusa Tenggara Barat": {
+		"id": "data/ID/Nusa Tenggara Barat",
+		"key": "Nusa Tenggara Barat",
+		"lang": "id",
+		"isoid": "NB"
+	},
+	"data/ID/Maluku Utara": {
+		"id": "data/ID/Maluku Utara",
+		"key": "Maluku Utara",
+		"lang": "id",
+		"isoid": "MU"
+	},
+	"data/ID/Jawa Timur": {
+		"id": "data/ID/Jawa Timur",
+		"key": "Jawa Timur",
+		"lang": "id",
+		"isoid": "JI"
+	},
+	"data/ID/DKI Jakarta": {
+		"id": "data/ID/DKI Jakarta",
+		"key": "DKI Jakarta",
+		"lang": "id",
+		"isoid": "JK"
+	},
+	"data/ID/Papua": {
+		"id": "data/ID/Papua",
+		"key": "Papua",
+		"lang": "id",
+		"isoid": "PA"
+	},
+	"data/ID/Sulawesi Selatan": {
+		"id": "data/ID/Sulawesi Selatan",
+		"key": "Sulawesi Selatan",
+		"lang": "id",
+		"isoid": "SN"
+	},
+	"data/ID/Papua Barat": {
+		"id": "data/ID/Papua Barat",
+		"key": "Papua Barat",
+		"lang": "id",
+		"isoid": "PB"
+	},
+	"data/ID/Aceh": {
+		"id": "data/ID/Aceh",
+		"key": "Aceh",
+		"lang": "id",
+		"isoid": "AC"
+	},
+	"data/ID/Sulawesi Tengah": {
+		"id": "data/ID/Sulawesi Tengah",
+		"key": "Sulawesi Tengah",
+		"lang": "id",
+		"isoid": "ST"
+	},
+	"data/ID/Kepulauan Riau": {
+		"id": "data/ID/Kepulauan Riau",
+		"key": "Kepulauan Riau",
+		"lang": "id",
+		"isoid": "KR"
+	},
+	"data/ID/Kalimantan Barat": {
+		"id": "data/ID/Kalimantan Barat",
+		"key": "Kalimantan Barat",
+		"lang": "id",
+		"isoid": "KB"
+	},
+	"data/ID/Jawa Barat": {
+		"id": "data/ID/Jawa Barat",
+		"key": "Jawa Barat",
+		"lang": "id",
+		"isoid": "JB"
+	},
+	"data/ID/Kalimantan Timur": {
+		"id": "data/ID/Kalimantan Timur",
+		"key": "Kalimantan Timur",
+		"lang": "id",
+		"isoid": "KI"
+	},
+	"data/ID": {
+		"id": "data/ID",
+		"key": "ID",
+		"name": "INDONESIA",
+		"lang": "id",
+		"languages": "id",
+		"fmt": "%N%n%O%n%A%n%C%n%S %Z",
+		"require": "AS",
+		"zip": "\\d{5}",
+		"zipex": "40115",
+		"sub_keys": "Aceh~Bali~Banten~Bengkulu~Daerah Istimewa Yogyakarta~DKI Jakarta~Gorontalo~Jambi~Jawa Barat~Jawa Tengah~Jawa Timur~Kalimantan Barat~Kalimantan Selatan~Kalimantan Tengah~Kalimantan Timur~Kalimantan Utara~Kepulauan Bangka Belitung~Kepulauan Riau~Lampung~Maluku~Maluku Utara~Nusa Tenggara Barat~Nusa Tenggara Timur~Papua~Papua Barat~Riau~Sulawesi Barat~Sulawesi Selatan~Sulawesi Tengah~Sulawesi Tenggara~Sulawesi Utara~Sumatera Barat~Sumatera Selatan~Sumatera Utara",
+		"sub_isoids": "AC~BA~BT~BE~YO~JK~GO~JA~JB~JT~JI~KB~KS~KT~KI~KU~BB~KR~LA~MA~MU~NB~NT~PA~PB~RI~SR~SN~ST~SG~SA~SB~SS~SU"
+	},
+	"data/ID/Bengkulu": {
+		"id": "data/ID/Bengkulu",
+		"key": "Bengkulu",
+		"lang": "id",
+		"isoid": "BE"
+	},
+	"data/ID/Banten": {
+		"id": "data/ID/Banten",
+		"key": "Banten",
+		"lang": "id",
+		"isoid": "BT"
+	},
+	"data/ID/Riau": {
+		"id": "data/ID/Riau",
+		"key": "Riau",
+		"lang": "id",
+		"isoid": "RI"
+	},
+	"data/ID/Maluku": {
+		"id": "data/ID/Maluku",
+		"key": "Maluku",
+		"lang": "id",
+		"isoid": "MA"
+	},
+	"data/ID/Sulawesi Utara": {
+		"id": "data/ID/Sulawesi Utara",
+		"key": "Sulawesi Utara",
+		"lang": "id",
+		"isoid": "SA"
+	},
+	"data/ID/Bali": {
+		"id": "data/ID/Bali",
+		"key": "Bali",
+		"lang": "id",
+		"isoid": "BA"
+	},
+	"data/ID/Daerah Istimewa Yogyakarta": {
+		"id": "data/ID/Daerah Istimewa Yogyakarta",
+		"key": "Daerah Istimewa Yogyakarta",
+		"lang": "id",
+		"isoid": "YO"
+	},
+	"data/ID/Kepulauan Bangka Belitung": {
+		"id": "data/ID/Kepulauan Bangka Belitung",
+		"key": "Kepulauan Bangka Belitung",
+		"lang": "id",
+		"isoid": "BB"
+	},
+	"data/ID/Sumatera Barat": {
+		"id": "data/ID/Sumatera Barat",
+		"key": "Sumatera Barat",
+		"lang": "id",
+		"isoid": "SB"
+	},
+	"data/ID/Nusa Tenggara Timur": {
+		"id": "data/ID/Nusa Tenggara Timur",
+		"key": "Nusa Tenggara Timur",
+		"lang": "id",
+		"isoid": "NT"
+	},
+	"data/ID/Kalimantan Tengah": {
+		"id": "data/ID/Kalimantan Tengah",
+		"key": "Kalimantan Tengah",
+		"lang": "id",
+		"isoid": "KT"
+	},
+	"data/ID/Gorontalo": {
+		"id": "data/ID/Gorontalo",
+		"key": "Gorontalo",
+		"lang": "id",
+		"isoid": "GO"
+	},
+	"data/ID/Sumatera Selatan": {
+		"id": "data/ID/Sumatera Selatan",
+		"key": "Sumatera Selatan",
+		"lang": "id",
+		"isoid": "SS"
+	},
+	"data/ID/Sulawesi Barat": {
+		"id": "data/ID/Sulawesi Barat",
+		"key": "Sulawesi Barat",
+		"lang": "id",
+		"isoid": "SR"
+	}
+}

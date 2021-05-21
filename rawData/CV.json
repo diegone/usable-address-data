@@ -1,0 +1,65 @@
+{
+	"data/CV/Fogo": {
+		"id": "data/CV/Fogo",
+		"key": "Fogo",
+		"lang": "pt"
+	},
+	"data/CV/Santo Antão": {
+		"id": "data/CV/Santo Antão",
+		"key": "Santo Antão",
+		"lang": "pt"
+	},
+	"data/CV/Sal": {
+		"id": "data/CV/Sal",
+		"key": "Sal",
+		"lang": "pt",
+		"isoid": "SL"
+	},
+	"data/CV/Boa Vista": {
+		"id": "data/CV/Boa Vista",
+		"key": "Boa Vista",
+		"lang": "pt",
+		"isoid": "BV"
+	},
+	"data/CV/São Vicente": {
+		"id": "data/CV/São Vicente",
+		"key": "São Vicente",
+		"lang": "pt",
+		"isoid": "SV"
+	},
+	"data/CV/São Nicolau": {
+		"id": "data/CV/São Nicolau",
+		"key": "São Nicolau",
+		"lang": "pt"
+	},
+	"data/CV/Brava": {
+		"id": "data/CV/Brava",
+		"key": "Brava",
+		"lang": "pt",
+		"isoid": "BR"
+	},
+	"data/CV/Santiago": {
+		"id": "data/CV/Santiago",
+		"key": "Santiago",
+		"lang": "pt"
+	},
+	"data/CV/Maio": {
+		"id": "data/CV/Maio",
+		"key": "Maio",
+		"lang": "pt",
+		"isoid": "MA"
+	},
+	"data/CV": {
+		"id": "data/CV",
+		"key": "CV",
+		"name": "CAPE VERDE",
+		"lang": "pt",
+		"languages": "pt",
+		"fmt": "%N%n%O%n%A%n%Z %C%n%S",
+		"zip": "\\d{4}",
+		"zipex": "7600",
+		"state_name_type": "island",
+		"sub_keys": "Boa Vista~Brava~Fogo~Maio~Sal~Santiago~Santo Antão~São Nicolau~São Vicente",
+		"sub_isoids": "BV~BR~~MA~SL~~~~SV"
+	}
+}

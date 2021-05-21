@@ -1,0 +1,110 @@
+{
+	"data/CU/Camagüey": {
+		"id": "data/CU/Camagüey",
+		"key": "Camagüey",
+		"lang": "es",
+		"isoid": "09"
+	},
+	"data/CU/Villa Clara": {
+		"id": "data/CU/Villa Clara",
+		"key": "Villa Clara",
+		"lang": "es",
+		"isoid": "05"
+	},
+	"data/CU/Artemisa": {
+		"id": "data/CU/Artemisa",
+		"key": "Artemisa",
+		"lang": "es",
+		"isoid": "15"
+	},
+	"data/CU/Holguín": {
+		"id": "data/CU/Holguín",
+		"key": "Holguín",
+		"lang": "es",
+		"isoid": "11"
+	},
+	"data/CU/Granma": {
+		"id": "data/CU/Granma",
+		"key": "Granma",
+		"lang": "es",
+		"isoid": "12"
+	},
+	"data/CU": {
+		"id": "data/CU",
+		"key": "CU",
+		"name": "CUBA",
+		"lang": "es",
+		"languages": "es",
+		"fmt": "%N%n%O%n%A%n%C %S%n%Z",
+		"zip": "\\d{5}",
+		"zipex": "10700",
+		"sub_keys": "Artemisa~Camagüey~Ciego de Ávila~Cienfuegos~Granma~Guantánamo~Holguín~Isla de la Juventud~La Habana~Las Tunas~Matanzas~Mayabeque~Pinar del Río~Sancti Spíritus~Santiago de Cuba~Villa Clara",
+		"sub_isoids": "15~09~08~06~12~14~11~99~03~10~04~16~01~07~13~05"
+	},
+	"data/CU/Pinar del Río": {
+		"id": "data/CU/Pinar del Río",
+		"key": "Pinar del Río",
+		"lang": "es",
+		"isoid": "01"
+	},
+	"data/CU/Cienfuegos": {
+		"id": "data/CU/Cienfuegos",
+		"key": "Cienfuegos",
+		"lang": "es",
+		"isoid": "06"
+	},
+	"data/CU/Sancti Spíritus": {
+		"id": "data/CU/Sancti Spíritus",
+		"key": "Sancti Spíritus",
+		"lang": "es",
+		"isoid": "07"
+	},
+	"data/CU/Santiago de Cuba": {
+		"id": "data/CU/Santiago de Cuba",
+		"key": "Santiago de Cuba",
+		"lang": "es",
+		"isoid": "13"
+	},
+	"data/CU/Matanzas": {
+		"id": "data/CU/Matanzas",
+		"key": "Matanzas",
+		"lang": "es",
+		"isoid": "04"
+	},
+	"data/CU/Mayabeque": {
+		"id": "data/CU/Mayabeque",
+		"key": "Mayabeque",
+		"lang": "es",
+		"isoid": "16"
+	},
+	"data/CU/Isla de la Juventud": {
+		"id": "data/CU/Isla de la Juventud",
+		"key": "Isla de la Juventud",
+		"lang": "es",
+		"isoid": "99"
+	},
+	"data/CU/Ciego de Ávila": {
+		"id": "data/CU/Ciego de Ávila",
+		"key": "Ciego de Ávila",
+		"lang": "es",
+		"isoid": "08"
+	},
+	"data/CU/Guantánamo": {
+		"id": "data/CU/Guantánamo",
+		"key": "Guantánamo",
+		"lang": "es",
+		"isoid": "14"
+	},
+	"data/CU/Las Tunas": {
+		"id": "data/CU/Las Tunas",
+		"key": "Las Tunas",
+		"lang": "es",
+		"isoid": "10"
+	},
+	"data/CU/La Habana": {
+		"id": "data/CU/La Habana",
+		"key": "La Habana",
+		"lang": "es",
+		"isoid": "03"
+	}
+}

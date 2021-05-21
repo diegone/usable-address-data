@@ -1,0 +1,1874 @@
+{
+	"data/CL/Biobío/Concepción": {
+		"id": "data/CL/Biobío/Concepción",
+		"key": "Concepción",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Lo Barnechea": {
+		"id": "data/CL/Región Metropolitana/Lo Barnechea",
+		"key": "Lo Barnechea",
+		"lang": "es"
+	},
+	"data/CL/Maule/Licantén": {
+		"id": "data/CL/Maule/Licantén",
+		"key": "Licantén",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Curanilahue": {
+		"id": "data/CL/Biobío/Curanilahue",
+		"key": "Curanilahue",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Portezuelo": {
+		"id": "data/CL/Biobío/Portezuelo",
+		"key": "Portezuelo",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Coquimbo": {
+		"id": "data/CL/Coquimbo/Coquimbo",
+		"key": "Coquimbo",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Futaleufú": {
+		"id": "data/CL/Los Lagos/Futaleufú",
+		"key": "Futaleufú",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Requínoa": {
+		"id": "data/CL/O'Higgins/Requínoa",
+		"key": "Requínoa",
+		"lang": "es"
+	},
+	"data/CL/Biobío/San Ignacio": {
+		"id": "data/CL/Biobío/San Ignacio",
+		"key": "San Ignacio",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Lautaro": {
+		"id": "data/CL/Araucanía/Lautaro",
+		"key": "Lautaro",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/San Gregorio": {
+		"id": "data/CL/Magallanes/San Gregorio",
+		"key": "San Gregorio",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Las Cabras": {
+		"id": "data/CL/O'Higgins/Las Cabras",
+		"key": "Las Cabras",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/María Pinto": {
+		"id": "data/CL/Región Metropolitana/María Pinto",
+		"key": "María Pinto",
+		"lang": "es"
+	},
+	"data/CL": {
+		"id": "data/CL",
+		"key": "CL",
+		"name": "CHILE",
+		"lang": "es",
+		"languages": "es",
+		"fmt": "%N%n%O%n%A%n%Z %C%n%S",
+		"zip": "\\d{7}",
+		"zipex": "8340457,8720019,1230000,8329100",
+		"posturl": "http://www.correos.cl/SitePages/home.aspx",
+		"sub_keys": "Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén~Biobío~Coquimbo~O'Higgins~Los Lagos~Los Ríos~Magallanes~Maule~Región Metropolitana~Ñuble~Tarapacá~Valparaíso",
+		"sub_names": "Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén del General Carlos Ibáñez del Campo~Biobío~Coquimbo~Libertador General Bernardo O'Higgins~Los Lagos~Los Ríos~Magallanes y de la Antártica Chilena~Maule~Metropolitana de Santiago~Ñuble~Tarapacá~Valparaíso",
+		"sub_isoids": "AN~AR~AP~AT~AI~BI~CO~LI~LL~LR~MA~ML~RM~NB~TA~VS",
+		"sub_mores": "true~true~true~true~true~true~true~true~true~true~true~true~true~false~true~true"
+	},
+	"data/CL/Biobío/Chillán Viejo": {
+		"id": "data/CL/Biobío/Chillán Viejo",
+		"key": "Chillán Viejo",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Chonchi": {
+		"id": "data/CL/Los Lagos/Chonchi",
+		"key": "Chonchi",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Lago Ranco": {
+		"id": "data/CL/Los Ríos/Lago Ranco",
+		"key": "Lago Ranco",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos": {
+		"id": "data/CL/Los Ríos",
+		"key": "Los Ríos",
+		"name": "Los Ríos",
+		"lang": "es",
+		"isoid": "LR",
+		"sub_keys": "Corral~Futrono~La Unión~Lago Ranco~Lanco~Los Lagos~Máfil~Mariquina~Paillaco~Panguipulli~Río Bueno~Valdivia"
+	},
+	"data/CL/O'Higgins/Coínco": {
+		"id": "data/CL/O'Higgins/Coínco",
+		"key": "Coínco",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Río Ibáñez": {
+		"id": "data/CL/Aysén/Río Ibáñez",
+		"key": "Río Ibáñez",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Andacollo": {
+		"id": "data/CL/Coquimbo/Andacollo",
+		"key": "Andacollo",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Curacautín": {
+		"id": "data/CL/Araucanía/Curacautín",
+		"key": "Curacautín",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/La Granja": {
+		"id": "data/CL/Región Metropolitana/La Granja",
+		"key": "La Granja",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Cabrero": {
+		"id": "data/CL/Biobío/Cabrero",
+		"key": "Cabrero",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Diego de Almagro": {
+		"id": "data/CL/Atacama/Diego de Almagro",
+		"key": "Diego de Almagro",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Calera de Tango": {
+		"id": "data/CL/Región Metropolitana/Calera de Tango",
+		"key": "Calera de Tango",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Olivar": {
+		"id": "data/CL/O'Higgins/Olivar",
+		"key": "Olivar",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Pemuco": {
+		"id": "data/CL/Biobío/Pemuco",
+		"key": "Pemuco",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Contulmo": {
+		"id": "data/CL/Biobío/Contulmo",
+		"key": "Contulmo",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Paine": {
+		"id": "data/CL/Región Metropolitana/Paine",
+		"key": "Paine",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Llanquihue": {
+		"id": "data/CL/Los Lagos/Llanquihue",
+		"key": "Llanquihue",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Pinto": {
+		"id": "data/CL/Biobío/Pinto",
+		"key": "Pinto",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Buin": {
+		"id": "data/CL/Región Metropolitana/Buin",
+		"key": "Buin",
+		"lang": "es"
+	},
+	"data/CL/Maule/Pelluhue": {
+		"id": "data/CL/Maule/Pelluhue",
+		"key": "Pelluhue",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/La Cisterna": {
+		"id": "data/CL/Región Metropolitana/La Cisterna",
+		"key": "La Cisterna",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Cabo de Hornos": {
+		"id": "data/CL/Magallanes/Cabo de Hornos",
+		"key": "Cabo de Hornos",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Galvarino": {
+		"id": "data/CL/Araucanía/Galvarino",
+		"key": "Galvarino",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Doñihue": {
+		"id": "data/CL/O'Higgins/Doñihue",
+		"key": "Doñihue",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Navidad": {
+		"id": "data/CL/O'Higgins/Navidad",
+		"key": "Navidad",
+		"lang": "es"
+	},
+	"data/CL/Araucanía": {
+		"id": "data/CL/Araucanía",
+		"key": "Araucanía",
+		"name": "Araucanía",
+		"lang": "es",
+		"isoid": "AR",
+		"sub_keys": "Angol~Carahue~Cholchol~Collipulli~Cunco~Curacautín~Curarrehue~Ercilla~Freire~Galvarino~Gorbea~Lautaro~Loncoche~Lonquimay~Los Sauces~Lumaco~Melipeuco~Nueva Imperial~Padre Las Casas~Perquenco~Pitrufquén~Pucón~Purén~Renaico~Saavedra~Temuco~Teodoro Schmidt~Toltén~Traiguén~Victoria~Vilcún~Villarrica"
+	},
+	"data/CL/Atacama/Freirina": {
+		"id": "data/CL/Atacama/Freirina",
+		"key": "Freirina",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Cisnes": {
+		"id": "data/CL/Aysén/Cisnes",
+		"key": "Cisnes",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Los Álamos": {
+		"id": "data/CL/Biobío/Los Álamos",
+		"key": "Los Álamos",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Lonquimay": {
+		"id": "data/CL/Araucanía/Lonquimay",
+		"key": "Lonquimay",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Lampa": {
+		"id": "data/CL/Región Metropolitana/Lampa",
+		"key": "Lampa",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Antuco": {
+		"id": "data/CL/Biobío/Antuco",
+		"key": "Antuco",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Loncoche": {
+		"id": "data/CL/Araucanía/Loncoche",
+		"key": "Loncoche",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Los Muermos": {
+		"id": "data/CL/Los Lagos/Los Muermos",
+		"key": "Los Muermos",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Alhué": {
+		"id": "data/CL/Región Metropolitana/Alhué",
+		"key": "Alhué",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Rengo": {
+		"id": "data/CL/O'Higgins/Rengo",
+		"key": "Rengo",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Dalcahue": {
+		"id": "data/CL/Los Lagos/Dalcahue",
+		"key": "Dalcahue",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Placilla": {
+		"id": "data/CL/O'Higgins/Placilla",
+		"key": "Placilla",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Traiguén": {
+		"id": "data/CL/Araucanía/Traiguén",
+		"key": "Traiguén",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Pichilemu": {
+		"id": "data/CL/O'Higgins/Pichilemu",
+		"key": "Pichilemu",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Perquenco": {
+		"id": "data/CL/Araucanía/Perquenco",
+		"key": "Perquenco",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Tucapel": {
+		"id": "data/CL/Biobío/Tucapel",
+		"key": "Tucapel",
+		"lang": "es"
+	},
+	"data/CL/Maule/Sagrada Familia": {
+		"id": "data/CL/Maule/Sagrada Familia",
+		"key": "Sagrada Familia",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Huechuraba": {
+		"id": "data/CL/Región Metropolitana/Huechuraba",
+		"key": "Huechuraba",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Cerro Navia": {
+		"id": "data/CL/Región Metropolitana/Cerro Navia",
+		"key": "Cerro Navia",
+		"lang": "es"
+	},
+	"data/CL/Maule/Curicó": {
+		"id": "data/CL/Maule/Curicó",
+		"key": "Curicó",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Pucón": {
+		"id": "data/CL/Araucanía/Pucón",
+		"key": "Pucón",
+		"lang": "es"
+	},
+	"data/CL/Maule/Retiro": {
+		"id": "data/CL/Maule/Retiro",
+		"key": "Retiro",
+		"lang": "es"
+	},
+	"data/CL/Aysén/O'Higgins": {
+		"id": "data/CL/Aysén/O'Higgins",
+		"key": "O'Higgins",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Ñiquén": {
+		"id": "data/CL/Biobío/Ñiquén",
+		"key": "Ñiquén",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Puyehue": {
+		"id": "data/CL/Los Lagos/Puyehue",
+		"key": "Puyehue",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Cochamó": {
+		"id": "data/CL/Los Lagos/Cochamó",
+		"key": "Cochamó",
+		"lang": "es"
+	},
+	"data/CL/Arica y Parinacota": {
+		"id": "data/CL/Arica y Parinacota",
+		"key": "Arica y Parinacota",
+		"name": "Arica y Parinacota",
+		"lang": "es",
+		"isoid": "AP",
+		"sub_keys": "Arica~Camarones~General Lagos~Putre"
+	},
+	"data/CL/Biobío/Arauco": {
+		"id": "data/CL/Biobío/Arauco",
+		"key": "Arauco",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Río Negro": {
+		"id": "data/CL/Los Lagos/Río Negro",
+		"key": "Río Negro",
+		"lang": "es"
+	},
+	"data/CL/Maule/Romeral": {
+		"id": "data/CL/Maule/Romeral",
+		"key": "Romeral",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Tierra Amarilla": {
+		"id": "data/CL/Atacama/Tierra Amarilla",
+		"key": "Tierra Amarilla",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Quilleco": {
+		"id": "data/CL/Biobío/Quilleco",
+		"key": "Quilleco",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Puqueldón": {
+		"id": "data/CL/Los Lagos/Puqueldón",
+		"key": "Puqueldón",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/El Bosque": {
+		"id": "data/CL/Región Metropolitana/El Bosque",
+		"key": "El Bosque",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Yumbel": {
+		"id": "data/CL/Biobío/Yumbel",
+		"key": "Yumbel",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/La Estrella": {
+		"id": "data/CL/O'Higgins/La Estrella",
+		"key": "La Estrella",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Coltauco": {
+		"id": "data/CL/O'Higgins/Coltauco",
+		"key": "Coltauco",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Nancagua": {
+		"id": "data/CL/O'Higgins/Nancagua",
+		"key": "Nancagua",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Melipilla": {
+		"id": "data/CL/Región Metropolitana/Melipilla",
+		"key": "Melipilla",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Combarbalá": {
+		"id": "data/CL/Coquimbo/Combarbalá",
+		"key": "Combarbalá",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Chimbarongo": {
+		"id": "data/CL/O'Higgins/Chimbarongo",
+		"key": "Chimbarongo",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Melipeuco": {
+		"id": "data/CL/Araucanía/Melipeuco",
+		"key": "Melipeuco",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Chillán": {
+		"id": "data/CL/Biobío/Chillán",
+		"key": "Chillán",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Ercilla": {
+		"id": "data/CL/Araucanía/Ercilla",
+		"key": "Ercilla",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Florida": {
+		"id": "data/CL/Biobío/Florida",
+		"key": "Florida",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Quinta de Tilcoco": {
+		"id": "data/CL/O'Higgins/Quinta de Tilcoco",
+		"key": "Quinta de Tilcoco",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Providencia": {
+		"id": "data/CL/Región Metropolitana/Providencia",
+		"key": "Providencia",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Pudahuel": {
+		"id": "data/CL/Región Metropolitana/Pudahuel",
+		"key": "Pudahuel",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Chile Chico": {
+		"id": "data/CL/Aysén/Chile Chico",
+		"key": "Chile Chico",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Coelemu": {
+		"id": "data/CL/Biobío/Coelemu",
+		"key": "Coelemu",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Hualqui": {
+		"id": "data/CL/Biobío/Hualqui",
+		"key": "Hualqui",
+		"lang": "es"
+	},
+	"data/CL/Maule/Vichuquén": {
+		"id": "data/CL/Maule/Vichuquén",
+		"key": "Vichuquén",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Quillón": {
+		"id": "data/CL/Biobío/Quillón",
+		"key": "Quillón",
+		"lang": "es"
+	},
+	"data/CL/Atacama": {
+		"id": "data/CL/Atacama",
+		"key": "Atacama",
+		"name": "Atacama",
+		"lang": "es",
+		"isoid": "AT",
+		"sub_keys": "Alto del Carmen~Caldera~Chañaral~Copiapó~Diego de Almagro~Freirina~Huasco~Tierra Amarilla~Vallenar"
+	},
+	"data/CL/Los Lagos/Chaitén": {
+		"id": "data/CL/Los Lagos/Chaitén",
+		"key": "Chaitén",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Lo Prado": {
+		"id": "data/CL/Región Metropolitana/Lo Prado",
+		"key": "Lo Prado",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Santa Cruz": {
+		"id": "data/CL/O'Higgins/Santa Cruz",
+		"key": "Santa Cruz",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Palena": {
+		"id": "data/CL/Los Lagos/Palena",
+		"key": "Palena",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Nueva Imperial": {
+		"id": "data/CL/Araucanía/Nueva Imperial",
+		"key": "Nueva Imperial",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/Calama": {
+		"id": "data/CL/Antofagasta/Calama",
+		"key": "Calama",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Vallenar": {
+		"id": "data/CL/Atacama/Vallenar",
+		"key": "Vallenar",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Lota": {
+		"id": "data/CL/Biobío/Lota",
+		"key": "Lota",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Lago Verde": {
+		"id": "data/CL/Aysén/Lago Verde",
+		"key": "Lago Verde",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/La Serena": {
+		"id": "data/CL/Coquimbo/La Serena",
+		"key": "La Serena",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Nacimiento": {
+		"id": "data/CL/Biobío/Nacimiento",
+		"key": "Nacimiento",
+		"lang": "es"
+	},
+	"data/CL/Maule": {
+		"id": "data/CL/Maule",
+		"key": "Maule",
+		"name": "Maule",
+		"lang": "es",
+		"isoid": "ML",
+		"sub_keys": "Cauquenes~Chanco~Colbún~Constitución~Curepto~Curicó~Empedrado~Hualañé~Licantén~Linares~Longaví~Maule~Molina~Parral~Pelarco~Pelluhue~Pencahue~Rauco~Retiro~Río Claro~Romeral~Sagrada Familia~San Clemente~San Javier de Loncomilla~San Rafael~Talca~Teno~Vichuquén~Villa Alegre~Yerbas Buenas"
+	},
+	"data/CL/Maule/Constitución": {
+		"id": "data/CL/Maule/Constitución",
+		"key": "Constitución",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Independencia": {
+		"id": "data/CL/Región Metropolitana/Independencia",
+		"key": "Independencia",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Frutillar": {
+		"id": "data/CL/Los Lagos/Frutillar",
+		"key": "Frutillar",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Lo Espejo": {
+		"id": "data/CL/Región Metropolitana/Lo Espejo",
+		"key": "Lo Espejo",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Padre Hurtado": {
+		"id": "data/CL/Región Metropolitana/Padre Hurtado",
+		"key": "Padre Hurtado",
+		"lang": "es"
+	},
+	"data/CL/Maule/Pelarco": {
+		"id": "data/CL/Maule/Pelarco",
+		"key": "Pelarco",
+		"lang": "es"
+	},
+	"data/CL/Maule/Río Claro": {
+		"id": "data/CL/Maule/Río Claro",
+		"key": "Río Claro",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos": {
+		"id": "data/CL/Los Lagos",
+		"key": "Los Lagos",
+		"name": "Los Lagos",
+		"lang": "es",
+		"isoid": "LL",
+		"sub_keys": "Ancud~Calbuco~Castro~Chaitén~Chonchi~Cochamó~Curaco de Vélez~Dalcahue~Fresia~Frutillar~Futaleufú~Hualaihué~Llanquihue~Los Muermos~Maullín~Osorno~Palena~Puerto Montt~Puerto Octay~Puerto Varas~Puqueldón~Purranque~Puyehue~Queilén~Quellón~Quemchi~Quinchao~Río Negro~San Juan de la Costa~San Pablo"
+	},
+	"data/CL/Coquimbo/Monte Patria": {
+		"id": "data/CL/Coquimbo/Monte Patria",
+		"key": "Monte Patria",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta": {
+		"id": "data/CL/Antofagasta",
+		"key": "Antofagasta",
+		"name": "Antofagasta",
+		"lang": "es",
+		"isoid": "AN",
+		"sub_keys": "Antofagasta~Calama~María Elena~Mejillones~Ollagüe~San Pedro de Atacama~Sierra Gorda~Taltal~Tocopilla"
+	},
+	"data/CL/Los Lagos/San Pablo": {
+		"id": "data/CL/Los Lagos/San Pablo",
+		"key": "San Pablo",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Curarrehue": {
+		"id": "data/CL/Araucanía/Curarrehue",
+		"key": "Curarrehue",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Puerto Octay": {
+		"id": "data/CL/Los Lagos/Puerto Octay",
+		"key": "Puerto Octay",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Quinchao": {
+		"id": "data/CL/Los Lagos/Quinchao",
+		"key": "Quinchao",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Cañete": {
+		"id": "data/CL/Biobío/Cañete",
+		"key": "Cañete",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Timaukel": {
+		"id": "data/CL/Magallanes/Timaukel",
+		"key": "Timaukel",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Ninhue": {
+		"id": "data/CL/Biobío/Ninhue",
+		"key": "Ninhue",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Los Vilos": {
+		"id": "data/CL/Coquimbo/Los Vilos",
+		"key": "Los Vilos",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Mariquina": {
+		"id": "data/CL/Los Ríos/Mariquina",
+		"key": "Mariquina",
+		"lang": "es"
+	},
+	"data/CL/Maule/Longaví": {
+		"id": "data/CL/Maule/Longaví",
+		"key": "Longaví",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Peñalolén": {
+		"id": "data/CL/Región Metropolitana/Peñalolén",
+		"key": "Peñalolén",
+		"lang": "es"
+	},
+	"data/CL/Maule/Chanco": {
+		"id": "data/CL/Maule/Chanco",
+		"key": "Chanco",
+		"lang": "es"
+	},
+	"data/CL/Maule/Curepto": {
+		"id": "data/CL/Maule/Curepto",
+		"key": "Curepto",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Puerto Varas": {
+		"id": "data/CL/Los Lagos/Puerto Varas",
+		"key": "Puerto Varas",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo": {
+		"id": "data/CL/Coquimbo",
+		"key": "Coquimbo",
+		"name": "Coquimbo",
+		"lang": "es",
+		"isoid": "CO",
+		"sub_keys": "Andacollo~Canela~Combarbalá~Coquimbo~Illapel~La Higuera~La Serena~Los Vilos~Monte Patria~Ovalle~Paihuano~Punitaqui~Río Hurtado~Salamanca~Vicuña"
+	},
+	"data/CL/Región Metropolitana/Puente Alto": {
+		"id": "data/CL/Región Metropolitana/Puente Alto",
+		"key": "Puente Alto",
+		"lang": "es"
+	},
+	"data/CL/Biobío/San Rosendo": {
+		"id": "data/CL/Biobío/San Rosendo",
+		"key": "San Rosendo",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Santa Juana": {
+		"id": "data/CL/Biobío/Santa Juana",
+		"key": "Santa Juana",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Río Hurtado": {
+		"id": "data/CL/Coquimbo/Río Hurtado",
+		"key": "Río Hurtado",
+		"lang": "es"
+	},
+	"data/CL/Arica y Parinacota/Arica": {
+		"id": "data/CL/Arica y Parinacota/Arica",
+		"key": "Arica",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Maipú": {
+		"id": "data/CL/Región Metropolitana/Maipú",
+		"key": "Maipú",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Ovalle": {
+		"id": "data/CL/Coquimbo/Ovalle",
+		"key": "Ovalle",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Porvenir": {
+		"id": "data/CL/Magallanes/Porvenir",
+		"key": "Porvenir",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Quellón": {
+		"id": "data/CL/Los Lagos/Quellón",
+		"key": "Quellón",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/Antofagasta": {
+		"id": "data/CL/Antofagasta/Antofagasta",
+		"key": "Antofagasta",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Lumaco": {
+		"id": "data/CL/Araucanía/Lumaco",
+		"key": "Lumaco",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Quemchi": {
+		"id": "data/CL/Los Lagos/Quemchi",
+		"key": "Quemchi",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Paredones": {
+		"id": "data/CL/O'Higgins/Paredones",
+		"key": "Paredones",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Purén": {
+		"id": "data/CL/Araucanía/Purén",
+		"key": "Purén",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/La Pintana": {
+		"id": "data/CL/Región Metropolitana/La Pintana",
+		"key": "La Pintana",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Cholchol": {
+		"id": "data/CL/Araucanía/Cholchol",
+		"key": "Cholchol",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Negrete": {
+		"id": "data/CL/Biobío/Negrete",
+		"key": "Negrete",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Yungay": {
+		"id": "data/CL/Biobío/Yungay",
+		"key": "Yungay",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Macul": {
+		"id": "data/CL/Región Metropolitana/Macul",
+		"key": "Macul",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Talcahuano": {
+		"id": "data/CL/Biobío/Talcahuano",
+		"key": "Talcahuano",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Coronel": {
+		"id": "data/CL/Biobío/Coronel",
+		"key": "Coronel",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Los Sauces": {
+		"id": "data/CL/Araucanía/Los Sauces",
+		"key": "Los Sauces",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Ancud": {
+		"id": "data/CL/Los Lagos/Ancud",
+		"key": "Ancud",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Cunco": {
+		"id": "data/CL/Araucanía/Cunco",
+		"key": "Cunco",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/San Pedro de Atacama": {
+		"id": "data/CL/Antofagasta/San Pedro de Atacama",
+		"key": "San Pedro de Atacama",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Freire": {
+		"id": "data/CL/Araucanía/Freire",
+		"key": "Freire",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Paillaco": {
+		"id": "data/CL/Los Ríos/Paillaco",
+		"key": "Paillaco",
+		"lang": "es"
+	},
+	"data/CL/Maule/Villa Alegre": {
+		"id": "data/CL/Maule/Villa Alegre",
+		"key": "Villa Alegre",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Maullín": {
+		"id": "data/CL/Los Lagos/Maullín",
+		"key": "Maullín",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Treguaco": {
+		"id": "data/CL/Biobío/Treguaco",
+		"key": "Treguaco",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Antártica": {
+		"id": "data/CL/Magallanes/Antártica",
+		"key": "Antártica",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Hualaihué": {
+		"id": "data/CL/Los Lagos/Hualaihué",
+		"key": "Hualaihué",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana": {
+		"id": "data/CL/Región Metropolitana",
+		"key": "Región Metropolitana",
+		"name": "Metropolitana de Santiago",
+		"lang": "es",
+		"isoid": "RM",
+		"sub_keys": "Alhué~Buin~Calera de Tango~Cerrillos~Cerro Navia~Colina~Conchalí~Curacaví~El Bosque~El Monte~Estación Central~Huechuraba~Independencia~Isla de Maipo~La Cisterna~La Florida~La Granja~La Pintana~La Reina~Lampa~Las Condes~Lo Barnechea~Lo Espejo~Lo Prado~Macul~Maipú~María Pinto~Melipilla~Ñuñoa~Padre Hurtado~Paine~Pedro Aguirre Cerda~Peñaflor~Peñalolén~Pirque~Providencia~Pudahuel~Puente Alto~Quilicura~Quinta Normal~Recoleta~Renca~San Bernardo~San Joaquín~San José de Maipo~San Miguel~San Pedro~San Ramón~Santiago~Talagante~Tiltil~Vitacura"
+	},
+	"data/CL/Aysén": {
+		"id": "data/CL/Aysén",
+		"key": "Aysén",
+		"name": "Aysén del General Carlos Ibáñez del Campo",
+		"lang": "es",
+		"isoid": "AI",
+		"sub_keys": "Aysén~Chile Chico~Cisnes~Cochrane~Coyhaique~Guaitecas~Lago Verde~O'Higgins~Río Ibáñez~Tortel"
+	},
+	"data/CL/Maule/Linares": {
+		"id": "data/CL/Maule/Linares",
+		"key": "Linares",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Temuco": {
+		"id": "data/CL/Araucanía/Temuco",
+		"key": "Temuco",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Bulnes": {
+		"id": "data/CL/Biobío/Bulnes",
+		"key": "Bulnes",
+		"lang": "es"
+	},
+	"data/CL/Maule/Colbún": {
+		"id": "data/CL/Maule/Colbún",
+		"key": "Colbún",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Conchalí": {
+		"id": "data/CL/Región Metropolitana/Conchalí",
+		"key": "Conchalí",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Lolol": {
+		"id": "data/CL/O'Higgins/Lolol",
+		"key": "Lolol",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Copiapó": {
+		"id": "data/CL/Atacama/Copiapó",
+		"key": "Copiapó",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Codegua": {
+		"id": "data/CL/O'Higgins/Codegua",
+		"key": "Codegua",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Renaico": {
+		"id": "data/CL/Araucanía/Renaico",
+		"key": "Renaico",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Coihueco": {
+		"id": "data/CL/Biobío/Coihueco",
+		"key": "Coihueco",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Chiguayante": {
+		"id": "data/CL/Biobío/Chiguayante",
+		"key": "Chiguayante",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/San Fernando": {
+		"id": "data/CL/O'Higgins/San Fernando",
+		"key": "San Fernando",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/Mejillones": {
+		"id": "data/CL/Antofagasta/Mejillones",
+		"key": "Mejillones",
+		"lang": "es"
+	},
+	"data/CL/Biobío/San Pedro de la Paz": {
+		"id": "data/CL/Biobío/San Pedro de la Paz",
+		"key": "San Pedro de la Paz",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Santa Bárbara": {
+		"id": "data/CL/Biobío/Santa Bárbara",
+		"key": "Santa Bárbara",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/Sierra Gorda": {
+		"id": "data/CL/Antofagasta/Sierra Gorda",
+		"key": "Sierra Gorda",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Fresia": {
+		"id": "data/CL/Los Lagos/Fresia",
+		"key": "Fresia",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Peralillo": {
+		"id": "data/CL/O'Higgins/Peralillo",
+		"key": "Peralillo",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Canela": {
+		"id": "data/CL/Coquimbo/Canela",
+		"key": "Canela",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Pumanque": {
+		"id": "data/CL/O'Higgins/Pumanque",
+		"key": "Pumanque",
+		"lang": "es"
+	},
+	"data/CL/Maule/Molina": {
+		"id": "data/CL/Maule/Molina",
+		"key": "Molina",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Toltén": {
+		"id": "data/CL/Araucanía/Toltén",
+		"key": "Toltén",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Río Verde": {
+		"id": "data/CL/Magallanes/Río Verde",
+		"key": "Río Verde",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/La Florida": {
+		"id": "data/CL/Región Metropolitana/La Florida",
+		"key": "La Florida",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Punta Arenas": {
+		"id": "data/CL/Magallanes/Punta Arenas",
+		"key": "Punta Arenas",
+		"lang": "es"
+	},
+	"data/CL/Biobío/San Fabián": {
+		"id": "data/CL/Biobío/San Fabián",
+		"key": "San Fabián",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Cochrane": {
+		"id": "data/CL/Aysén/Cochrane",
+		"key": "Cochrane",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Palmilla": {
+		"id": "data/CL/O'Higgins/Palmilla",
+		"key": "Palmilla",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/San Francisco de Mostazal": {
+		"id": "data/CL/O'Higgins/San Francisco de Mostazal",
+		"key": "San Francisco de Mostazal",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Alto Biobío": {
+		"id": "data/CL/Biobío/Alto Biobío",
+		"key": "Alto Biobío",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Máfil": {
+		"id": "data/CL/Los Ríos/Máfil",
+		"key": "Máfil",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Teodoro Schmidt": {
+		"id": "data/CL/Araucanía/Teodoro Schmidt",
+		"key": "Teodoro Schmidt",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Angol": {
+		"id": "data/CL/Araucanía/Angol",
+		"key": "Angol",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Corral": {
+		"id": "data/CL/Los Ríos/Corral",
+		"key": "Corral",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/Taltal": {
+		"id": "data/CL/Antofagasta/Taltal",
+		"key": "Taltal",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/San Juan de la Costa": {
+		"id": "data/CL/Los Lagos/San Juan de la Costa",
+		"key": "San Juan de la Costa",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Primavera": {
+		"id": "data/CL/Magallanes/Primavera",
+		"key": "Primavera",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Isla de Maipo": {
+		"id": "data/CL/Región Metropolitana/Isla de Maipo",
+		"key": "Isla de Maipo",
+		"lang": "es"
+	},
+	"data/CL/Maule/San Clemente": {
+		"id": "data/CL/Maule/San Clemente",
+		"key": "San Clemente",
+		"lang": "es"
+	},
+	"data/CL/Maule/Parral": {
+		"id": "data/CL/Maule/Parral",
+		"key": "Parral",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Pichidegua": {
+		"id": "data/CL/O'Higgins/Pichidegua",
+		"key": "Pichidegua",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Futrono": {
+		"id": "data/CL/Los Ríos/Futrono",
+		"key": "Futrono",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Purranque": {
+		"id": "data/CL/Los Lagos/Purranque",
+		"key": "Purranque",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Los Ángeles": {
+		"id": "data/CL/Biobío/Los Ángeles",
+		"key": "Los Ángeles",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Lanco": {
+		"id": "data/CL/Los Ríos/Lanco",
+		"key": "Lanco",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Queilén": {
+		"id": "data/CL/Los Lagos/Queilén",
+		"key": "Queilén",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/San Vicente de Tagua Tagua": {
+		"id": "data/CL/O'Higgins/San Vicente de Tagua Tagua",
+		"key": "San Vicente de Tagua Tagua",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Caldera": {
+		"id": "data/CL/Atacama/Caldera",
+		"key": "Caldera",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Malloa": {
+		"id": "data/CL/O'Higgins/Malloa",
+		"key": "Malloa",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Carahue": {
+		"id": "data/CL/Araucanía/Carahue",
+		"key": "Carahue",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Cobquecura": {
+		"id": "data/CL/Biobío/Cobquecura",
+		"key": "Cobquecura",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Colina": {
+		"id": "data/CL/Región Metropolitana/Colina",
+		"key": "Colina",
+		"lang": "es"
+	},
+	"data/CL/Arica y Parinacota/Putre": {
+		"id": "data/CL/Arica y Parinacota/Putre",
+		"key": "Putre",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Panguipulli": {
+		"id": "data/CL/Los Ríos/Panguipulli",
+		"key": "Panguipulli",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Paihuano": {
+		"id": "data/CL/Coquimbo/Paihuano",
+		"key": "Paihuano",
+		"lang": "es"
+	},
+	"data/CL/Maule/Pencahue": {
+		"id": "data/CL/Maule/Pencahue",
+		"key": "Pencahue",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Peñaflor": {
+		"id": "data/CL/Región Metropolitana/Peñaflor",
+		"key": "Peñaflor",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Alto del Carmen": {
+		"id": "data/CL/Atacama/Alto del Carmen",
+		"key": "Alto del Carmen",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Vilcún": {
+		"id": "data/CL/Araucanía/Vilcún",
+		"key": "Vilcún",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/El Monte": {
+		"id": "data/CL/Región Metropolitana/El Monte",
+		"key": "El Monte",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/La Higuera": {
+		"id": "data/CL/Coquimbo/La Higuera",
+		"key": "La Higuera",
+		"lang": "es"
+	},
+	"data/CL/Magallanes": {
+		"id": "data/CL/Magallanes",
+		"key": "Magallanes",
+		"name": "Magallanes y de la Antártica Chilena",
+		"lang": "es",
+		"isoid": "MA",
+		"sub_keys": "Antártica~Cabo de Hornos~Laguna Blanca~Natales~Porvenir~Primavera~Punta Arenas~Río Verde~San Gregorio~Timaukel~Torres del Paine"
+	},
+	"data/CL/Coquimbo/Illapel": {
+		"id": "data/CL/Coquimbo/Illapel",
+		"key": "Illapel",
+		"lang": "es"
+	},
+	"data/CL/Arica y Parinacota/General Lagos": {
+		"id": "data/CL/Arica y Parinacota/General Lagos",
+		"key": "General Lagos",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Huasco": {
+		"id": "data/CL/Atacama/Huasco",
+		"key": "Huasco",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Tirúa": {
+		"id": "data/CL/Biobío/Tirúa",
+		"key": "Tirúa",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Estación Central": {
+		"id": "data/CL/Región Metropolitana/Estación Central",
+		"key": "Estación Central",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Cerrillos": {
+		"id": "data/CL/Región Metropolitana/Cerrillos",
+		"key": "Cerrillos",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/María Elena": {
+		"id": "data/CL/Antofagasta/María Elena",
+		"key": "María Elena",
+		"lang": "es"
+	},
+	"data/CL/Biobío/San Carlos": {
+		"id": "data/CL/Biobío/San Carlos",
+		"key": "San Carlos",
+		"lang": "es"
+	},
+	"data/CL/Maule/Maule": {
+		"id": "data/CL/Maule/Maule",
+		"key": "Maule",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Osorno": {
+		"id": "data/CL/Los Lagos/Osorno",
+		"key": "Osorno",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Los Lagos": {
+		"id": "data/CL/Los Ríos/Los Lagos",
+		"key": "Los Lagos",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Puerto Montt": {
+		"id": "data/CL/Los Lagos/Puerto Montt",
+		"key": "Puerto Montt",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Ránquil": {
+		"id": "data/CL/Biobío/Ránquil",
+		"key": "Ránquil",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Villarrica": {
+		"id": "data/CL/Araucanía/Villarrica",
+		"key": "Villarrica",
+		"lang": "es"
+	},
+	"data/CL/Maule/Cauquenes": {
+		"id": "data/CL/Maule/Cauquenes",
+		"key": "Cauquenes",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Padre Las Casas": {
+		"id": "data/CL/Araucanía/Padre Las Casas",
+		"key": "Padre Las Casas",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/Tocopilla": {
+		"id": "data/CL/Antofagasta/Tocopilla",
+		"key": "Tocopilla",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Curacaví": {
+		"id": "data/CL/Región Metropolitana/Curacaví",
+		"key": "Curacaví",
+		"lang": "es"
+	},
+	"data/CL/Biobío": {
+		"id": "data/CL/Biobío",
+		"key": "Biobío",
+		"name": "Biobío",
+		"lang": "es",
+		"isoid": "BI",
+		"sub_keys": "Alto Biobío~Antuco~Arauco~Bulnes~Cabrero~Cañete~Chiguayante~Chillán~Chillán Viejo~Cobquecura~Coelemu~Coihueco~Concepción~Contulmo~Coronel~Curanilahue~El Carmen~Florida~Hualpén~Hualqui~Laja~Lebu~Los Álamos~Los Ángeles~Lota~Mulchén~Nacimiento~Negrete~Ninhue~Ñiquén~Pemuco~Penco~Pinto~Portezuelo~Quilaco~Quilleco~Quillón~Quirihue~Ránquil~San Carlos~San Fabián~San Ignacio~San Nicolás~San Pedro de la Paz~San Rosendo~Santa Bárbara~Santa Juana~Talcahuano~Tirúa~Tomé~Treguaco~Tucapel~Yumbel~Yungay"
+	},
+	"data/CL/O'Higgins/Litueche": {
+		"id": "data/CL/O'Higgins/Litueche",
+		"key": "Litueche",
+		"lang": "es"
+	},
+	"data/CL/Maule/San Javier de Loncomilla": {
+		"id": "data/CL/Maule/San Javier de Loncomilla",
+		"key": "San Javier de Loncomilla",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Curaco de Vélez": {
+		"id": "data/CL/Los Lagos/Curaco de Vélez",
+		"key": "Curaco de Vélez",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Victoria": {
+		"id": "data/CL/Araucanía/Victoria",
+		"key": "Victoria",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Laguna Blanca": {
+		"id": "data/CL/Magallanes/Laguna Blanca",
+		"key": "Laguna Blanca",
+		"lang": "es"
+	},
+	"data/CL/Maule/Rauco": {
+		"id": "data/CL/Maule/Rauco",
+		"key": "Rauco",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Salamanca": {
+		"id": "data/CL/Coquimbo/Salamanca",
+		"key": "Salamanca",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Río Bueno": {
+		"id": "data/CL/Los Ríos/Río Bueno",
+		"key": "Río Bueno",
+		"lang": "es"
+	},
+	"data/CL/Maule/San Rafael": {
+		"id": "data/CL/Maule/San Rafael",
+		"key": "San Rafael",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Rancagua": {
+		"id": "data/CL/O'Higgins/Rancagua",
+		"key": "Rancagua",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins": {
+		"id": "data/CL/O'Higgins",
+		"key": "O'Higgins",
+		"name": "Libertador General Bernardo O'Higgins",
+		"lang": "es",
+		"isoid": "LI",
+		"sub_keys": "Chépica~Chimbarongo~Codegua~Coínco~Coltauco~Doñihue~Graneros~La Estrella~Las Cabras~Litueche~Lolol~Machalí~Malloa~Marchigüe~Nancagua~Navidad~Olivar~Palmilla~Paredones~Peralillo~Peumo~Pichidegua~Pichilemu~Placilla~Pumanque~Quinta de Tilcoco~Rancagua~Rengo~Requínoa~San Fernando~San Francisco de Mostazal~San Vicente de Tagua Tagua~Santa Cruz"
+	},
+	"data/CL/O'Higgins/Graneros": {
+		"id": "data/CL/O'Higgins/Graneros",
+		"key": "Graneros",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Torres del Paine": {
+		"id": "data/CL/Magallanes/Torres del Paine",
+		"key": "Torres del Paine",
+		"lang": "es"
+	},
+	"data/CL/Maule/Empedrado": {
+		"id": "data/CL/Maule/Empedrado",
+		"key": "Empedrado",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Machalí": {
+		"id": "data/CL/O'Higgins/Machalí",
+		"key": "Machalí",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Laja": {
+		"id": "data/CL/Biobío/Laja",
+		"key": "Laja",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Lebu": {
+		"id": "data/CL/Biobío/Lebu",
+		"key": "Lebu",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Gorbea": {
+		"id": "data/CL/Araucanía/Gorbea",
+		"key": "Gorbea",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Quilaco": {
+		"id": "data/CL/Biobío/Quilaco",
+		"key": "Quilaco",
+		"lang": "es"
+	},
+	"data/CL/Maule/Teno": {
+		"id": "data/CL/Maule/Teno",
+		"key": "Teno",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Pitrufquén": {
+		"id": "data/CL/Araucanía/Pitrufquén",
+		"key": "Pitrufquén",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Calbuco": {
+		"id": "data/CL/Los Lagos/Calbuco",
+		"key": "Calbuco",
+		"lang": "es"
+	},
+	"data/CL/Los Lagos/Castro": {
+		"id": "data/CL/Los Lagos/Castro",
+		"key": "Castro",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Mulchén": {
+		"id": "data/CL/Biobío/Mulchén",
+		"key": "Mulchén",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Coyhaique": {
+		"id": "data/CL/Aysén/Coyhaique",
+		"key": "Coyhaique",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Aysén": {
+		"id": "data/CL/Aysén/Aysén",
+		"key": "Aysén",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Marchigüe": {
+		"id": "data/CL/O'Higgins/Marchigüe",
+		"key": "Marchigüe",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Saavedra": {
+		"id": "data/CL/Araucanía/Saavedra",
+		"key": "Saavedra",
+		"lang": "es"
+	},
+	"data/CL/Biobío/San Nicolás": {
+		"id": "data/CL/Biobío/San Nicolás",
+		"key": "San Nicolás",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Tomé": {
+		"id": "data/CL/Biobío/Tomé",
+		"key": "Tomé",
+		"lang": "es"
+	},
+	"data/CL/Atacama/Chañaral": {
+		"id": "data/CL/Atacama/Chañaral",
+		"key": "Chañaral",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/La Reina": {
+		"id": "data/CL/Región Metropolitana/La Reina",
+		"key": "La Reina",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Peumo": {
+		"id": "data/CL/O'Higgins/Peumo",
+		"key": "Peumo",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Las Condes": {
+		"id": "data/CL/Región Metropolitana/Las Condes",
+		"key": "Las Condes",
+		"lang": "es"
+	},
+	"data/CL/Maule/Yerbas Buenas": {
+		"id": "data/CL/Maule/Yerbas Buenas",
+		"key": "Yerbas Buenas",
+		"lang": "es"
+	},
+	"data/CL/Maule/Hualañé": {
+		"id": "data/CL/Maule/Hualañé",
+		"key": "Hualañé",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/La Unión": {
+		"id": "data/CL/Los Ríos/La Unión",
+		"key": "La Unión",
+		"lang": "es"
+	},
+	"data/CL/Maule/Talca": {
+		"id": "data/CL/Maule/Talca",
+		"key": "Talca",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Guaitecas": {
+		"id": "data/CL/Aysén/Guaitecas",
+		"key": "Guaitecas",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Penco": {
+		"id": "data/CL/Biobío/Penco",
+		"key": "Penco",
+		"lang": "es"
+	},
+	"data/CL/Antofagasta/Ollagüe": {
+		"id": "data/CL/Antofagasta/Ollagüe",
+		"key": "Ollagüe",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Quirihue": {
+		"id": "data/CL/Biobío/Quirihue",
+		"key": "Quirihue",
+		"lang": "es"
+	},
+	"data/CL/Arica y Parinacota/Camarones": {
+		"id": "data/CL/Arica y Parinacota/Camarones",
+		"key": "Camarones",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Pirque": {
+		"id": "data/CL/Región Metropolitana/Pirque",
+		"key": "Pirque",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Vicuña": {
+		"id": "data/CL/Coquimbo/Vicuña",
+		"key": "Vicuña",
+		"lang": "es"
+	},
+	"data/CL/Araucanía/Collipulli": {
+		"id": "data/CL/Araucanía/Collipulli",
+		"key": "Collipulli",
+		"lang": "es"
+	},
+	"data/CL/Los Ríos/Valdivia": {
+		"id": "data/CL/Los Ríos/Valdivia",
+		"key": "Valdivia",
+		"lang": "es"
+	},
+	"data/CL/Aysén/Tortel": {
+		"id": "data/CL/Aysén/Tortel",
+		"key": "Tortel",
+		"lang": "es"
+	},
+	"data/CL/Magallanes/Natales": {
+		"id": "data/CL/Magallanes/Natales",
+		"key": "Natales",
+		"lang": "es"
+	},
+	"data/CL/Biobío/El Carmen": {
+		"id": "data/CL/Biobío/El Carmen",
+		"key": "El Carmen",
+		"lang": "es"
+	},
+	"data/CL/O'Higgins/Chépica": {
+		"id": "data/CL/O'Higgins/Chépica",
+		"key": "Chépica",
+		"lang": "es"
+	},
+	"data/CL/Coquimbo/Punitaqui": {
+		"id": "data/CL/Coquimbo/Punitaqui",
+		"key": "Punitaqui",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Pedro Aguirre Cerda": {
+		"id": "data/CL/Región Metropolitana/Pedro Aguirre Cerda",
+		"key": "Pedro Aguirre Cerda",
+		"lang": "es"
+	},
+	"data/CL/Biobío/Hualpén": {
+		"id": "data/CL/Biobío/Hualpén",
+		"key": "Hualpén",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Santa María": {
+		"id": "data/CL/Valparaíso/Santa María",
+		"key": "Santa María",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Llaillay": {
+		"id": "data/CL/Valparaíso/Llaillay",
+		"key": "Llaillay",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Olmué": {
+		"id": "data/CL/Valparaíso/Olmué",
+		"key": "Olmué",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá/Pica": {
+		"id": "data/CL/Tarapacá/Pica",
+		"key": "Pica",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá/Alto Hospicio": {
+		"id": "data/CL/Tarapacá/Alto Hospicio",
+		"key": "Alto Hospicio",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Quintero": {
+		"id": "data/CL/Valparaíso/Quintero",
+		"key": "Quintero",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Quilpué": {
+		"id": "data/CL/Valparaíso/Quilpué",
+		"key": "Quilpué",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá": {
+		"id": "data/CL/Tarapacá",
+		"key": "Tarapacá",
+		"name": "Tarapacá",
+		"lang": "es",
+		"isoid": "TA",
+		"sub_keys": "Alto Hospicio~Camiña~Colchane~Huara~Iquique~Pica~Pozo Almonte"
+	},
+	"data/CL/Valparaíso/Limache": {
+		"id": "data/CL/Valparaíso/Limache",
+		"key": "Limache",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Recoleta": {
+		"id": "data/CL/Región Metropolitana/Recoleta",
+		"key": "Recoleta",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Cartagena": {
+		"id": "data/CL/Valparaíso/Cartagena",
+		"key": "Cartagena",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Puchuncaví": {
+		"id": "data/CL/Valparaíso/Puchuncaví",
+		"key": "Puchuncaví",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/San Antonio": {
+		"id": "data/CL/Valparaíso/San Antonio",
+		"key": "San Antonio",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Vitacura": {
+		"id": "data/CL/Región Metropolitana/Vitacura",
+		"key": "Vitacura",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/El Tabo": {
+		"id": "data/CL/Valparaíso/El Tabo",
+		"key": "El Tabo",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá/Camiña": {
+		"id": "data/CL/Tarapacá/Camiña",
+		"key": "Camiña",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Zapallar": {
+		"id": "data/CL/Valparaíso/Zapallar",
+		"key": "Zapallar",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso": {
+		"id": "data/CL/Valparaíso",
+		"key": "Valparaíso",
+		"name": "Valparaíso",
+		"lang": "es",
+		"isoid": "VS",
+		"sub_keys": "Algarrobo~Cabildo~Calle Larga~Cartagena~Casablanca~Catemu~Concón~El Quisco~El Tabo~Hijuelas~Isla de Pascua~Juan Fernández~La Calera~La Cruz~La Ligua~Limache~Llaillay~Los Andes~Nogales~Olmué~Panquehue~Papudo~Petorca~Puchuncaví~Putaendo~Quillota~Quilpué~Quintero~Rinconada~San Antonio~San Esteban~San Felipe~Santa María~Santo Domingo~Valparaíso~Villa Alemana~Viña del Mar~Zapallar"
+	},
+	"data/CL/Valparaíso/Papudo": {
+		"id": "data/CL/Valparaíso/Papudo",
+		"key": "Papudo",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Cabildo": {
+		"id": "data/CL/Valparaíso/Cabildo",
+		"key": "Cabildo",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/San Miguel": {
+		"id": "data/CL/Región Metropolitana/San Miguel",
+		"key": "San Miguel",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Quilicura": {
+		"id": "data/CL/Región Metropolitana/Quilicura",
+		"key": "Quilicura",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Casablanca": {
+		"id": "data/CL/Valparaíso/Casablanca",
+		"key": "Casablanca",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Rinconada": {
+		"id": "data/CL/Valparaíso/Rinconada",
+		"key": "Rinconada",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Renca": {
+		"id": "data/CL/Región Metropolitana/Renca",
+		"key": "Renca",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/San José de Maipo": {
+		"id": "data/CL/Región Metropolitana/San José de Maipo",
+		"key": "San José de Maipo",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Isla de Pascua": {
+		"id": "data/CL/Valparaíso/Isla de Pascua",
+		"key": "Isla de Pascua",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/San Esteban": {
+		"id": "data/CL/Valparaíso/San Esteban",
+		"key": "San Esteban",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/San Ramón": {
+		"id": "data/CL/Región Metropolitana/San Ramón",
+		"key": "San Ramón",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Juan Fernández": {
+		"id": "data/CL/Valparaíso/Juan Fernández",
+		"key": "Juan Fernández",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/La Cruz": {
+		"id": "data/CL/Valparaíso/La Cruz",
+		"key": "La Cruz",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá/Iquique": {
+		"id": "data/CL/Tarapacá/Iquique",
+		"key": "Iquique",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá/Pozo Almonte": {
+		"id": "data/CL/Tarapacá/Pozo Almonte",
+		"key": "Pozo Almonte",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Ñuñoa": {
+		"id": "data/CL/Región Metropolitana/Ñuñoa",
+		"key": "Ñuñoa",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Petorca": {
+		"id": "data/CL/Valparaíso/Petorca",
+		"key": "Petorca",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Quillota": {
+		"id": "data/CL/Valparaíso/Quillota",
+		"key": "Quillota",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá/Colchane": {
+		"id": "data/CL/Tarapacá/Colchane",
+		"key": "Colchane",
+		"lang": "es"
+	},
+	"data/CL/Ñuble": {
+		"id": "data/CL/Ñuble",
+		"key": "Ñuble",
+		"name": "Ñuble",
+		"lang": "es",
+		"isoid": "NB"
+	},
+	"data/CL/Región Metropolitana/San Joaquín": {
+		"id": "data/CL/Región Metropolitana/San Joaquín",
+		"key": "San Joaquín",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Putaendo": {
+		"id": "data/CL/Valparaíso/Putaendo",
+		"key": "Putaendo",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/San Bernardo": {
+		"id": "data/CL/Región Metropolitana/San Bernardo",
+		"key": "San Bernardo",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Panquehue": {
+		"id": "data/CL/Valparaíso/Panquehue",
+		"key": "Panquehue",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/La Ligua": {
+		"id": "data/CL/Valparaíso/La Ligua",
+		"key": "La Ligua",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Valparaíso": {
+		"id": "data/CL/Valparaíso/Valparaíso",
+		"key": "Valparaíso",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Calle Larga": {
+		"id": "data/CL/Valparaíso/Calle Larga",
+		"key": "Calle Larga",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Viña del Mar": {
+		"id": "data/CL/Valparaíso/Viña del Mar",
+		"key": "Viña del Mar",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Tiltil": {
+		"id": "data/CL/Región Metropolitana/Tiltil",
+		"key": "Tiltil",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/El Quisco": {
+		"id": "data/CL/Valparaíso/El Quisco",
+		"key": "El Quisco",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Catemu": {
+		"id": "data/CL/Valparaíso/Catemu",
+		"key": "Catemu",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Concón": {
+		"id": "data/CL/Valparaíso/Concón",
+		"key": "Concón",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Talagante": {
+		"id": "data/CL/Región Metropolitana/Talagante",
+		"key": "Talagante",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Nogales": {
+		"id": "data/CL/Valparaíso/Nogales",
+		"key": "Nogales",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Los Andes": {
+		"id": "data/CL/Valparaíso/Los Andes",
+		"key": "Los Andes",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Algarrobo": {
+		"id": "data/CL/Valparaíso/Algarrobo",
+		"key": "Algarrobo",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Quinta Normal": {
+		"id": "data/CL/Región Metropolitana/Quinta Normal",
+		"key": "Quinta Normal",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Villa Alemana": {
+		"id": "data/CL/Valparaíso/Villa Alemana",
+		"key": "Villa Alemana",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/Santiago": {
+		"id": "data/CL/Región Metropolitana/Santiago",
+		"key": "Santiago",
+		"lang": "es"
+	},
+	"data/CL/Tarapacá/Huara": {
+		"id": "data/CL/Tarapacá/Huara",
+		"key": "Huara",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/La Calera": {
+		"id": "data/CL/Valparaíso/La Calera",
+		"key": "La Calera",
+		"lang": "es"
+	},
+	"data/CL/Región Metropolitana/San Pedro": {
+		"id": "data/CL/Región Metropolitana/San Pedro",
+		"key": "San Pedro",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Santo Domingo": {
+		"id": "data/CL/Valparaíso/Santo Domingo",
+		"key": "Santo Domingo",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/Hijuelas": {
+		"id": "data/CL/Valparaíso/Hijuelas",
+		"key": "Hijuelas",
+		"lang": "es"
+	},
+	"data/CL/Valparaíso/San Felipe": {
+		"id": "data/CL/Valparaíso/San Felipe",
+		"key": "San Felipe",
+		"lang": "es"
+	}
+}

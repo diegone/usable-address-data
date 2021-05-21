@@ -1,0 +1,81 @@
+{
+	"data/AD/Encamp": {
+		"id": "data/AD/Encamp",
+		"key": "Encamp",
+		"name": "Encamp",
+		"lang": "ca",
+		"zip": "AD20[01]",
+		"zipex": "AD200",
+		"isoid": "03"
+	},
+	"data/AD": {
+		"id": "data/AD",
+		"key": "AD",
+		"name": "ANDORRA",
+		"lang": "ca",
+		"languages": "ca",
+		"fmt": "%N%n%O%n%A%n%Z %C",
+		"zip": "AD[1-7]0\\d",
+		"zipex": "AD100,AD501,AD700",
+		"posturl": "http://www.correos.es/comun/CodigosPostales/1010_s-CodPostal.asp?Provincia=",
+		"sub_keys": "Parròquia d'Andorra la Vella~Canillo~Encamp~Escaldes-Engordany~La Massana~Ordino~Sant Julià de Lòria",
+		"sub_names": "Andorra la Vella~Canillo~Encamp~Escaldes-Engordany~La Massana~Ordino~Sant Julià de Lòria",
+		"sub_zips": "AD50[01]~AD10[01]~AD20[01]~AD70[01]~AD40[01]~AD30[01]~AD60[01]",
+		"sub_zipexs": "AD500~AD100~AD200~AD700~AD400~AD300~AD600",
+		"sub_isoids": "07~02~03~08~04~05~06"
+	},
+	"data/AD/Ordino": {
+		"id": "data/AD/Ordino",
+		"key": "Ordino",
+		"name": "Ordino",
+		"lang": "ca",
+		"zip": "AD30[01]",
+		"zipex": "AD300",
+		"isoid": "05"
+	},
+	"data/AD/Canillo": {
+		"id": "data/AD/Canillo",
+		"key": "Canillo",
+		"name": "Canillo",
+		"lang": "ca",
+		"zip": "AD10[01]",
+		"zipex": "AD100",
+		"isoid": "02"
+	},
+	"data/AD/Escaldes-Engordany": {
+		"id": "data/AD/Escaldes-Engordany",
+		"key": "Escaldes-Engordany",
+		"name": "Escaldes-Engordany",
+		"lang": "ca",
+		"zip": "AD70[01]",
+		"zipex": "AD700",
+		"isoid": "08"
+	},
+	"data/AD/Sant Julià de Lòria": {
+		"id": "data/AD/Sant Julià de Lòria",
+		"key": "Sant Julià de Lòria",
+		"name": "Sant Julià de Lòria",
+		"lang": "ca",
+		"zip": "AD60[01]",
+		"zipex": "AD600",
+		"isoid": "06"
+	},
+	"data/AD/Parròquia d'Andorra la Vella": {
+		"id": "data/AD/Parròquia d'Andorra la Vella",
+		"key": "Parròquia d'Andorra la Vella",
+		"name": "Andorra la Vella",
+		"lang": "ca",
+		"zip": "AD50[01]",
+		"zipex": "AD500",
+		"isoid": "07"
+	},
+	"data/AD/La Massana": {
+		"id": "data/AD/La Massana",
+		"key": "La Massana",
+		"name": "La Massana",
+		"lang": "ca",
+		"zip": "AD40[01]",
+		"zipex": "AD400",
+		"isoid": "04"
+	}
+}

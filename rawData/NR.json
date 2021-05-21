@@ -1,0 +1,98 @@
+{
+	"data/NR/Yaren District": {
+		"id": "data/NR/Yaren District",
+		"key": "Yaren District",
+		"lang": "en",
+		"isoid": "14"
+	},
+	"data/NR/Uaboe District": {
+		"id": "data/NR/Uaboe District",
+		"key": "Uaboe District",
+		"lang": "en",
+		"isoid": "13"
+	},
+	"data/NR/Boe District": {
+		"id": "data/NR/Boe District",
+		"key": "Boe District",
+		"lang": "en",
+		"isoid": "06"
+	},
+	"data/NR/Anibare District": {
+		"id": "data/NR/Anibare District",
+		"key": "Anibare District",
+		"lang": "en",
+		"isoid": "04"
+	},
+	"data/NR/Aiwo District": {
+		"id": "data/NR/Aiwo District",
+		"key": "Aiwo District",
+		"lang": "en",
+		"isoid": "01"
+	},
+	"data/NR/Ewa District": {
+		"id": "data/NR/Ewa District",
+		"key": "Ewa District",
+		"lang": "en",
+		"isoid": "09"
+	},
+	"data/NR": {
+		"id": "data/NR",
+		"key": "NR",
+		"name": "NAURU CENTRAL PACIFIC",
+		"lang": "en",
+		"languages": "en",
+		"fmt": "%N%n%O%n%A%n%S",
+		"require": "AS",
+		"state_name_type": "district",
+		"sub_keys": "Aiwo District~Anabar District~Anetan District~Anibare District~Baiti District~Boe District~Buada District~Denigomodu District~Ewa District~Ijuw District~Meneng District~Nibok District~Uaboe District~Yaren District",
+		"sub_isoids": "01~02~03~04~05~06~07~08~09~10~11~12~13~14"
+	},
+	"data/NR/Ijuw District": {
+		"id": "data/NR/Ijuw District",
+		"key": "Ijuw District",
+		"lang": "en",
+		"isoid": "10"
+	},
+	"data/NR/Anabar District": {
+		"id": "data/NR/Anabar District",
+		"key": "Anabar District",
+		"lang": "en",
+		"isoid": "02"
+	},
+	"data/NR/Baiti District": {
+		"id": "data/NR/Baiti District",
+		"key": "Baiti District",
+		"lang": "en",
+		"isoid": "05"
+	},
+	"data/NR/Anetan District": {
+		"id": "data/NR/Anetan District",
+		"key": "Anetan District",
+		"lang": "en",
+		"isoid": "03"
+	},
+	"data/NR/Denigomodu District": {
+		"id": "data/NR/Denigomodu District",
+		"key": "Denigomodu District",
+		"lang": "en",
+		"isoid": "08"
+	},
+	"data/NR/Meneng District": {
+		"id": "data/NR/Meneng District",
+		"key": "Meneng District",
+		"lang": "en",
+		"isoid": "11"
+	},
+	"data/NR/Buada District": {
+		"id": "data/NR/Buada District",
+		"key": "Buada District",
+		"lang": "en",
+		"isoid": "07"
+	},
+	"data/NR/Nibok District": {
+		"id": "data/NR/Nibok District",
+		"key": "Nibok District",
+		"lang": "en",
+		"isoid": "12"
+	}
+}

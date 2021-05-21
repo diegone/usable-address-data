@@ -1,0 +1,243 @@
+{
+	"data/CA/NL": {
+		"id": "data/CA/NL",
+		"key": "NL",
+		"name": "Newfoundland and Labrador",
+		"lang": "en",
+		"zip": "A",
+		"isoid": "NL"
+	},
+	"data/CA/MB": {
+		"id": "data/CA/MB",
+		"key": "MB",
+		"name": "Manitoba",
+		"lang": "en",
+		"zip": "R",
+		"isoid": "MB"
+	},
+	"data/CA/NL--fr": {
+		"id": "data/CA/NL--fr",
+		"key": "NL",
+		"name": "Terre-Neuve-et-Labrador",
+		"lang": "fr",
+		"zip": "A",
+		"isoid": "NL"
+	},
+	"data/CA/NU--fr": {
+		"id": "data/CA/NU--fr",
+		"key": "NU",
+		"name": "Nunavut",
+		"lang": "fr",
+		"zip": "X0A|X0B|X0C",
+		"isoid": "NU"
+	},
+	"data/CA/NS--fr": {
+		"id": "data/CA/NS--fr",
+		"key": "NS",
+		"name": "Nouvelle-Écosse",
+		"lang": "fr",
+		"zip": "B",
+		"isoid": "NS"
+	},
+	"data/CA": {
+		"id": "data/CA",
+		"key": "CA",
+		"name": "CANADA",
+		"lang": "en",
+		"languages": "en~fr",
+		"fmt": "%N%n%O%n%A%n%C %S %Z",
+		"require": "ACSZ",
+		"upper": "ACNOSZ",
+		"zip": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d",
+		"zipex": "H3Z 2Y7,V8X 3X4,T0L 1K0,T0H 1A0,K1A 0B1",
+		"posturl": "https://www.canadapost.ca/cpo/mc/personal/postalcode/fpc.jsf",
+		"sub_keys": "AB~BC~MB~NB~NL~NT~NS~NU~ON~PE~QC~SK~YT",
+		"sub_names": "Alberta~British Columbia~Manitoba~New Brunswick~Newfoundland and Labrador~Northwest Territories~Nova Scotia~Nunavut~Ontario~Prince Edward Island~Quebec~Saskatchewan~Yukon",
+		"sub_zips": "T~V~R~E~A~X0E|X0G|X1A~B~X0A|X0B|X0C~K|L|M|N|P~C~G|H|J|K1A~S|R8A~Y",
+		"sub_isoids": "AB~BC~MB~NB~NL~NT~NS~NU~ON~PE~QC~SK~YT"
+	},
+	"data/CA/QC--fr": {
+		"id": "data/CA/QC--fr",
+		"key": "QC",
+		"name": "Québec",
+		"lang": "fr",
+		"zip": "G|H|J|K1A",
+		"isoid": "QC"
+	},
+	"data/CA/QC": {
+		"id": "data/CA/QC",
+		"key": "QC",
+		"name": "Quebec",
+		"lang": "en",
+		"zip": "G|H|J|K1A",
+		"isoid": "QC"
+	},
+	"data/CA/NU": {
+		"id": "data/CA/NU",
+		"key": "NU",
+		"name": "Nunavut",
+		"lang": "en",
+		"zip": "X0A|X0B|X0C",
+		"isoid": "NU"
+	},
+	"data/CA/NB": {
+		"id": "data/CA/NB",
+		"key": "NB",
+		"name": "New Brunswick",
+		"lang": "en",
+		"zip": "E",
+		"isoid": "NB"
+	},
+	"data/CA/NT--fr": {
+		"id": "data/CA/NT--fr",
+		"key": "NT",
+		"name": "Territoires du Nord-Ouest",
+		"lang": "fr",
+		"zip": "X0E|X0G|X1A",
+		"isoid": "NT"
+	},
+	"data/CA/ON--fr": {
+		"id": "data/CA/ON--fr",
+		"key": "ON",
+		"name": "Ontario",
+		"lang": "fr",
+		"zip": "K|L|M|N|P",
+		"isoid": "ON"
+	},
+	"data/CA/YT--fr": {
+		"id": "data/CA/YT--fr",
+		"key": "YT",
+		"name": "Yukon",
+		"lang": "fr",
+		"zip": "Y",
+		"isoid": "YT"
+	},
+	"data/CA/AB": {
+		"id": "data/CA/AB",
+		"key": "AB",
+		"name": "Alberta",
+		"lang": "en",
+		"zip": "T",
+		"isoid": "AB"
+	},
+	"data/CA/AB--fr": {
+		"id": "data/CA/AB--fr",
+		"key": "AB",
+		"name": "Alberta",
+		"lang": "fr",
+		"zip": "T",
+		"isoid": "AB"
+	},
+	"data/CA/PE": {
+		"id": "data/CA/PE",
+		"key": "PE",
+		"name": "Prince Edward Island",
+		"lang": "en",
+		"zip": "C",
+		"isoid": "PE"
+	},
+	"data/CA/PE--fr": {
+		"id": "data/CA/PE--fr",
+		"key": "PE",
+		"name": "Île-du-Prince-Édouard",
+		"lang": "fr",
+		"zip": "C",
+		"isoid": "PE"
+	},
+	"data/CA/SK": {
+		"id": "data/CA/SK",
+		"key": "SK",
+		"name": "Saskatchewan",
+		"lang": "en",
+		"zip": "S|R8A",
+		"isoid": "SK"
+	},
+	"data/CA--fr": {
+		"id": "data/CA--fr",
+		"key": "CA",
+		"name": "CANADA",
+		"lang": "fr",
+		"fmt": "%N%n%O%n%A%n%C %S %Z",
+		"require": "ACSZ",
+		"upper": "ACNOSZ",
+		"zip": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d",
+		"zipex": "H3Z 2Y7,V8X 3X4,T0L 1K0,T0H 1A0,K1A 0B1",
+		"posturl": "https://www.canadapost.ca/cpo/mc/personal/postalcode/fpc.jsf",
+		"sub_keys": "AB~BC~PE~MB~NB~NS~NU~ON~QC~SK~NL~NT~YT",
+		"sub_names": "Alberta~Colombie-Britannique~Île-du-Prince-Édouard~Manitoba~Nouveau-Brunswick~Nouvelle-Écosse~Nunavut~Ontario~Québec~Saskatchewan~Terre-Neuve-et-Labrador~Territoires du Nord-Ouest~Yukon",
+		"sub_zips": "T~V~C~R~E~B~X0A|X0B|X0C~K|L|M|N|P~G|H|J|K1A~S|R8A~A~X0E|X0G|X1A~Y",
+		"sub_isoids": "AB~BC~PE~MB~NB~NS~NU~ON~QC~SK~NL~NT~YT"
+	},
+	"data/CA/ON": {
+		"id": "data/CA/ON",
+		"key": "ON",
+		"name": "Ontario",
+		"lang": "en",
+		"zip": "K|L|M|N|P",
+		"isoid": "ON"
+	},
+	"data/CA/YT": {
+		"id": "data/CA/YT",
+		"key": "YT",
+		"name": "Yukon",
+		"lang": "en",
+		"zip": "Y",
+		"isoid": "YT"
+	},
+	"data/CA/BC--fr": {
+		"id": "data/CA/BC--fr",
+		"key": "BC",
+		"name": "Colombie-Britannique",
+		"lang": "fr",
+		"zip": "V",
+		"isoid": "BC"
+	},
+	"data/CA/NS": {
+		"id": "data/CA/NS",
+		"key": "NS",
+		"name": "Nova Scotia",
+		"lang": "en",
+		"zip": "B",
+		"isoid": "NS"
+	},
+	"data/CA/NB--fr": {
+		"id": "data/CA/NB--fr",
+		"key": "NB",
+		"name": "Nouveau-Brunswick",
+		"lang": "fr",
+		"zip": "E",
+		"isoid": "NB"
+	},
+	"data/CA/MB--fr": {
+		"id": "data/CA/MB--fr",
+		"key": "MB",
+		"name": "Manitoba",
+		"lang": "fr",
+		"zip": "R",
+		"isoid": "MB"
+	},
+	"data/CA/BC": {
+		"id": "data/CA/BC",
+		"key": "BC",
+		"name": "British Columbia",
+		"lang": "en",
+		"zip": "V",
+		"isoid": "BC"
+	},
+	"data/CA/SK--fr": {
+		"id": "data/CA/SK--fr",
+		"key": "SK",
+		"name": "Saskatchewan",
+		"lang": "fr",
+		"zip": "S|R8A",
+		"isoid": "SK"
+	},
+	"data/CA/NT": {
+		"id": "data/CA/NT",
+		"key": "NT",
+		"name": "Northwest Territories",
+		"lang": "en",
+		"zip": "X0E|X0G|X1A",
+		"isoid": "NT"
+	}
+}

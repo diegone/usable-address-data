@@ -1,0 +1,785 @@
+{
+	"data/RU/Республика Саха (Якутия)": {
+		"id": "data/RU/Республика Саха (Якутия)",
+		"key": "Республика Саха (Якутия)",
+		"name": "Республика Саха (Якутия)",
+		"lang": "ru",
+		"lname": "Sakha (Yakutiya) Republits",
+		"zip": "67[78]",
+		"isoid": "SA"
+	},
+	"data/RU/Ненецкий автономный округ": {
+		"id": "data/RU/Ненецкий автономный округ",
+		"key": "Ненецкий автономный округ",
+		"name": "Ненецкий автономный округ",
+		"lang": "ru",
+		"lname": "Nenetskiy",
+		"zip": "166",
+		"isoid": "NEN"
+	},
+	"data/RU/Мурманская область": {
+		"id": "data/RU/Мурманская область",
+		"key": "Мурманская область",
+		"name": "Мурманская область",
+		"lang": "ru",
+		"lname": "Murmanskaya oblast'",
+		"zip": "18[34]",
+		"isoid": "MUR"
+	},
+	"data/RU/Автономна Республіка Крим": {
+		"id": "data/RU/Автономна Республіка Крим",
+		"key": "Автономна Республіка Крим",
+		"name": "Республика Крым",
+		"lang": "ru",
+		"lname": "Respublika Krym",
+		"zip": "29[5-8]"
+	},
+	"data/RU/Волгоградская область": {
+		"id": "data/RU/Волгоградская область",
+		"key": "Волгоградская область",
+		"name": "Волгоградская область",
+		"lang": "ru",
+		"lname": "Volgogradskaya oblast'",
+		"zip": "40[0-4]",
+		"isoid": "VGG"
+	},
+	"data/RU/Карачаево-Черкесская Республика": {
+		"id": "data/RU/Карачаево-Черкесская Республика",
+		"key": "Карачаево-Черкесская Республика",
+		"name": "Карачаево-Черкесская Республика",
+		"lang": "ru",
+		"lname": "Karachaevo-Cherkesskaya Republits",
+		"zip": "369",
+		"isoid": "KC"
+	},
+	"data/RU/Ханты-Мансийский автономный округ": {
+		"id": "data/RU/Ханты-Мансийский автономный округ",
+		"key": "Ханты-Мансийский автономный округ",
+		"name": "Ханты-Мансийский автономный округ",
+		"lang": "ru",
+		"lname": "Khanty-Mansiyskiy avtonomnyy okrug",
+		"zip": "628",
+		"isoid": "KHM"
+	},
+	"data/RU/Свердловская область": {
+		"id": "data/RU/Свердловская область",
+		"key": "Свердловская область",
+		"name": "Свердловская область",
+		"lang": "ru",
+		"lname": "Sverdlovskaya oblast'",
+		"zip": "62[0-4]",
+		"isoid": "SVE"
+	},
+	"data/RU/Орловская область": {
+		"id": "data/RU/Орловская область",
+		"key": "Орловская область",
+		"name": "Орловская область",
+		"lang": "ru",
+		"lname": "Orlovskaya oblast'",
+		"zip": "30[23]",
+		"isoid": "ORL"
+	},
+	"data/RU/Республика Тыва": {
+		"id": "data/RU/Республика Тыва",
+		"key": "Республика Тыва",
+		"name": "Республика Тыва",
+		"lang": "ru",
+		"lname": "Tyva Republits",
+		"zip": "66[78]",
+		"isoid": "TY"
+	},
+	"data/RU/Ленинградская область": {
+		"id": "data/RU/Ленинградская область",
+		"key": "Ленинградская область",
+		"name": "Ленинградская область",
+		"lang": "ru",
+		"lname": "Leningradskaya oblast'",
+		"zip": "18[78]",
+		"isoid": "LEN"
+	},
+	"data/RU/Новосибирская область": {
+		"id": "data/RU/Новосибирская область",
+		"key": "Новосибирская область",
+		"name": "Новосибирская область",
+		"lang": "ru",
+		"lname": "Novosibirskaya oblast'",
+		"zip": "63[0-3]",
+		"isoid": "NVS"
+	},
+	"data/RU/Камчатский край": {
+		"id": "data/RU/Камчатский край",
+		"key": "Камчатский край",
+		"name": "Камчатский край",
+		"lang": "ru",
+		"lname": "Kamchatskiy kray",
+		"zip": "68[348]",
+		"isoid": "KAM"
+	},
+	"data/RU/Томская область": {
+		"id": "data/RU/Томская область",
+		"key": "Томская область",
+		"name": "Томская область",
+		"lang": "ru",
+		"lname": "Tomskaya oblast'",
+		"zip": "63[4-6]",
+		"isoid": "TOM"
+	},
+	"data/RU/Севастополь": {
+		"id": "data/RU/Севастополь",
+		"key": "Севастополь",
+		"name": "Севастополь",
+		"lang": "ru",
+		"lname": "Sevastopol'",
+		"zip": "299"
+	},
+	"data/RU/Нижегородская область": {
+		"id": "data/RU/Нижегородская область",
+		"key": "Нижегородская область",
+		"name": "Нижегородская область",
+		"lang": "ru",
+		"lname": "Nizhegorodskaya oblast'",
+		"zip": "60[3-7]",
+		"isoid": "NIZ"
+	},
+	"data/RU/Санкт-Петербург": {
+		"id": "data/RU/Санкт-Петербург",
+		"key": "Санкт-Петербург",
+		"name": "Санкт-Петербург",
+		"lang": "ru",
+		"lname": "Sankt-Peterburg",
+		"zip": "19",
+		"isoid": "SPE"
+	},
+	"data/RU/Белгородская область": {
+		"id": "data/RU/Белгородская область",
+		"key": "Белгородская область",
+		"name": "Белгородская область",
+		"lang": "ru",
+		"lname": "Belgorodskaya oblast'",
+		"zip": "30[89]",
+		"isoid": "BEL"
+	},
+	"data/RU/Республика Карелия": {
+		"id": "data/RU/Республика Карелия",
+		"key": "Республика Карелия",
+		"name": "Республика Карелия",
+		"lang": "ru",
+		"lname": "Kareliya Republits",
+		"zip": "18[56]",
+		"isoid": "KR"
+	},
+	"data/RU/Республика Татарстан": {
+		"id": "data/RU/Республика Татарстан",
+		"key": "Республика Татарстан",
+		"name": "Республика Татарстан",
+		"lang": "ru",
+		"lname": "Respublika Tatarstan",
+		"zip": "42[0-3]",
+		"isoid": "TA"
+	},
+	"data/RU/Республика Калмыкия": {
+		"id": "data/RU/Республика Калмыкия",
+		"key": "Республика Калмыкия",
+		"name": "Республика Калмыкия",
+		"lang": "ru",
+		"lname": "Respublika Kalmykiya",
+		"zip": "35[89]",
+		"isoid": "KL"
+	},
+	"data/RU/Красноярский край": {
+		"id": "data/RU/Красноярский край",
+		"key": "Красноярский край",
+		"name": "Красноярский край",
+		"lang": "ru",
+		"lname": "Krasnoyarskiy kray",
+		"zip": "6(?:6[0-3]|4[78])",
+		"isoid": "KYA"
+	},
+	"data/RU/Республика Адыгея": {
+		"id": "data/RU/Республика Адыгея",
+		"key": "Республика Адыгея",
+		"name": "Республика Адыгея",
+		"lang": "ru",
+		"lname": "Respublika Adygeya",
+		"zip": "385",
+		"isoid": "AD"
+	},
+	"data/RU/Магаданская область": {
+		"id": "data/RU/Магаданская область",
+		"key": "Магаданская область",
+		"name": "Магаданская область",
+		"lang": "ru",
+		"lname": "Magadanskaya oblast'",
+		"zip": "68[56]",
+		"isoid": "MAG"
+	},
+	"data/RU/Курская область": {
+		"id": "data/RU/Курская область",
+		"key": "Курская область",
+		"name": "Курская область",
+		"lang": "ru",
+		"lname": "Kurskaya oblast'",
+		"zip": "30[5-7]",
+		"isoid": "KRS"
+	},
+	"data/RU/Чувашская Республика": {
+		"id": "data/RU/Чувашская Республика",
+		"key": "Чувашская Республика",
+		"name": "Чувашская Республика",
+		"lang": "ru",
+		"lname": "Chuvashia",
+		"zip": "42[89]",
+		"isoid": "CU"
+	},
+	"data/RU/Калужская область": {
+		"id": "data/RU/Калужская область",
+		"key": "Калужская область",
+		"name": "Калужская область",
+		"lang": "ru",
+		"lname": "Kaluzhskaya oblast'",
+		"zip": "24[89]",
+		"isoid": "KLU"
+	},
+	"data/RU/Курганская область": {
+		"id": "data/RU/Курганская область",
+		"key": "Курганская область",
+		"name": "Курганская область",
+		"lang": "ru",
+		"lname": "Kurganskaya oblast'",
+		"zip": "64[01]",
+		"isoid": "KGN"
+	},
+	"data/RU/Республика Дагестан": {
+		"id": "data/RU/Республика Дагестан",
+		"key": "Республика Дагестан",
+		"name": "Республика Дагестан",
+		"lang": "ru",
+		"lname": "Dagestan Republits",
+		"zip": "36[78]",
+		"isoid": "DA"
+	},
+	"data/RU/Владимирская область": {
+		"id": "data/RU/Владимирская область",
+		"key": "Владимирская область",
+		"name": "Владимирская область",
+		"lang": "ru",
+		"lname": "Vladimirskaya oblast'",
+		"zip": "60[0-2]",
+		"isoid": "VLA"
+	},
+	"data/RU/Тульская область": {
+		"id": "data/RU/Тульская область",
+		"key": "Тульская область",
+		"name": "Тульская область",
+		"lang": "ru",
+		"lname": "Tulskaya oblast'",
+		"zip": "30[01]",
+		"isoid": "TUL"
+	},
+	"data/RU/Сахалинская область": {
+		"id": "data/RU/Сахалинская область",
+		"key": "Сахалинская область",
+		"name": "Сахалинская область",
+		"lang": "ru",
+		"lname": "Sakhalinskaya oblast'",
+		"zip": "69[34]",
+		"isoid": "SAK"
+	},
+	"data/RU/Приморский край": {
+		"id": "data/RU/Приморский край",
+		"key": "Приморский край",
+		"name": "Приморский край",
+		"lang": "ru",
+		"lname": "Primorskiy kray",
+		"zip": "69[0-2]",
+		"isoid": "PRI"
+	},
+	"data/RU/Еврейская автономная область": {
+		"id": "data/RU/Еврейская автономная область",
+		"key": "Еврейская автономная область",
+		"name": "Еврейская автономная область",
+		"lang": "ru",
+		"lname": "Evreyskaya avtonomnaya oblast'",
+		"zip": "679",
+		"isoid": "YEV"
+	},
+	"data/RU/Ульяновская область": {
+		"id": "data/RU/Ульяновская область",
+		"key": "Ульяновская область",
+		"name": "Ульяновская область",
+		"lang": "ru",
+		"lname": "Ulyanovskaya oblast'",
+		"zip": "43[23]",
+		"isoid": "ULY"
+	},
+	"data/RU/Хабаровский край": {
+		"id": "data/RU/Хабаровский край",
+		"key": "Хабаровский край",
+		"name": "Хабаровский край",
+		"lang": "ru",
+		"lname": "Khabarovskiy kray",
+		"zip": "68[0-2]",
+		"isoid": "KHA"
+	},
+	"data/RU/Республика Ингушетия": {
+		"id": "data/RU/Республика Ингушетия",
+		"key": "Республика Ингушетия",
+		"name": "Республика Ингушетия",
+		"lang": "ru",
+		"lname": "Ingushetiya Republits",
+		"zip": "386",
+		"isoid": "IN"
+	},
+	"data/RU/Тюменская область": {
+		"id": "data/RU/Тюменская область",
+		"key": "Тюменская область",
+		"name": "Тюменская область",
+		"lang": "ru",
+		"lname": "Tyumenskaya oblast'",
+		"zip": "62[5-7]",
+		"isoid": "TYU"
+	},
+	"data/RU/Пермский край": {
+		"id": "data/RU/Пермский край",
+		"key": "Пермский край",
+		"name": "Пермский край",
+		"lang": "ru",
+		"lname": "Permskiy kray",
+		"zip": "61[4-9]",
+		"isoid": "PER"
+	},
+	"data/RU/Москва": {
+		"id": "data/RU/Москва",
+		"key": "Москва",
+		"name": "Москва",
+		"lang": "ru",
+		"lname": "Moskva",
+		"zip": "1(?:0[1-9]|1|2|3[0-5]|4[0-4])",
+		"isoid": "MOW"
+	},
+	"data/RU/Республика Башкортостан": {
+		"id": "data/RU/Республика Башкортостан",
+		"key": "Республика Башкортостан",
+		"name": "Республика Башкортостан",
+		"lang": "ru",
+		"lname": "Bashkortostan Republits",
+		"zip": "45[0-3]",
+		"isoid": "BA"
+	},
+	"data/RU/Кемеровская область": {
+		"id": "data/RU/Кемеровская область",
+		"key": "Кемеровская область",
+		"name": "Кемеровская область",
+		"lang": "ru",
+		"lname": "Kemerovskaya oblast'",
+		"zip": "65[0-4]",
+		"isoid": "KEM"
+	},
+	"data/RU/Смоленская область": {
+		"id": "data/RU/Смоленская область",
+		"key": "Смоленская область",
+		"name": "Смоленская область",
+		"lang": "ru",
+		"lname": "Smolenskaya oblast'",
+		"zip": "21[4-6]",
+		"isoid": "SMO"
+	},
+	"data/RU/Ивановская область": {
+		"id": "data/RU/Ивановская область",
+		"key": "Ивановская область",
+		"name": "Ивановская область",
+		"lang": "ru",
+		"lname": "Ivanovskaya oblast'",
+		"zip": "15[3-5]",
+		"isoid": "IVA"
+	},
+	"data/RU/Ростовская область": {
+		"id": "data/RU/Ростовская область",
+		"key": "Ростовская область",
+		"name": "Ростовская область",
+		"lang": "ru",
+		"lname": "Rostovskaya oblast'",
+		"zip": "34[4-7]",
+		"isoid": "ROS"
+	},
+	"data/RU/Республика Алтай": {
+		"id": "data/RU/Республика Алтай",
+		"key": "Республика Алтай",
+		"name": "Республика Алтай",
+		"lang": "ru",
+		"lname": "Altay Republits",
+		"zip": "649",
+		"isoid": "AL"
+	},
+	"data/RU/Московская область": {
+		"id": "data/RU/Московская область",
+		"key": "Московская область",
+		"name": "Московская область",
+		"lang": "ru",
+		"lname": "Moskovskaya oblast'",
+		"zip": "14[0-4]",
+		"isoid": "MOS"
+	},
+	"data/RU/Ставропольский край": {
+		"id": "data/RU/Ставропольский край",
+		"key": "Ставропольский край",
+		"name": "Ставропольский край",
+		"lang": "ru",
+		"lname": "Stavropolskiy kray",
+		"zip": "35[5-7]",
+		"isoid": "STA"
+	},
+	"data/RU/Алтайский край": {
+		"id": "data/RU/Алтайский край",
+		"key": "Алтайский край",
+		"name": "Алтайский край",
+		"lang": "ru",
+		"lname": "Altayskiy kray",
+		"zip": "65[6-9]",
+		"isoid": "ALT"
+	},
+	"data/RU/Саратовская область": {
+		"id": "data/RU/Саратовская область",
+		"key": "Саратовская область",
+		"name": "Саратовская область",
+		"lang": "ru",
+		"lname": "Saratovskaya oblast'",
+		"zip": "41[0-3]",
+		"isoid": "SAR"
+	},
+	"data/RU/Ярославская область": {
+		"id": "data/RU/Ярославская область",
+		"key": "Ярославская область",
+		"name": "Ярославская область",
+		"lang": "ru",
+		"lname": "Yaroslavskaya oblast'",
+		"zip": "15[0-2]",
+		"isoid": "YAR"
+	},
+	"data/RU/Краснодарский край": {
+		"id": "data/RU/Краснодарский край",
+		"key": "Краснодарский край",
+		"name": "Краснодарский край",
+		"lang": "ru",
+		"lname": "Krasnodarskiy kray",
+		"zip": "35[0-4]",
+		"isoid": "KDA"
+	},
+	"data/RU/Чеченская Республика": {
+		"id": "data/RU/Чеченская Республика",
+		"key": "Чеченская Республика",
+		"name": "Чеченская Республика",
+		"lang": "ru",
+		"lname": "Chechenskaya Republits",
+		"zip": "36[4-6]",
+		"isoid": "CE"
+	},
+	"data/RU/Воронежская область": {
+		"id": "data/RU/Воронежская область",
+		"key": "Воронежская область",
+		"name": "Воронежская область",
+		"lang": "ru",
+		"lname": "Voronezhskaya oblast'",
+		"zip": "39[4-7]",
+		"isoid": "VOR"
+	},
+	"data/RU/Архангельская область": {
+		"id": "data/RU/Архангельская область",
+		"key": "Архангельская область",
+		"name": "Архангельская область",
+		"lang": "ru",
+		"lname": "Arkhangelskaya oblast'",
+		"zip": "16[3-5]",
+		"isoid": "ARK"
+	},
+	"data/RU/Республика Хакасия": {
+		"id": "data/RU/Республика Хакасия",
+		"key": "Республика Хакасия",
+		"name": "Республика Хакасия",
+		"lang": "ru",
+		"lname": "Khakasiya Republits",
+		"zip": "655",
+		"isoid": "KK"
+	},
+	"data/RU/Оренбургская область": {
+		"id": "data/RU/Оренбургская область",
+		"key": "Оренбургская область",
+		"name": "Оренбургская область",
+		"lang": "ru",
+		"lname": "Orenburgskaya oblast'",
+		"zip": "46[0-2]",
+		"isoid": "ORE"
+	},
+	"data/RU/Амурская область": {
+		"id": "data/RU/Амурская область",
+		"key": "Амурская область",
+		"name": "Амурская область",
+		"lang": "ru",
+		"lname": "Amurskaya oblast'",
+		"zip": "67[56]",
+		"isoid": "AMU"
+	},
+	"data/RU/Республика Удмуртия": {
+		"id": "data/RU/Республика Удмуртия",
+		"key": "Республика Удмуртия",
+		"name": "Республика Удмуртия",
+		"lang": "ru",
+		"lname": "Udmurtskaja Respublika",
+		"zip": "42[67]",
+		"isoid": "UD"
+	},
+	"data/RU/Республика Северная Осетия-Алания": {
+		"id": "data/RU/Республика Северная Осетия-Алания",
+		"key": "Республика Северная Осетия-Алания",
+		"name": "Республика Северная Осетия-Алания",
+		"lang": "ru",
+		"lname": "Respublika Severnaya Osetiya-Alaniya",
+		"zip": "36[23]",
+		"isoid": "SE"
+	},
+	"data/RU/Кабардино-Балкарская Республика": {
+		"id": "data/RU/Кабардино-Балкарская Республика",
+		"key": "Кабардино-Балкарская Республика",
+		"name": "Кабардино-Балкарская Республика",
+		"lang": "ru",
+		"lname": "Kabardino-Balkarskaya Republits",
+		"zip": "36[01]",
+		"isoid": "KB"
+	},
+	"data/RU/Вологодская область": {
+		"id": "data/RU/Вологодская область",
+		"key": "Вологодская область",
+		"name": "Вологодская область",
+		"lang": "ru",
+		"lname": "Vologodskaya oblast'",
+		"zip": "16[0-2]",
+		"isoid": "VLG"
+	},
+	"data/RU/Костромская область": {
+		"id": "data/RU/Костромская область",
+		"key": "Костромская область",
+		"name": "Костромская область",
+		"lang": "ru",
+		"lname": "Kostromskaya oblast'",
+		"zip": "15[67]",
+		"isoid": "KOS"
+	},
+	"data/RU/Иркутская область": {
+		"id": "data/RU/Иркутская область",
+		"key": "Иркутская область",
+		"name": "Иркутская область",
+		"lang": "ru",
+		"lname": "Irkutskaya oblast'",
+		"zip": "66[4-9]",
+		"isoid": "IRK"
+	},
+	"data/RU": {
+		"id": "data/RU",
+		"key": "RU",
+		"name": "RUSSIAN FEDERATION",
+		"lang": "ru",
+		"languages": "ru",
+		"fmt": "%N%n%O%n%A%n%C%n%S%n%Z",
+		"lfmt": "%N%n%O%n%A%n%C%n%S%n%Z",
+		"require": "ACSZ",
+		"upper": "AC",
+		"zip": "\\d{6}",
+		"zipex": "247112,103375,188300",
+		"posturl": "https://www.pochta.ru/post-index",
+		"state_name_type": "oblast",
+		"sub_keys": "Алтайский край~Амурская область~Архангельская область~Астраханская область~Белгородская область~Брянская область~Владимирская область~Волгоградская область~Вологодская область~Воронежская область~Еврейская автономная область~Забайкальский край~Ивановская область~Иркутская область~Кабардино-Балкарская Республика~Калининградская область~Калужская область~Камчатский край~Карачаево-Черкесская Республика~Кемеровская область~Кировская область~Костромская область~Краснодарский край~Красноярский край~Курганская область~Курская область~Ленинградская область~Липецкая область~Магаданская область~Москва~Московская область~Мурманская область~Ненецкий автономный округ~Нижегородская область~Новгородская область~Новосибирская область~Омская область~Оренбургская область~Орловская область~Пензенская область~Пермский край~Приморский край~Псковская область~Республика Адыгея~Республика Алтай~Республика Башкортостан~Республика Бурятия~Республика Дагестан~Республика Ингушетия~Республика Калмыкия~Республика Карелия~Республика Коми~Автономна Республіка Крим~Республика Марий Эл~Республика Мордовия~Республика Саха (Якутия)~Республика Северная Осетия-Алания~Республика Татарстан~Республика Тыва~Республика Удмуртия~Республика Хакасия~Ростовская область~Рязанская область~Самарская область~Санкт-Петербург~Саратовская область~Сахалинская область~Свердловская область~Севастополь~Смоленская область~Ставропольский край~Тамбовская область~Тверская область~Томская область~Тульская область~Тюменская область~Ульяновская область~Хабаровский край~Ханты-Мансийский автономный округ~Челябинская область~Чеченская Республика~Чувашская Республика~Чукотский автономный округ~Ямало-Ненецкий автономный округ~Ярославская область",
+		"sub_names": "Алтайский край~Амурская область~Архангельская область~Астраханская область~Белгородская область~Брянская область~Владимирская область~Волгоградская область~Вологодская область~Воронежская область~Еврейская автономная область~Забайкальский край~Ивановская область~Иркутская область~Кабардино-Балкарская Республика~Калининградская область~Калужская область~Камчатский край~Карачаево-Черкесская Республика~Кемеровская область~Кировская область~Костромская область~Краснодарский край~Красноярский край~Курганская область~Курская область~Ленинградская область~Липецкая область~Магаданская область~Москва~Московская область~Мурманская область~Ненецкий автономный округ~Нижегородская область~Новгородская область~Новосибирская область~Омская область~Оренбургская область~Орловская область~Пензенская область~Пермский край~Приморский край~Псковская область~Республика Адыгея~Республика Алтай~Республика Башкортостан~Республика Бурятия~Республика Дагестан~Республика Ингушетия~Республика Калмыкия~Республика Карелия~Республика Коми~Республика Крым~Республика Марий Эл~Республика Мордовия~Республика Саха (Якутия)~Республика Северная Осетия-Алания~Республика Татарстан~Республика Тыва~Республика Удмуртия~Республика Хакасия~Ростовская область~Рязанская область~Самарская область~Санкт-Петербург~Саратовская область~Сахалинская область~Свердловская область~Севастополь~Смоленская область~Ставропольский край~Тамбовская область~Тверская область~Томская область~Тульская область~Тюменская область~Ульяновская область~Хабаровский край~Ханты-Мансийский автономный округ~Челябинская область~Чеченская Республика~Чувашская Республика~Чукотский автономный округ~Ямало-Ненецкий автономный округ~Ярославская область",
+		"sub_lnames": "Altayskiy kray~Amurskaya oblast'~Arkhangelskaya oblast'~Astrakhanskaya oblast'~Belgorodskaya oblast'~Bryanskaya oblast'~Vladimirskaya oblast'~Volgogradskaya oblast'~Vologodskaya oblast'~Voronezhskaya oblast'~Evreyskaya avtonomnaya oblast'~Zabaykalskiy kray~Ivanovskaya oblast'~Irkutskaya oblast'~Kabardino-Balkarskaya Republits~Kaliningradskaya oblast'~Kaluzhskaya oblast'~Kamchatskiy kray~Karachaevo-Cherkesskaya Republits~Kemerovskaya oblast'~Kirovskaya oblast'~Kostromskaya oblast'~Krasnodarskiy kray~Krasnoyarskiy kray~Kurganskaya oblast'~Kurskaya oblast'~Leningradskaya oblast'~Lipetskaya oblast'~Magadanskaya oblast'~Moskva~Moskovskaya oblast'~Murmanskaya oblast'~Nenetskiy~Nizhegorodskaya oblast'~Novgorodskaya oblast'~Novosibirskaya oblast'~Omskaya oblast'~Orenburgskaya oblast'~Orlovskaya oblast'~Penzenskaya oblast'~Permskiy kray~Primorskiy kray~Pskovskaya oblast'~Respublika Adygeya~Altay Republits~Bashkortostan Republits~Buryatiya Republits~Dagestan Republits~Ingushetiya Republits~Respublika Kalmykiya~Kareliya Republits~Komi Republits~Respublika Krym~Respublika Mariy El~Respublika Mordoviya~Sakha (Yakutiya) Republits~Respublika Severnaya Osetiya-Alaniya~Respublika Tatarstan~Tyva Republits~Udmurtskaja Respublika~Khakasiya Republits~Rostovskaya oblast'~Ryazanskaya oblast'~Samarskaya oblast'~Sankt-Peterburg~Saratovskaya oblast'~Sakhalinskaya oblast'~Sverdlovskaya oblast'~Sevastopol'~Smolenskaya oblast'~Stavropolskiy kray~Tambovskaya oblast'~Tverskaya oblast'~Tomskaya oblast'~Tulskaya oblast'~Tyumenskaya oblast'~Ulyanovskaya oblast'~Khabarovskiy kray~Khanty-Mansiyskiy avtonomnyy okrug~Chelyabinskaya oblast'~Chechenskaya Republits~Chuvashia~Chukotskiy~Yamalo-Nenetskiy~Yaroslavskaya oblast'",
+		"sub_zips": "65[6-9]~67[56]~16[3-5]~41[4-6]~30[89]~24[1-3]~60[0-2]~40[0-4]~16[0-2]~39[4-7]~679~6(?:7[2-4]|87)~15[3-5]~66[4-9]~36[01]~23[6-8]~24[89]~68[348]~369~65[0-4]~61[0-3]~15[67]~35[0-4]~6(?:6[0-3]|4[78])~64[01]~30[5-7]~18[78]~39[89]~68[56]~1(?:0[1-9]|1|2|3[0-5]|4[0-4])~14[0-4]~18[34]~166~60[3-7]~17[3-5]~63[0-3]~64[4-6]~46[0-2]~30[23]~44[0-2]~61[4-9]~69[0-2]~18[0-2]~385~649~45[0-3]~67[01]~36[78]~386~35[89]~18[56]~16[7-9]~29[5-8]~42[45]~43[01]~67[78]~36[23]~42[0-3]~66[78]~42[67]~655~34[4-7]~39[01]~44[3-6]~19~41[0-3]~69[34]~62[0-4]~299~21[4-6]~35[5-7]~39[23]~17[0-2]~63[4-6]~30[01]~62[5-7]~43[23]~68[0-2]~628~45[4-7]~36[4-6]~42[89]~689~629~15[0-2]",
+		"sub_isoids": "ALT~AMU~ARK~AST~BEL~BRY~VLA~VGG~VLG~VOR~YEV~ZAB~IVA~IRK~KB~KGD~KLU~KAM~KC~KEM~KIR~KOS~KDA~KYA~KGN~KRS~LEN~LIP~MAG~MOW~MOS~MUR~NEN~NIZ~NGR~NVS~OMS~ORE~ORL~PNZ~PER~PRI~PSK~AD~AL~BA~BU~DA~IN~KL~KR~KO~~ME~MO~SA~SE~TA~TY~UD~KK~ROS~RYA~SAM~SPE~SAR~SAK~SVE~~SMO~STA~TAM~TVE~TOM~TUL~TYU~ULY~KHA~KHM~CHE~CE~CU~CHU~YAN~YAR"
+	},
+	"data/RU/Новгородская область": {
+		"id": "data/RU/Новгородская область",
+		"key": "Новгородская область",
+		"name": "Новгородская область",
+		"lang": "ru",
+		"lname": "Novgorodskaya oblast'",
+		"zip": "17[3-5]",
+		"isoid": "NGR"
+	},
+	"data/RU/Рязанская область": {
+		"id": "data/RU/Рязанская область",
+		"key": "Рязанская область",
+		"name": "Рязанская область",
+		"lang": "ru",
+		"lname": "Ryazanskaya oblast'",
+		"zip": "39[01]",
+		"isoid": "RYA"
+	},
+	"data/RU/Псковская область": {
+		"id": "data/RU/Псковская область",
+		"key": "Псковская область",
+		"name": "Псковская область",
+		"lang": "ru",
+		"lname": "Pskovskaya oblast'",
+		"zip": "18[0-2]",
+		"isoid": "PSK"
+	},
+	"data/RU/Республика Марий Эл": {
+		"id": "data/RU/Республика Марий Эл",
+		"key": "Республика Марий Эл",
+		"name": "Республика Марий Эл",
+		"lang": "ru",
+		"lname": "Respublika Mariy El",
+		"zip": "42[45]",
+		"isoid": "ME"
+	},
+	"data/RU/Республика Мордовия": {
+		"id": "data/RU/Республика Мордовия",
+		"key": "Республика Мордовия",
+		"name": "Республика Мордовия",
+		"lang": "ru",
+		"lname": "Respublika Mordoviya",
+		"zip": "43[01]",
+		"isoid": "MO"
+	},
+	"data/RU/Пензенская область": {
+		"id": "data/RU/Пензенская область",
+		"key": "Пензенская область",
+		"name": "Пензенская область",
+		"lang": "ru",
+		"lname": "Penzenskaya oblast'",
+		"zip": "44[0-2]",
+		"isoid": "PNZ"
+	},
+	"data/RU/Брянская область": {
+		"id": "data/RU/Брянская область",
+		"key": "Брянская область",
+		"name": "Брянская область",
+		"lang": "ru",
+		"lname": "Bryanskaya oblast'",
+		"zip": "24[1-3]",
+		"isoid": "BRY"
+	},
+	"data/RU/Челябинская область": {
+		"id": "data/RU/Челябинская область",
+		"key": "Челябинская область",
+		"name": "Челябинская область",
+		"lang": "ru",
+		"lname": "Chelyabinskaya oblast'",
+		"zip": "45[4-7]",
+		"isoid": "CHE"
+	},
+	"data/RU/Калининградская область": {
+		"id": "data/RU/Калининградская область",
+		"key": "Калининградская область",
+		"name": "Калининградская область",
+		"lang": "ru",
+		"lname": "Kaliningradskaya oblast'",
+		"zip": "23[6-8]",
+		"isoid": "KGD"
+	},
+	"data/RU/Липецкая область": {
+		"id": "data/RU/Липецкая область",
+		"key": "Липецкая область",
+		"name": "Липецкая область",
+		"lang": "ru",
+		"lname": "Lipetskaya oblast'",
+		"zip": "39[89]",
+		"isoid": "LIP"
+	},
+	"data/RU/Ямало-Ненецкий автономный округ": {
+		"id": "data/RU/Ямало-Ненецкий автономный округ",
+		"key": "Ямало-Ненецкий автономный округ",
+		"name": "Ямало-Ненецкий автономный округ",
+		"lang": "ru",
+		"lname": "Yamalo-Nenetskiy",
+		"zip": "629",
+		"isoid": "YAN"
+	},
+	"data/RU/Забайкальский край": {
+		"id": "data/RU/Забайкальский край",
+		"key": "Забайкальский край",
+		"name": "Забайкальский край",
+		"lang": "ru",
+		"lname": "Zabaykalskiy kray",
+		"zip": "6(?:7[2-4]|87)",
+		"isoid": "ZAB"
+	},
+	"data/RU/Астраханская область": {
+		"id": "data/RU/Астраханская область",
+		"key": "Астраханская область",
+		"name": "Астраханская область",
+		"lang": "ru",
+		"lname": "Astrakhanskaya oblast'",
+		"zip": "41[4-6]",
+		"isoid": "AST"
+	},
+	"data/RU/Тверская область": {
+		"id": "data/RU/Тверская область",
+		"key": "Тверская область",
+		"name": "Тверская область",
+		"lang": "ru",
+		"lname": "Tverskaya oblast'",
+		"zip": "17[0-2]",
+		"isoid": "TVE"
+	},
+	"data/RU/Омская область": {
+		"id": "data/RU/Омская область",
+		"key": "Омская область",
+		"name": "Омская область",
+		"lang": "ru",
+		"lname": "Omskaya oblast'",
+		"zip": "64[4-6]",
+		"isoid": "OMS"
+	},
+	"data/RU/Республика Бурятия": {
+		"id": "data/RU/Республика Бурятия",
+		"key": "Республика Бурятия",
+		"name": "Республика Бурятия",
+		"lang": "ru",
+		"lname": "Buryatiya Republits",
+		"zip": "67[01]",
+		"isoid": "BU"
+	},
+	"data/RU/Тамбовская область": {
+		"id": "data/RU/Тамбовская область",
+		"key": "Тамбовская область",
+		"name": "Тамбовская область",
+		"lang": "ru",
+		"lname": "Tambovskaya oblast'",
+		"zip": "39[23]",
+		"isoid": "TAM"
+	},
+	"data/RU/Республика Коми": {
+		"id": "data/RU/Республика Коми",
+		"key": "Республика Коми",
+		"name": "Республика Коми",
+		"lang": "ru",
+		"lname": "Komi Republits",
+		"zip": "16[7-9]",
+		"isoid": "KO"
+	},
+	"data/RU/Чукотский автономный округ": {
+		"id": "data/RU/Чукотский автономный округ",
+		"key": "Чукотский автономный округ",
+		"name": "Чукотский автономный округ",
+		"lang": "ru",
+		"lname": "Chukotskiy",
+		"zip": "689",
+		"isoid": "CHU"
+	},
+	"data/RU/Кировская область": {
+		"id": "data/RU/Кировская область",
+		"key": "Кировская область",
+		"name": "Кировская область",
+		"lang": "ru",
+		"lname": "Kirovskaya oblast'",
+		"zip": "61[0-3]",
+		"isoid": "KIR"
+	},
+	"data/RU/Самарская область": {
+		"id": "data/RU/Самарская область",
+		"key": "Самарская область",
+		"name": "Самарская область",
+		"lang": "ru",
+		"lname": "Samarskaya oblast'",
+		"zip": "44[3-6]",
+		"isoid": "SAM"
+	}
+}

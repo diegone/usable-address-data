@@ -1,0 +1,143 @@
+{
+	"data/SO/SD": {
+		"id": "data/SO/SD",
+		"key": "SD",
+		"name": "Shabeellaha Dhexe",
+		"lang": "so",
+		"isoid": "SD"
+	},
+	"data/SO/BY": {
+		"id": "data/SO/BY",
+		"key": "BY",
+		"name": "Bay",
+		"lang": "so",
+		"isoid": "BY"
+	},
+	"data/SO/TG": {
+		"id": "data/SO/TG",
+		"key": "TG",
+		"name": "Togdheer",
+		"lang": "so",
+		"isoid": "TO"
+	},
+	"data/SO/AD": {
+		"id": "data/SO/AD",
+		"key": "AD",
+		"name": "Awdal",
+		"lang": "so",
+		"isoid": "AW"
+	},
+	"data/SO/JD": {
+		"id": "data/SO/JD",
+		"key": "JD",
+		"name": "Jubbada Dhexe",
+		"lang": "so",
+		"isoid": "JD"
+	},
+	"data/SO/SL": {
+		"id": "data/SO/SL",
+		"key": "SL",
+		"name": "Sool",
+		"lang": "so",
+		"isoid": "SO"
+	},
+	"data/SO/GD": {
+		"id": "data/SO/GD",
+		"key": "GD",
+		"name": "Gedo",
+		"lang": "so",
+		"isoid": "GE"
+	},
+	"data/SO/WG": {
+		"id": "data/SO/WG",
+		"key": "WG",
+		"name": "Woqooyi Galbeed",
+		"lang": "so",
+		"isoid": "WO"
+	},
+	"data/SO/BR": {
+		"id": "data/SO/BR",
+		"key": "BR",
+		"name": "Bari",
+		"lang": "so",
+		"isoid": "BR"
+	},
+	"data/SO/NG": {
+		"id": "data/SO/NG",
+		"key": "NG",
+		"name": "Nugaal",
+		"lang": "so",
+		"isoid": "NU"
+	},
+	"data/SO": {
+		"id": "data/SO",
+		"key": "SO",
+		"name": "SOMALIA",
+		"lang": "so",
+		"languages": "so",
+		"fmt": "%N%n%O%n%A%n%C, %S %Z",
+		"require": "ACS",
+		"upper": "ACS",
+		"zip": "[A-Z]{2} ?\\d{5}",
+		"zipex": "JH 09010,AD 11010",
+		"sub_keys": "AD~BK~BN~BR~BY~GG~GD~HR~JD~JH~MD~NG~SG~SD~SH~SL~TG~WG",
+		"sub_names": "Awdal~Bakool~Banaadir~Bari~Bay~Galguduud~Gedo~Hiiraan~Jubbada Dhexe~Jubbada Hoose~Mudug~Nugaal~Sanaag~Shabeellaha Dhexe~Shabeellaha Hoose~Sool~Togdheer~Woqooyi Galbeed",
+		"sub_isoids": "AW~BK~BN~BR~BY~GA~GE~HI~JD~JH~MU~NU~SA~SD~SH~SO~TO~WO"
+	},
+	"data/SO/SH": {
+		"id": "data/SO/SH",
+		"key": "SH",
+		"name": "Shabeellaha Hoose",
+		"lang": "so",
+		"isoid": "SH"
+	},
+	"data/SO/GG": {
+		"id": "data/SO/GG",
+		"key": "GG",
+		"name": "Galguduud",
+		"lang": "so",
+		"isoid": "GA"
+	},
+	"data/SO/JH": {
+		"id": "data/SO/JH",
+		"key": "JH",
+		"name": "Jubbada Hoose",
+		"lang": "so",
+		"isoid": "JH"
+	},
+	"data/SO/SG": {
+		"id": "data/SO/SG",
+		"key": "SG",
+		"name": "Sanaag",
+		"lang": "so",
+		"isoid": "SA"
+	},
+	"data/SO/HR": {
+		"id": "data/SO/HR",
+		"key": "HR",
+		"name": "Hiiraan",
+		"lang": "so",
+		"isoid": "HI"
+	},
+	"data/SO/MD": {
+		"id": "data/SO/MD",
+		"key": "MD",
+		"name": "Mudug",
+		"lang": "so",
+		"isoid": "MU"
+	},
+	"data/SO/BK": {
+		"id": "data/SO/BK",
+		"key": "BK",
+		"name": "Bakool",
+		"lang": "so",
+		"isoid": "BK"
+	},
+	"data/SO/BN": {
+		"id": "data/SO/BN",
+		"key": "BN",
+		"name": "Banaadir",
+		"lang": "so",
+		"isoid": "BN"
+	}
+}

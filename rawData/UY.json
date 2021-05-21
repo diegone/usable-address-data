@@ -1,0 +1,150 @@
+{
+	"data/UY/Rocha": {
+		"id": "data/UY/Rocha",
+		"key": "Rocha",
+		"lang": "es",
+		"zip": "27",
+		"isoid": "RO"
+	},
+	"data/UY/Tacuarembó": {
+		"id": "data/UY/Tacuarembó",
+		"key": "Tacuarembó",
+		"lang": "es",
+		"zip": "45",
+		"isoid": "TA"
+	},
+	"data/UY/Rivera": {
+		"id": "data/UY/Rivera",
+		"key": "Rivera",
+		"lang": "es",
+		"zip": "40",
+		"isoid": "RV"
+	},
+	"data/UY/Florida": {
+		"id": "data/UY/Florida",
+		"key": "Florida",
+		"lang": "es",
+		"zip": "94|9060|97005",
+		"isoid": "FD"
+	},
+	"data/UY/Colonia": {
+		"id": "data/UY/Colonia",
+		"key": "Colonia",
+		"lang": "es",
+		"zip": "70|75204",
+		"isoid": "CO"
+	},
+	"data/UY/Montevideo": {
+		"id": "data/UY/Montevideo",
+		"key": "Montevideo",
+		"lang": "es",
+		"zip": "1|91600",
+		"isoid": "MO"
+	},
+	"data/UY/Flores": {
+		"id": "data/UY/Flores",
+		"key": "Flores",
+		"lang": "es",
+		"zip": "85",
+		"isoid": "FS"
+	},
+	"data/UY/Maldonado": {
+		"id": "data/UY/Maldonado",
+		"key": "Maldonado",
+		"lang": "es",
+		"zip": "20",
+		"isoid": "MA"
+	},
+	"data/UY/Treinta y Tres": {
+		"id": "data/UY/Treinta y Tres",
+		"key": "Treinta y Tres",
+		"lang": "es",
+		"zip": "33|30203|30204|30302|37007",
+		"isoid": "TT"
+	},
+	"data/UY/Río Negro": {
+		"id": "data/UY/Río Negro",
+		"key": "Río Negro",
+		"lang": "es",
+		"zip": "65|60002",
+		"isoid": "RN"
+	},
+	"data/UY/Canelones": {
+		"id": "data/UY/Canelones",
+		"key": "Canelones",
+		"lang": "es",
+		"zip": "9[01]|1[456]",
+		"isoid": "CA"
+	},
+	"data/UY/Soriano": {
+		"id": "data/UY/Soriano",
+		"key": "Soriano",
+		"lang": "es",
+		"zip": "75|70003",
+		"isoid": "SO"
+	},
+	"data/UY/Durazno": {
+		"id": "data/UY/Durazno",
+		"key": "Durazno",
+		"lang": "es",
+		"zip": "97",
+		"isoid": "DU"
+	},
+	"data/UY/Artigas": {
+		"id": "data/UY/Artigas",
+		"key": "Artigas",
+		"lang": "es",
+		"zip": "55",
+		"isoid": "AR"
+	},
+	"data/UY": {
+		"id": "data/UY",
+		"key": "UY",
+		"name": "URUGUAY",
+		"lang": "es",
+		"languages": "es",
+		"fmt": "%N%n%O%n%A%n%Z %C %S",
+		"upper": "CS",
+		"zip": "\\d{5}",
+		"zipex": "11600",
+		"posturl": "http://www.correo.com.uy/index.asp?codPag=codPost&switchMapa=codPost",
+		"sub_keys": "Artigas~Canelones~Cerro Largo~Colonia~Durazno~Flores~Florida~Lavalleja~Maldonado~Montevideo~Paysandú~Río Negro~Rivera~Rocha~Salto~San José~Soriano~Tacuarembó~Treinta y Tres",
+		"sub_zips": "55~9[01]|1[456]~37~70|75204~97~85~94|9060|97005~30~20~1|91600~60~65|60002~40~27~50~80~75|70003~45~33|30203|30204|30302|37007",
+		"sub_isoids": "AR~CA~CL~CO~DU~FS~FD~LA~MA~MO~PA~RN~RV~RO~SA~SJ~SO~TA~TT"
+	},
+	"data/UY/Paysandú": {
+		"id": "data/UY/Paysandú",
+		"key": "Paysandú",
+		"lang": "es",
+		"zip": "60",
+		"isoid": "PA"
+	},
+	"data/UY/Salto": {
+		"id": "data/UY/Salto",
+		"key": "Salto",
+		"lang": "es",
+		"zip": "50",
+		"isoid": "SA"
+	},
+	"data/UY/Lavalleja": {
+		"id": "data/UY/Lavalleja",
+		"key": "Lavalleja",
+		"lang": "es",
+		"zip": "30",
+		"isoid": "LA"
+	},
+	"data/UY/San José": {
+		"id": "data/UY/San José",
+		"key": "San José",
+		"lang": "es",
+		"zip": "80",
+		"isoid": "SJ"
+	},
+	"data/UY/Cerro Largo": {
+		"id": "data/UY/Cerro Largo",
+		"key": "Cerro Largo",
+		"lang": "es",
+		"zip": "37",
+		"isoid": "CL"
+	}
+}
