@@ -3,6 +3,6 @@ This repo captures a snapshot of postal address data published at https://chromi
 
 The `refreshRawData.js` script maintains an identical mirror in the `rawData` folder. For more information on the meaning of fields, please refer to https://github.com/google/libaddressinput/wiki/AddressValidationMetadata.
 
-The `refreshStructuredData.js` script produces `derivedData/structuredData.json`, which captures the same information in a single file. It has been formatted to reproduce the logical hierarchy of the data and eliminate redundancies.
+The `refreshStructuredData.js` script produces `derivedData/structuredData.json` and its `.js` counterpart, which captures the whole data set in a single file. It has been formatted to reproduce the logical hierarchy of the data and eliminate redundancies.
 
-The `refreshLowCardinality.js` script produces `derivedData/lowCardinality.json`, which summarizes aggregated low-cardinality attributes in a single file.
+The `refreshLowCardinality.js` script produces `derivedData/lowCardinality.json` and its `.js` counterpart, which summarizes aggregated low-cardinality attributes in a single file.

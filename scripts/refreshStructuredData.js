@@ -1,4 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
+import { generateJsFromJson } from './util.js';
 
 const getRawData = name => JSON.parse(readFileSync(`../rawData/${name}.json`));
 const unnecessaryKeys = [ 'id', 'key', 'sub_keys', 'sub_names', 'sub_zips', 'sub_zipexs', 'sub_isoids', 'sub_lnames', 'sub_lfnames', 'sub_mores', 'sub_xzips', 'sub_xrequires' ];
@@ -32,3 +33,4 @@ for (const region of regions) {
 }
 
 writeFileSync(`../derivedData/structuredData.json`, JSON.stringify(structuredData, null, '\t'));
+generateJsFromJson('structuredData', structuredData);

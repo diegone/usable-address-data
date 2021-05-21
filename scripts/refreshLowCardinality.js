@@ -1,4 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
+import { generateJsFromJson } from './util.js';
 
 const getRawData = name => JSON.parse(readFileSync(`../rawData/${name}.json`));
 
@@ -31,6 +32,7 @@ for (const [attrName, data] of Object.entries(lowCardinality)) {
 }
 
 writeFileSync(`../derivedData/lowCardinality.json`, JSON.stringify(lowCardinality, null, '\t'));
+generateJsFromJson('lowCardinality', lowCardinality);
 
 console.log(`${Object.keys(regions).length} regions`);
 for (const attrName of Object.keys(lowCardinality)) {
