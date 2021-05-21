@@ -9,6 +9,8 @@ The `refreshLowCardinality.js` script produces `derivedData/lowCardinality.json`
 
 The `refreshAdminAreas.js` script produces `derivedData/adminAreas.json` and its `.js` counterpart, which summarizes the top-level administrative areas in those regions that have them and enumerate them.
 
+The `refreshExpandedFormats.js` script produces `derivedData/expandedFormats.json` and its `.js` counterpart, which unrolls formats in each region in a semantic albeit verbose format.
+
 ## Notes
 * It's not clear what the guideline should be in storing admin areas, especially in multi-lingual regions. Should it be the key, the lname, the isoid? There doesn't seem to be consistency across regions (e.g. sometimes keys are in the local language and sometimes are in English). You'd think it'd be preferred if immutable keys were used for storage (e.g. using iso id's in a dropdown) and then it'd be a presentation concern to convert them to the desired localized label. But maybe it's overkill and there's no real use case that would benefit from storing keys.
 * Localized versions of files are not crawled (but also are not aggregated by Google)

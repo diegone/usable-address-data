@@ -1,0 +1,10733 @@
+{
+	"AC": {
+		"region": "ASCENSION ISLAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "ASCN 1ZZ",
+				"label": "postal"
+			}
+		]
+	},
+	"AD": {
+		"region": "ANDORRA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "AD[1-7]0\\d",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "ca"
+	},
+	"AE": {
+		"region": "UNITED ARAB EMIRATES",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "emirate",
+				"required": true
+			}
+		],
+		"lang": "ar"
+	},
+	"AF": {
+		"region": "AFGHANISTAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			}
+		]
+	},
+	"AG": {
+		"region": "ANTIGUA AND BARBUDA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"upper": true
+			}
+		]
+	},
+	"AI": {
+		"region": "ANGUILLA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "(?:AI-)?2640",
+				"label": "postal"
+			}
+		]
+	},
+	"AL": {
+		"region": "ALBANIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"AM": {
+		"region": "ARMENIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "(?:37)?\\d{4}",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		],
+		"lang": "hy"
+	},
+	"AO": {
+		"region": "ANGOLA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"AQ": {
+		"region": "ANTARCTICA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"AR": {
+		"region": "ARGENTINA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?",
+				"label": "postal",
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		],
+		"lang": "es"
+	},
+	"AS": {
+		"region": "AMERICAN SAMOA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(96799)(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"AT": {
+		"region": "AUSTRIA",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"AU": {
+		"region": "AUSTRALIA",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "suburb",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			}
+		],
+		"lang": "en"
+	},
+	"AW": {
+		"region": "ARUBA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"AX": {
+		"region": "FINLAND",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "AX-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "22\\d{3}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "ÅLAND"
+			}
+		]
+	},
+	"AZ": {
+		"region": "AZERBAIJAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "AZ "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BA": {
+		"region": "BOSNIA AND HERZEGOVINA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BB": {
+		"region": "BARBADOS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "parish"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "BB\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"BD": {
+		"region": "BANGLADESH",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " - "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			}
+		]
+	},
+	"BE": {
+		"region": "BELGIUM",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BF": {
+		"region": "BURKINA FASO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code"
+			}
+		]
+	},
+	"BG": {
+		"region": "BULGARIA (REP.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BH": {
+		"region": "BAHRAIN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(?:\\d|1[0-2])\\d{2}",
+				"label": "postal"
+			}
+		]
+	},
+	"BI": {
+		"region": "BURUNDI",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BJ": {
+		"region": "BENIN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BL": {
+		"region": "SAINT BARTHELEMY",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "9[78][01]\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"BM": {
+		"region": "BERMUDA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "[A-Z]{2} ?[A-Z0-9]{2}",
+				"label": "postal"
+			}
+		]
+	},
+	"BN": {
+		"region": "BRUNEI DARUSSALAM",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "[A-Z]{2} ?\\d{4}",
+				"label": "postal"
+			}
+		]
+	},
+	"BO": {
+		"region": "BOLIVIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BQ": {
+		"region": "BONAIRE, SINT EUSTATIUS, AND SABA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BR": {
+		"region": "BRAZIL",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "neighborhood"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": "-"
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}-?\\d{3}",
+				"label": "postal",
+				"required": true
+			}
+		],
+		"lang": "pt"
+	},
+	"BS": {
+		"region": "BAHAMAS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "island"
+			}
+		],
+		"lang": "en"
+	},
+	"BT": {
+		"region": "BHUTAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"BV": {
+		"region": "BOUVET ISLAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BW": {
+		"region": "BOTSWANA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"BY": {
+		"region": "BELARUS",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		]
+	},
+	"BZ": {
+		"region": "BELIZE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CA": {
+		"region": "CANADA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "en"
+	},
+	"CC": {
+		"region": "COCOS (KEELING) ISLANDS",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "6799",
+				"label": "postal"
+			}
+		]
+	},
+	"CD": {
+		"region": "CONGO (DEM. REP.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CF": {
+		"region": "CENTRAL AFRICAN REPUBLIC",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CG": {
+		"region": "CONGO (REP.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CH": {
+		"region": "SWITZERLAND",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "CH-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CI": {
+		"region": "COTE D'IVOIRE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code"
+			}
+		]
+	},
+	"CK": {
+		"region": "COOK ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CL": {
+		"region": "CHILE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{7}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		],
+		"lang": "es"
+	},
+	"CM": {
+		"region": "CAMEROON",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CN": {
+		"region": "CHINA",
+		"format": [
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true
+			},
+			{
+				"field": "address-level3",
+				"label": "district"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			}
+		],
+		"lang": "zh"
+	},
+	"CO": {
+		"region": "COLOMBIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "department",
+				"required": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			}
+		]
+	},
+	"CR": {
+		"region": "COSTA RICA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4,5}|\\d{3}-\\d{4}",
+				"label": "postal"
+			}
+		]
+	},
+	"CU": {
+		"region": "CUBA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		],
+		"lang": "es"
+	},
+	"CV": {
+		"region": "CAPE VERDE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "island"
+			}
+		],
+		"lang": "pt"
+	},
+	"CW": {
+		"region": "CURACAO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CX": {
+		"region": "CHRISTMAS ISLAND",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "6798",
+				"label": "postal"
+			}
+		]
+	},
+	"CY": {
+		"region": "CYPRUS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"CZ": {
+		"region": "CZECH REP.",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3} ?\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"DE": {
+		"region": "GERMANY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"DJ": {
+		"region": "DJIBOUTI",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"DK": {
+		"region": "DENMARK",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"DM": {
+		"region": "DOMINICA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"DO": {
+		"region": "DOMINICAN REP.",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"DZ": {
+		"region": "ALGERIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"EC": {
+		"region": "ECUADOR",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"EE": {
+		"region": "ESTONIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"EG": {
+		"region": "EGYPT",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		],
+		"lang": "ar"
+	},
+	"EH": {
+		"region": "WESTERN SAHARA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"ER": {
+		"region": "ERITREA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"ES": {
+		"region": "SPAIN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "es"
+	},
+	"ET": {
+		"region": "ETHIOPIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"FI": {
+		"region": "FINLAND",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "FI-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"FJ": {
+		"region": "FIJI",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"FK": {
+		"region": "FALKLAND ISLANDS (MALVINAS)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "FIQQ 1ZZ",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"FM": {
+		"region": "MICRONESIA (Federated State of)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(9694[1-4])(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"FO": {
+		"region": "FAROE ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "FO"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"FR": {
+		"region": "FRANCE",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{2} ?\\d{3}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GA": {
+		"region": "GABON",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GB": {
+		"region": "UNITED KINGDOM",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "post_town",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "GIR ?0AA|(?:(?:AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(?:\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4}",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GD": {
+		"region": "GRENADA (WEST INDIES)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GE": {
+		"region": "GEORGIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GF": {
+		"region": "FRENCH GUIANA",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "9[78]3\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"GG": {
+		"region": "CHANNEL ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "GUERNSEY"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GH": {
+		"region": "GHANA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GI": {
+		"region": "GIBRALTAR",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "GIBRALTAR"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "GX11 1AA",
+				"label": "postal"
+			}
+		]
+	},
+	"GL": {
+		"region": "GREENLAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "39\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GM": {
+		"region": "GAMBIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GN": {
+		"region": "GUINEA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GP": {
+		"region": "GUADELOUPE",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "9[78][01]\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"GQ": {
+		"region": "EQUATORIAL GUINEA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GR": {
+		"region": "GREECE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3} ?\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GS": {
+		"region": "SOUTH GEORGIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "SIQQ 1ZZ",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GT": {
+		"region": "GUATEMALA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": "- "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GU": {
+		"region": "GUAM",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"GW": {
+		"region": "GUINEA-BISSAU",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"GY": {
+		"region": "GUYANA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"HK": {
+		"region": "HONG KONG",
+		"format": [
+			{
+				"field": "address-level1",
+				"label": "area",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "district"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			}
+		],
+		"lang": "zh-Hant"
+	},
+	"HM": {
+		"region": "HEARD AND MCDONALD ISLANDS",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			}
+		]
+	},
+	"HN": {
+		"region": "HONDURAS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "department",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"HR": {
+		"region": "CROATIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "HR-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"HT": {
+		"region": "HAITI",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "HT"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"HU": {
+		"region": "HUNGARY (Rep.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			}
+		]
+	},
+	"ID": {
+		"region": "INDONESIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		],
+		"lang": "id"
+	},
+	"IE": {
+		"region": "IRELAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "townland"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "county"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "[\\dA-Z]{3} ?[\\dA-Z]{4}",
+				"label": "eircode"
+			}
+		],
+		"lang": "en"
+	},
+	"IL": {
+		"region": "ISRAEL",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}(?:\\d{2})?",
+				"label": "postal"
+			}
+		]
+	},
+	"IM": {
+		"region": "ISLE OF MAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"IN": {
+		"region": "INDIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "pin",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true
+			}
+		],
+		"lang": "en"
+	},
+	"IO": {
+		"region": "BRITISH INDIAN OCEAN TERRITORY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "BBND 1ZZ",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"IQ": {
+		"region": "IRAQ",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"IR": {
+		"region": "IRAN",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level3",
+				"label": "neighborhood"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}-?\\d{5}",
+				"label": "postal"
+			}
+		],
+		"lang": "fa"
+	},
+	"IS": {
+		"region": "ICELAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"IT": {
+		"region": "ITALY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "it"
+	},
+	"JE": {
+		"region": "CHANNEL ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "JERSEY"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"JM": {
+		"region": "JAMAICA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "parish",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code"
+			}
+		],
+		"lang": "en"
+	},
+	"JO": {
+		"region": "JORDAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"JP": {
+		"region": "JAPAN",
+		"format": [
+			{
+				"label": "〒"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}-?\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "prefecture",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			}
+		],
+		"lang": "ja"
+	},
+	"KE": {
+		"region": "KENYA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"KG": {
+		"region": "KYRGYZSTAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"KH": {
+		"region": "CAMBODIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5,6}",
+				"label": "postal"
+			}
+		]
+	},
+	"KI": {
+		"region": "KIRIBATI",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "island",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"KM": {
+		"region": "COMOROS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"KN": {
+		"region": "SAINT KITTS AND NEVIS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "island",
+				"required": true
+			}
+		],
+		"lang": "en"
+	},
+	"KP": {
+		"region": "NORTH KOREA",
+		"format": [
+			{
+				"field": "postal-code",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			}
+		],
+		"lang": "ko"
+	},
+	"KR": {
+		"region": "SOUTH KOREA",
+		"format": [
+			{
+				"field": "address-level1",
+				"label": "do_si",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true
+			},
+			{
+				"field": "address-level3",
+				"label": "district"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "ko"
+	},
+	"KW": {
+		"region": "KUWAIT",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"KY": {
+		"region": "CAYMAN ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "island",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "KY\\d-\\d{4}",
+				"label": "postal"
+			}
+		],
+		"lang": "en"
+	},
+	"KZ": {
+		"region": "KAZAKHSTAN",
+		"format": [
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			}
+		]
+	},
+	"LA": {
+		"region": "LAO (PEOPLE'S DEM. REP.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"LB": {
+		"region": "LEBANON",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(?:\\d{4})(?: ?(?:\\d{4}))?",
+				"label": "postal"
+			}
+		]
+	},
+	"LC": {
+		"region": "SAINT LUCIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"LI": {
+		"region": "LIECHTENSTEIN",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "FL-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "948[5-9]|949[0-8]",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"LK": {
+		"region": "SRI LANKA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"LR": {
+		"region": "LIBERIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"LS": {
+		"region": "LESOTHO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}",
+				"label": "postal"
+			}
+		]
+	},
+	"LT": {
+		"region": "LITHUANIA",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "LT-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"LU": {
+		"region": "LUXEMBOURG",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "L-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"LV": {
+		"region": "LATVIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "postal-code",
+				"regex": "LV-\\d{4}",
+				"label": "postal",
+				"required": true
+			}
+		]
+	},
+	"LY": {
+		"region": "LIBYA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MA": {
+		"region": "MOROCCO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MC": {
+		"region": "MONACO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "MC-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "980\\d{2}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code"
+			}
+		]
+	},
+	"MD": {
+		"region": "Rep. MOLDOVA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "MD-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"ME": {
+		"region": "MONTENEGRO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "8\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MF": {
+		"region": "SAINT MARTIN",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "9[78][01]\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"MG": {
+		"region": "MADAGASCAR",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MH": {
+		"region": "MARSHALL ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(969[67]\\d)(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"MK": {
+		"region": "MACEDONIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"ML": {
+		"region": "MALI",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MM": {
+		"region": "MYANMAR",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"MN": {
+		"region": "MONGOLIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"MO": {
+		"region": "MACAO",
+		"format": [
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			}
+		]
+	},
+	"MP": {
+		"region": "NORTHERN MARIANA ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(9695[012])(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"MQ": {
+		"region": "MARTINIQUE",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "9[78]2\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"MR": {
+		"region": "MAURITANIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MS": {
+		"region": "MONTSERRAT",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MT": {
+		"region": "MALTA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "[A-Z]{3} ?\\d{2,4}",
+				"label": "postal",
+				"upper": true
+			}
+		]
+	},
+	"MU": {
+		"region": "MAURITIUS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})",
+				"label": "postal",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"MV": {
+		"region": "MALDIVES",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"MW": {
+		"region": "MALAWI",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code"
+			}
+		]
+	},
+	"MX": {
+		"region": "MEXICO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "neighborhood"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "es"
+	},
+	"MY": {
+		"region": "MALAYSIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "village_township"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"upper": true
+			}
+		],
+		"lang": "ms"
+	},
+	"MZ": {
+		"region": "MOZAMBIQUE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		],
+		"lang": "pt"
+	},
+	"NA": {
+		"region": "NAMIBIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"NC": {
+		"region": "NEW CALEDONIA",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "988\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"NE": {
+		"region": "NIGER",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"NF": {
+		"region": "NORFOLK ISLAND",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "2899",
+				"label": "postal"
+			}
+		]
+	},
+	"NG": {
+		"region": "NIGERIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "suburb"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"upper": true
+			}
+		],
+		"lang": "en"
+	},
+	"NI": {
+		"region": "NICARAGUA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "department",
+				"upper": true
+			}
+		],
+		"lang": "es"
+	},
+	"NL": {
+		"region": "NETHERLANDS",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4} ?[A-Z]{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"NO": {
+		"region": "NORWAY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "post_town",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"NP": {
+		"region": "NEPAL",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"NR": {
+		"region": "NAURU CENTRAL PACIFIC",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "district",
+				"required": true
+			}
+		],
+		"lang": "en"
+	},
+	"NU": {
+		"region": "NIUE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"NZ": {
+		"region": "NEW ZEALAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "suburb"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			}
+		]
+	},
+	"OM": {
+		"region": "OMAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "(?:PC )?\\d{3}",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"PA": {
+		"region": "PANAMA (REP.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			}
+		]
+	},
+	"PE": {
+		"region": "PERU",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "district",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4}",
+				"label": "postal"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		],
+		"lang": "es"
+	},
+	"PF": {
+		"region": "FRENCH POLYNESIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "987\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "island",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"PG": {
+		"region": "PAPUA NEW GUINEA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true
+			}
+		]
+	},
+	"PH": {
+		"region": "PHILIPPINES",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "suburb"
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		],
+		"lang": "en"
+	},
+	"PK": {
+		"region": "PAKISTAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": "-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"PL": {
+		"region": "POLAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{2}-\\d{3}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"PM": {
+		"region": "ST. PIERRE AND MIQUELON",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "9[78]5\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"PN": {
+		"region": "PITCAIRN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "PCRN 1ZZ",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"PR": {
+		"region": "PUERTO RICO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " PR "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(00[679]\\d{2})(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"PS": {
+		"region": "PALESTINIAN TERRITORY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"PT": {
+		"region": "PORTUGAL",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}-\\d{3}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"PW": {
+		"region": "PALAU",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(969(?:39|40))(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"PY": {
+		"region": "PARAGUAY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"QA": {
+		"region": "QATAR",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"RE": {
+		"region": "REUNION",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "9[78]4\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"RO": {
+		"region": "ROMANIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"RS": {
+		"region": "REPUBLIC OF SERBIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5,6}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"RU": {
+		"region": "RUSSIAN FEDERATION",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "oblast",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal",
+				"required": true
+			}
+		],
+		"lang": "ru"
+	},
+	"RW": {
+		"region": "RWANDA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SA": {
+		"region": "SAUDI ARABIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"SB": {
+		"region": "SOLOMON ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SC": {
+		"region": "SEYCHELLES",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "island",
+				"upper": true
+			}
+		]
+	},
+	"SD": {
+		"region": "SUDAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "district",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		]
+	},
+	"SE": {
+		"region": "SWEDEN",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "SE-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3} ?\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "post_town",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SG": {
+		"region": "REP. OF SINGAPORE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "SINGAPORE "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal",
+				"required": true
+			}
+		]
+	},
+	"SH": {
+		"region": "SAINT HELENA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "(?:ASCN|STHL) 1ZZ",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SI": {
+		"region": "SLOVENIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"label": "SI-"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SJ": {
+		"region": "SVALBARD AND JAN MAYEN ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "post_town",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SK": {
+		"region": "SLOVAKIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{3} ?\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SL": {
+		"region": "SIERRA LEONE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SM": {
+		"region": "SAN MARINO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "4789\\d",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"upper": true
+			}
+		]
+	},
+	"SN": {
+		"region": "SENEGAL",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SO": {
+		"region": "SOMALIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "[A-Z]{2} ?\\d{5}",
+				"label": "postal"
+			}
+		],
+		"lang": "so"
+	},
+	"SR": {
+		"region": "SURINAME",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			}
+		],
+		"lang": "nl"
+	},
+	"SS": {
+		"region": "SOUTH SUDAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"ST": {
+		"region": "SAO TOME AND PRINCIPE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SV": {
+		"region": "EL SALVADOR",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "CP [1-3][1-7][0-2]\\d",
+				"label": "postal",
+				"upper": true
+			},
+			{
+				"label": "-"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "es"
+	},
+	"SX": {
+		"region": "SINT MAARTEN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SY": {
+		"region": "SYRIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "district",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"SZ": {
+		"region": "SWAZILAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "[HLMS]\\d{3}",
+				"label": "postal",
+				"upper": true
+			}
+		]
+	},
+	"TA": {
+		"region": "TRISTAN DA CUNHA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "TDCU 1ZZ",
+				"label": "postal"
+			}
+		]
+	},
+	"TC": {
+		"region": "TURKS AND CAICOS ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "TKCA 1ZZ",
+				"label": "postal",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TD": {
+		"region": "CHAD",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TF": {
+		"region": "FRENCH SOUTHERN TERRITORIES",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TG": {
+		"region": "TOGO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TH": {
+		"region": "THAILAND",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "suburb"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			}
+		],
+		"lang": "th"
+	},
+	"TJ": {
+		"region": "TAJIKISTAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TK": {
+		"region": "TOKELAU",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TL": {
+		"region": "TIMOR-LESTE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TM": {
+		"region": "TURKMENISTAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TN": {
+		"region": "TUNISIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TO": {
+		"region": "TONGA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TR": {
+		"region": "TURKEY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "district",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": "/"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			}
+		],
+		"lang": "tr"
+	},
+	"TT": {
+		"region": "TRINIDAD AND TOBAGO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"TV": {
+		"region": "TUVALU",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "island",
+				"upper": true
+			}
+		],
+		"lang": "tyv"
+	},
+	"TW": {
+		"region": "TAIWAN",
+		"format": [
+			{
+				"field": "postal-code",
+				"regex": "\\d{3}(?:\\d{2,3})?",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "county",
+				"required": true
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			}
+		],
+		"lang": "zh-Hant"
+	},
+	"TZ": {
+		"region": "TANZANIA (UNITED REP.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4,5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"UA": {
+		"region": "UKRAINE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "oblast"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal",
+				"required": true
+			}
+		],
+		"lang": "uk"
+	},
+	"UG": {
+		"region": "UGANDA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"UM": {
+		"region": "UNITED STATES MINOR OUTLYING ISLANDS",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "96898",
+				"label": "zip"
+			}
+		]
+	},
+	"US": {
+		"region": "UNITED STATES",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(\\d{5})(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		],
+		"lang": "en"
+	},
+	"UY": {
+		"region": "URUGUAY",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			}
+		],
+		"lang": "es"
+	},
+	"UZ": {
+		"region": "UZBEKISTAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{6}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province",
+				"upper": true
+			}
+		]
+	},
+	"VA": {
+		"region": "VATICAN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "00120",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"VC": {
+		"region": "SAINT VINCENT AND THE GRENADINES (ANTILLES)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "VC\\d{4}",
+				"label": "postal"
+			}
+		]
+	},
+	"VE": {
+		"region": "VENEZUELA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": ", "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			}
+		],
+		"lang": "es"
+	},
+	"VG": {
+		"region": "VIRGIN ISLANDS (BRITISH)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "VG\\d{4}",
+				"label": "postal"
+			}
+		]
+	},
+	"VI": {
+		"region": "VIRGIN ISLANDS (U.S.)",
+		"format": [
+			{
+				"field": "name",
+				"label": "name",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization",
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "state",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?",
+				"label": "zip",
+				"required": true
+			}
+		]
+	},
+	"VN": {
+		"region": "VIET NAM",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}\\d?",
+				"label": "postal"
+			}
+		],
+		"lang": "vi"
+	},
+	"VU": {
+		"region": "VANUATU",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"WF": {
+		"region": "WALLIS AND FUTUNA ISLANDS",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "986\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"WS": {
+		"region": "SAMOA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"XK": {
+		"region": "KOSOVO",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "[1-7]\\d{4}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"YE": {
+		"region": "YEMEN",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"YT": {
+		"region": "MAYOTTE",
+		"format": [
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "976\\d{2}",
+				"label": "postal",
+				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level4",
+				"label": "sorting-code",
+				"upper": true
+			}
+		]
+	},
+	"ZA": {
+		"region": "SOUTH AFRICA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level3",
+				"label": "suburb"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{4}",
+				"label": "postal",
+				"required": true
+			}
+		]
+	},
+	"ZM": {
+		"region": "ZAMBIA",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "postal-code",
+				"regex": "\\d{5}",
+				"label": "postal"
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	},
+	"ZW": {
+		"region": "ZIMBABWE",
+		"format": [
+			{
+				"field": "name",
+				"label": "name"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "organization",
+				"label": "organization"
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-line",
+				"label": "address-line",
+				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level2",
+				"label": "city",
+				"required": true,
+				"upper": true
+			}
+		]
+	}
+}
