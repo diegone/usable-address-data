@@ -77,7 +77,8 @@
 		"%N%n%O%n%A%n%Z %C/%S": "TR",
 		"%Z%n%S%C%n%A%n%O%n%N": "TW",
 		"%N%n%O%n%A%n%C %Z, %S": "VE",
-		"%N%n%O%n%A%n%D%n%C%n%Z": "ZA"
+		"%N%n%O%n%A%n%D%n%C%n%Z": "ZA",
+		"%N%n%O%n%A%n%C": "ZZ"
 	},
 	"zip": {
 		"2899": "NF",
@@ -239,7 +240,8 @@
 		"ASCZ": "BR",
 		"ACS": "CR~HN~IQ~JM~KN~PG~SO~SV~UM~VE",
 		"ASZ": "JP",
-		"AZ": "SG~SM"
+		"AZ": "SG~SM",
+		"AC": "ZZ"
 	},
 	"state_name_type": {
 		"emirate": "AE",
@@ -252,7 +254,8 @@
 		"prefecture": "JP",
 		"do_si": "KR",
 		"district": "NR",
-		"oblast": "RU~UA"
+		"oblast": "RU~UA",
+		"province": "ZZ"
 	},
 	"upper": {
 		"ACZ": "AR~SZ",
@@ -268,17 +271,20 @@
 		"Z": "KR",
 		"CSZ": "MX~SV",
 		"ACS": "SO~TV",
-		"AS": "SR"
+		"AS": "SR",
+		"C": "ZZ"
 	},
 	"zip_name_type": {
 		"zip": "AS~FM~GU~MH~MP~PR~PW~UM~US~VI",
 		"eircode": "IE",
-		"pin": "IN"
+		"pin": "IN",
+		"postal": "ZZ"
 	},
 	"locality_name_type": {
 		"suburb": "AU",
 		"post_town": "GB~NO~SE~SJ",
-		"district": "HK~PE~SD~SY~TR"
+		"district": "HK~PE~SD~SY~TR",
+		"city": "ZZ"
 	},
 	"postprefix": {
 		"AX-": "AX",
@@ -301,6 +307,7 @@
 		"neighborhood": "BR~IR~MX",
 		"district": "CN~KR",
 		"townland": "IE",
-		"village_township": "MY"
+		"village_township": "MY",
+		"suburb": "ZZ"
 	}
 }

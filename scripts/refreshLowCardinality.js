@@ -4,6 +4,7 @@ import { generateJsFromJson } from './util.js';
 const getRawData = name => JSON.parse(readFileSync(`../rawData/${name}.json`));
 
 const regions = getRawData('allRegions');
+regions.push('ZZ'); // used to capture defaults
 const lowCardinality = {};
 
 for (const region of regions) {

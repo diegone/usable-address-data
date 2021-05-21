@@ -4,7 +4,8 @@ import { generateJsFromJson } from './util.js';
 const getRawData = name => JSON.parse(readFileSync(`../rawData/${name}.json`));
 const unnecessaryKeys = [ 'id', 'key', 'sub_keys', 'sub_names', 'sub_zips', 'sub_zipexs', 'sub_isoids', 'sub_lnames', 'sub_lfnames', 'sub_mores', 'sub_xzips', 'sub_xrequires' ];
 const regions = getRawData('allRegions');
-const structuredData = {};
+const { id, ...defaultData } = getRawData('ZZ')['data/ZZ'];
+const structuredData = { defaultData };
 
 for (const region of regions) {
     const regionData = getRawData(region);
@@ -29,7 +30,7 @@ for (const region of regions) {
             dataBlock.sub_keys.split('~').map(sk => addDataBlock(ancestorAggr, node[key]._, sk, `${slug}/${sk}`));
         }
     }
-    addDataBlock({}, structuredData, region, `data/${region}`)
+    addDataBlock({ ...defaultData }, structuredData, region, `data/${region}`)
 }
 
 writeFileSync(`../derivedData/structuredData.json`, JSON.stringify(structuredData, null, '\t'));
