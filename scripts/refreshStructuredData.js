@@ -34,4 +34,4 @@ for (const region of regions) {
 }
 
 writeFileSync(`../derivedData/structuredData.json`, JSON.stringify(structuredData, null, '\t'));
-generateJsFromJson('structuredData', structuredData);
+generateJsFromJson('structuredData', structuredData, [ `export const structuredData = { ${regions.join(',')} };` ]);

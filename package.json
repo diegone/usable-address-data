@@ -1,6 +1,6 @@
 {
   "name": "usable-address-data",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Static usable snapshots of Chromium Postal Address data.",
   "main": "index.js",
   "type": "module",
