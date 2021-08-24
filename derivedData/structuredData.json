@@ -6553,7 +6553,7 @@
 		"fmt": "%N%n%O%n%A%n%Z %C%n%S",
 		"zip": "\\d{7}",
 		"zipex": "8340457,8720019,1230000,8329100",
-		"posturl": "http://www.correos.cl/SitePages/home.aspx",
+		"posturl": "https://www.correos.cl/web/guest/codigo-postal",
 		"_": {
 			"Antofagasta": {
 				"name": "Antofagasta",
@@ -25813,7 +25813,7 @@
 		"require": "ACS",
 		"zip": "\\d{4,5}|\\d{3}-\\d{4}",
 		"zipex": "1000,2010,1001",
-		"posturl": "https://www.correos.go.cr/nosotros/codigopostal/busqueda.html"
+		"posturl": "https://correos.go.cr/codigo-postal/"
 	},
 	"CU": {
 		"name": "CUBA",
@@ -25952,7 +25952,7 @@
 		"fmt": "%N%n%O%n%A%n%Z %C",
 		"zip": "\\d{5}",
 		"zipex": "11903,10101",
-		"posturl": "http://inposdom.gob.do/codigo-postal/"
+		"posturl": "http://inposdom.gob.do/"
 	},
 	"DZ": {
 		"name": "ALGERIA",
@@ -26425,7 +26425,7 @@
 		"fmt": "%N%n%O%n%A%nFO%Z %C",
 		"zip": "\\d{3}",
 		"zipex": "100",
-		"posturl": "http://www.postur.fo/",
+		"posturl": "https://www.posta.fo/fo/forsida/finn-postnr-stad/",
 		"postprefix": "FO"
 	},
 	"FR": {
@@ -27008,105 +27008,139 @@
 		"zipex": "40115",
 		"_": {
 			"Aceh": {
+				"lname": "Aceh",
 				"isoid": "AC"
 			},
 			"Bali": {
+				"lname": "Bali",
 				"isoid": "BA"
 			},
 			"Banten": {
+				"lname": "Banten",
 				"isoid": "BT"
 			},
 			"Bengkulu": {
+				"lname": "Bengkulu",
 				"isoid": "BE"
 			},
 			"Daerah Istimewa Yogyakarta": {
+				"lname": "Special Region of Yogyakarta",
 				"isoid": "YO"
 			},
 			"DKI Jakarta": {
+				"lname": "Jakarta",
 				"isoid": "JK"
 			},
 			"Gorontalo": {
+				"lname": "Gorontalo",
 				"isoid": "GO"
 			},
 			"Jambi": {
+				"lname": "Jambi",
 				"isoid": "JA"
 			},
 			"Jawa Barat": {
+				"lname": "West Java",
 				"isoid": "JB"
 			},
 			"Jawa Tengah": {
+				"lname": "Central Java",
 				"isoid": "JT"
 			},
 			"Jawa Timur": {
+				"lname": "East Java",
 				"isoid": "JI"
 			},
 			"Kalimantan Barat": {
+				"lname": "West Kalimantan",
 				"isoid": "KB"
 			},
 			"Kalimantan Selatan": {
+				"lname": "South Kalimantan",
 				"isoid": "KS"
 			},
 			"Kalimantan Tengah": {
+				"lname": "Central Kalimantan",
 				"isoid": "KT"
 			},
 			"Kalimantan Timur": {
+				"lname": "East Kalimantan",
 				"isoid": "KI"
 			},
 			"Kalimantan Utara": {
+				"lname": "North Kalimantan",
 				"isoid": "KU"
 			},
 			"Kepulauan Bangka Belitung": {
+				"lname": "Bangka Belitung Islands",
 				"isoid": "BB"
 			},
 			"Kepulauan Riau": {
+				"lname": "Riau Islands",
 				"isoid": "KR"
 			},
 			"Lampung": {
+				"lname": "Lampung",
 				"isoid": "LA"
 			},
 			"Maluku": {
+				"lname": "Maluku",
 				"isoid": "MA"
 			},
 			"Maluku Utara": {
+				"lname": "North Maluku",
 				"isoid": "MU"
 			},
 			"Nusa Tenggara Barat": {
+				"lname": "West Nusa Tenggara",
 				"isoid": "NB"
 			},
 			"Nusa Tenggara Timur": {
+				"lname": "East Nusa Tenggara",
 				"isoid": "NT"
 			},
 			"Papua": {
+				"lname": "Papua",
 				"isoid": "PA"
 			},
 			"Papua Barat": {
+				"lname": "West Papua",
 				"isoid": "PB"
 			},
 			"Riau": {
+				"lname": "Riau",
 				"isoid": "RI"
 			},
 			"Sulawesi Barat": {
+				"lname": "West Sulawesi",
 				"isoid": "SR"
 			},
 			"Sulawesi Selatan": {
+				"lname": "South Sulawesi",
 				"isoid": "SN"
 			},
 			"Sulawesi Tengah": {
+				"lname": "Central Sulawesi",
 				"isoid": "ST"
 			},
 			"Sulawesi Tenggara": {
+				"lname": "South East Sulawesi",
 				"isoid": "SG"
 			},
 			"Sulawesi Utara": {
+				"lname": "North Sulawesi",
 				"isoid": "SA"
 			},
 			"Sumatera Barat": {
+				"lname": "West Sumatra",
 				"isoid": "SB"
 			},
 			"Sumatera Selatan": {
+				"lname": "South Sumatra",
 				"isoid": "SS"
 			},
 			"Sumatera Utara": {
+				"lname": "North Sumatra",
 				"isoid": "SU"
 			}
 		}
@@ -27570,7 +27604,7 @@
 		"fmt": "%N%n%O%n%A%n%Z %C",
 		"zip": "\\d{3}",
 		"zipex": "320,121,220,110",
-		"posturl": "http://www.postur.is/einstaklingar/posthus/postnumer/"
+		"posturl": "https://posturinn.is/"
 	},
 	"IT": {
 		"name": "ITALY",
@@ -29602,7 +29636,7 @@
 					},
 					"김제시": {
 						"lname": "Gimje-si",
-						"zip": "543"
+						"zip": "54[34]"
 					},
 					"남원시": {
 						"lname": "Namwon-si",

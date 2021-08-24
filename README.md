@@ -47,10 +47,13 @@ The `refreshExpandedFormats.js` script produces `derivedData/expandedFormats.jso
 
 The `refreshAddressFormatters.js` script produces `addressFormatters.js`. That's a compact formatter for all regions that can be used for both text and HTML formats.
 
+The `refreshAll.sh` shell script invokes all the above scripts in sequence.
+
 ## Notes
 * It's not clear what the guideline should be in storing admin areas, especially in multi-lingual regions. Should it be the key, the lname, the isoid? There doesn't seem to be consistency across regions (e.g. sometimes keys are in the local language and sometimes are in English). You'd think it'd be preferred if immutable keys were used for storage (e.g. using iso id's in a dropdown) and then it'd be a presentation concern to convert them to the desired localized label. But maybe it's overkill and there's no real use case that would benefit from storing keys.
+  * See how they did it here: https://github.com/commerceguys/addressing/blob/master/resources/subdivision_update_map.json
 * Localized versions of files are not crawled (but also are not aggregated by Google)
 * Since the most common use case is not printing postal labels but capturing addresses on apps, probably name and organization is not needed in patterns. Corresponding newline may need to be removed too.
 * Hard-coded text is sometimes questionable:
   * Some countries that use their name before the postal code have the country name hard-coded in the pattern. Since country names are implicit, it sounds like there is a big chance of duplication by always appending the country name after the pattern.
-  * Despite having a `postprefix` attribute, formats seem to hard-code it as well. If they match, it may make sense to remove it from the pattern.
+  * Despite having a `postprefix` attribute, formats seem to hard-code it as well. If they match, it may make sense to remove it from the pattern. On the other hand, the following regions have a hard-coded prefix in `zip` and `fmt` but they don't factor it out and place it in `postprefix`. Is it customary for people to omit it entering forms (as opposed allegedly in other regions with postprefix populated where they would enter it in the form and thus it needs to be part of the zip validation pattern). An ideal UX would be to display the prefix in the form and not having to enter it.
