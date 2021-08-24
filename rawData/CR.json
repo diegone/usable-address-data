@@ -7,6 +7,6 @@
 		"require": "ACS",
 		"zip": "\\d{4,5}|\\d{3}-\\d{4}",
 		"zipex": "1000,2010,1001",
-		"posturl": "https://www.correos.go.cr/nosotros/codigopostal/busqueda.html"
+		"posturl": "https://correos.go.cr/codigo-postal/"
 	}
 }

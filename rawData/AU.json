@@ -1,21 +1,23 @@
 {
-	"data/AU/VIC": {
-		"id": "data/AU/VIC",
-		"key": "VIC",
-		"name": "Victoria",
+	"data/AU": {
+		"id": "data/AU",
+		"key": "AU",
+		"name": "AUSTRALIA",
 		"lang": "en",
-		"zip": "[38]",
-		"zipex": "3000,8000",
-		"isoid": "VIC"
-	},
-	"data/AU/NSW": {
-		"id": "data/AU/NSW",
-		"key": "NSW",
-		"name": "New South Wales",
-		"lang": "en",
-		"zip": "1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707",
-		"zipex": "1000,2888,3585,3707",
-		"isoid": "NSW"
+		"languages": "en",
+		"fmt": "%O%n%N%n%A%n%C %S %Z",
+		"require": "ACSZ",
+		"upper": "CS",
+		"zip": "\\d{4}",
+		"zipex": "2060,3171,6430,4000,4006,3001",
+		"posturl": "http://www1.auspost.com.au/postcodes/",
+		"state_name_type": "state",
+		"locality_name_type": "suburb",
+		"sub_keys": "ACT~JBT~NSW~NT~QLD~SA~TAS~VIC~WA",
+		"sub_names": "Australian Capital Territory~Jervis Bay Territory~New South Wales~Northern Territory~Queensland~South Australia~Tasmania~Victoria~Western Australia",
+		"sub_zips": "29|2540|260|261[0-8]|02|2620~2540~1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707~0[89]~[49]~5|0872~7~[38]~6|0872",
+		"sub_zipexs": "0200,2540,2618,2999~2540~1000,2888,3585,3707~0800,0999~4000,9999~5000~7000,7999~3000,8000~6000,0872",
+		"sub_isoids": "ACT~~NSW~NT~QLD~SA~TAS~VIC~WA"
 	},
 	"data/AU/ACT": {
 		"id": "data/AU/ACT",
@@ -26,14 +28,22 @@
 		"zipex": "0200,2540,2618,2999",
 		"isoid": "ACT"
 	},
-	"data/AU/WA": {
-		"id": "data/AU/WA",
-		"key": "WA",
-		"name": "Western Australia",
+	"data/AU/JBT": {
+		"id": "data/AU/JBT",
+		"key": "JBT",
+		"name": "Jervis Bay Territory",
 		"lang": "en",
-		"zip": "6|0872",
-		"zipex": "6000,0872",
-		"isoid": "WA"
+		"zip": "2540",
+		"zipex": "2540"
+	},
+	"data/AU/NSW": {
+		"id": "data/AU/NSW",
+		"key": "NSW",
+		"name": "New South Wales",
+		"lang": "en",
+		"zip": "1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707",
+		"zipex": "1000,2888,3585,3707",
+		"isoid": "NSW"
 	},
 	"data/AU/NT": {
 		"id": "data/AU/NT",
@@ -71,32 +81,22 @@
 		"zipex": "7000,7999",
 		"isoid": "TAS"
 	},
-	"data/AU": {
-		"id": "data/AU",
-		"key": "AU",
-		"name": "AUSTRALIA",
+	"data/AU/VIC": {
+		"id": "data/AU/VIC",
+		"key": "VIC",
+		"name": "Victoria",
 		"lang": "en",
-		"languages": "en",
-		"fmt": "%O%n%N%n%A%n%C %S %Z",
-		"require": "ACSZ",
-		"upper": "CS",
-		"zip": "\\d{4}",
-		"zipex": "2060,3171,6430,4000,4006,3001",
-		"posturl": "http://www1.auspost.com.au/postcodes/",
-		"state_name_type": "state",
-		"locality_name_type": "suburb",
-		"sub_keys": "ACT~JBT~NSW~NT~QLD~SA~TAS~VIC~WA",
-		"sub_names": "Australian Capital Territory~Jervis Bay Territory~New South Wales~Northern Territory~Queensland~South Australia~Tasmania~Victoria~Western Australia",
-		"sub_zips": "29|2540|260|261[0-8]|02|2620~2540~1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707~0[89]~[49]~5|0872~7~[38]~6|0872",
-		"sub_zipexs": "0200,2540,2618,2999~2540~1000,2888,3585,3707~0800,0999~4000,9999~5000~7000,7999~3000,8000~6000,0872",
-		"sub_isoids": "ACT~~NSW~NT~QLD~SA~TAS~VIC~WA"
+		"zip": "[38]",
+		"zipex": "3000,8000",
+		"isoid": "VIC"
 	},
-	"data/AU/JBT": {
-		"id": "data/AU/JBT",
-		"key": "JBT",
-		"name": "Jervis Bay Territory",
+	"data/AU/WA": {
+		"id": "data/AU/WA",
+		"key": "WA",
+		"name": "Western Australia",
 		"lang": "en",
-		"zip": "2540",
-		"zipex": "2540"
+		"zip": "6|0872",
+		"zipex": "6000,0872",
+		"isoid": "WA"
 	}
 }

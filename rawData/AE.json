@@ -1,12 +1,4 @@
 {
-	"data/AE/إمارة دبيّ": {
-		"id": "data/AE/إمارة دبيّ",
-		"key": "إمارة دبيّ",
-		"name": "دبي",
-		"lang": "ar",
-		"lname": "Dubai",
-		"isoid": "DU"
-	},
 	"data/AE": {
 		"id": "data/AE",
 		"key": "AE",
@@ -30,6 +22,30 @@
 		"lname": "Abu Dhabi",
 		"isoid": "AZ"
 	},
+	"data/AE/إمارة الشارقةّ": {
+		"id": "data/AE/إمارة الشارقةّ",
+		"key": "إمارة الشارقةّ",
+		"name": "الشارقة",
+		"lang": "ar",
+		"lname": "Sharjah",
+		"isoid": "SH"
+	},
+	"data/AE/إمارة دبيّ": {
+		"id": "data/AE/إمارة دبيّ",
+		"key": "إمارة دبيّ",
+		"name": "دبي",
+		"lang": "ar",
+		"lname": "Dubai",
+		"isoid": "DU"
+	},
+	"data/AE/إمارة رأس الخيمة": {
+		"id": "data/AE/إمارة رأس الخيمة",
+		"key": "إمارة رأس الخيمة",
+		"name": "رأس الخيمة",
+		"lang": "ar",
+		"lname": "Ras al Khaimah",
+		"isoid": "RK"
+	},
 	"data/AE/الفجيرة": {
 		"id": "data/AE/الفجيرة",
 		"key": "الفجيرة",
@@ -46,14 +62,6 @@
 		"lname": "Umm Al Quwain",
 		"isoid": "UQ"
 	},
-	"data/AE/إمارة الشارقةّ": {
-		"id": "data/AE/إمارة الشارقةّ",
-		"key": "إمارة الشارقةّ",
-		"name": "الشارقة",
-		"lang": "ar",
-		"lname": "Sharjah",
-		"isoid": "SH"
-	},
 	"data/AE/عجمان": {
 		"id": "data/AE/عجمان",
 		"key": "عجمان",
@@ -61,13 +69,5 @@
 		"lang": "ar",
 		"lname": "Ajman",
 		"isoid": "AJ"
-	},
-	"data/AE/إمارة رأس الخيمة": {
-		"id": "data/AE/إمارة رأس الخيمة",
-		"key": "إمارة رأس الخيمة",
-		"name": "رأس الخيمة",
-		"lang": "ar",
-		"lname": "Ras al Khaimah",
-		"isoid": "RK"
 	}
 }

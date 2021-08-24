@@ -1,92 +1,4 @@
 {
-	"data/BS/Ragged Island": {
-		"id": "data/BS/Ragged Island",
-		"key": "Ragged Island",
-		"name": "Ragged Island",
-		"lang": "en",
-		"isoid": "RI"
-	},
-	"data/BS/Eleuthera": {
-		"id": "data/BS/Eleuthera",
-		"key": "Eleuthera",
-		"name": "Eleuthera",
-		"lang": "en"
-	},
-	"data/BS/Acklins": {
-		"id": "data/BS/Acklins",
-		"key": "Acklins",
-		"name": "Acklins",
-		"lang": "en",
-		"isoid": "AK"
-	},
-	"data/BS/Inagua": {
-		"id": "data/BS/Inagua",
-		"key": "Inagua",
-		"name": "Inagua",
-		"lang": "en",
-		"isoid": "IN"
-	},
-	"data/BS/Rum Cay": {
-		"id": "data/BS/Rum Cay",
-		"key": "Rum Cay",
-		"name": "Rum Cay",
-		"lang": "en",
-		"isoid": "RC"
-	},
-	"data/BS/Crooked Island": {
-		"id": "data/BS/Crooked Island",
-		"key": "Crooked Island",
-		"name": "Crooked Island",
-		"lang": "en"
-	},
-	"data/BS/Spanish Wells": {
-		"id": "data/BS/Spanish Wells",
-		"key": "Spanish Wells",
-		"name": "Spanish Wells",
-		"lang": "en",
-		"isoid": "SW"
-	},
-	"data/BS/Cat Island": {
-		"id": "data/BS/Cat Island",
-		"key": "Cat Island",
-		"name": "Cat Island",
-		"lang": "en",
-		"isoid": "CI"
-	},
-	"data/BS/Bimini": {
-		"id": "data/BS/Bimini",
-		"key": "Bimini",
-		"name": "Bimini",
-		"lang": "en",
-		"isoid": "BI"
-	},
-	"data/BS/Exuma": {
-		"id": "data/BS/Exuma",
-		"key": "Exuma",
-		"name": "Exuma and Cays",
-		"lang": "en",
-		"isoid": "EX"
-	},
-	"data/BS/San Salvador": {
-		"id": "data/BS/San Salvador",
-		"key": "San Salvador",
-		"name": "San Salvador",
-		"lang": "en",
-		"isoid": "SS"
-	},
-	"data/BS/Andros": {
-		"id": "data/BS/Andros",
-		"key": "Andros",
-		"name": "Andros Island",
-		"lang": "en"
-	},
-	"data/BS/Mayaguana": {
-		"id": "data/BS/Mayaguana",
-		"key": "Mayaguana",
-		"name": "Mayaguana",
-		"lang": "en",
-		"isoid": "MG"
-	},
 	"data/BS": {
 		"id": "data/BS",
 		"key": "BS",
@@ -99,16 +11,23 @@
 		"sub_names": "Abaco Islands~Acklins~Andros Island~Berry Islands~Bimini~Cat Island~Crooked Island~Eleuthera~Exuma and Cays~Grand Bahama~Harbour Island~Inagua~Long Island~Mayaguana~New Providence~Ragged Island~Rum Cay~San Salvador~Spanish Wells",
 		"sub_isoids": "~AK~~BY~BI~CI~~~EX~~HI~IN~LI~MG~~RI~RC~SS~SW"
 	},
-	"data/BS/N.P.": {
-		"id": "data/BS/N.P.",
-		"key": "N.P.",
-		"name": "New Providence",
-		"lang": "en"
-	},
 	"data/BS/Abaco": {
 		"id": "data/BS/Abaco",
 		"key": "Abaco",
 		"name": "Abaco Islands",
+		"lang": "en"
+	},
+	"data/BS/Acklins": {
+		"id": "data/BS/Acklins",
+		"key": "Acklins",
+		"name": "Acklins",
+		"lang": "en",
+		"isoid": "AK"
+	},
+	"data/BS/Andros": {
+		"id": "data/BS/Andros",
+		"key": "Andros",
+		"name": "Andros Island",
 		"lang": "en"
 	},
 	"data/BS/Berry Islands": {
@@ -118,12 +37,44 @@
 		"lang": "en",
 		"isoid": "BY"
 	},
-	"data/BS/Long Island": {
-		"id": "data/BS/Long Island",
-		"key": "Long Island",
-		"name": "Long Island",
+	"data/BS/Bimini": {
+		"id": "data/BS/Bimini",
+		"key": "Bimini",
+		"name": "Bimini",
 		"lang": "en",
-		"isoid": "LI"
+		"isoid": "BI"
+	},
+	"data/BS/Cat Island": {
+		"id": "data/BS/Cat Island",
+		"key": "Cat Island",
+		"name": "Cat Island",
+		"lang": "en",
+		"isoid": "CI"
+	},
+	"data/BS/Crooked Island": {
+		"id": "data/BS/Crooked Island",
+		"key": "Crooked Island",
+		"name": "Crooked Island",
+		"lang": "en"
+	},
+	"data/BS/Eleuthera": {
+		"id": "data/BS/Eleuthera",
+		"key": "Eleuthera",
+		"name": "Eleuthera",
+		"lang": "en"
+	},
+	"data/BS/Exuma": {
+		"id": "data/BS/Exuma",
+		"key": "Exuma",
+		"name": "Exuma and Cays",
+		"lang": "en",
+		"isoid": "EX"
+	},
+	"data/BS/Grand Bahama": {
+		"id": "data/BS/Grand Bahama",
+		"key": "Grand Bahama",
+		"name": "Grand Bahama",
+		"lang": "en"
 	},
 	"data/BS/Harbour Island": {
 		"id": "data/BS/Harbour Island",
@@ -132,10 +83,59 @@
 		"lang": "en",
 		"isoid": "HI"
 	},
-	"data/BS/Grand Bahama": {
-		"id": "data/BS/Grand Bahama",
-		"key": "Grand Bahama",
-		"name": "Grand Bahama",
+	"data/BS/Inagua": {
+		"id": "data/BS/Inagua",
+		"key": "Inagua",
+		"name": "Inagua",
+		"lang": "en",
+		"isoid": "IN"
+	},
+	"data/BS/Long Island": {
+		"id": "data/BS/Long Island",
+		"key": "Long Island",
+		"name": "Long Island",
+		"lang": "en",
+		"isoid": "LI"
+	},
+	"data/BS/Mayaguana": {
+		"id": "data/BS/Mayaguana",
+		"key": "Mayaguana",
+		"name": "Mayaguana",
+		"lang": "en",
+		"isoid": "MG"
+	},
+	"data/BS/N.P.": {
+		"id": "data/BS/N.P.",
+		"key": "N.P.",
+		"name": "New Providence",
 		"lang": "en"
+	},
+	"data/BS/Ragged Island": {
+		"id": "data/BS/Ragged Island",
+		"key": "Ragged Island",
+		"name": "Ragged Island",
+		"lang": "en",
+		"isoid": "RI"
+	},
+	"data/BS/Rum Cay": {
+		"id": "data/BS/Rum Cay",
+		"key": "Rum Cay",
+		"name": "Rum Cay",
+		"lang": "en",
+		"isoid": "RC"
+	},
+	"data/BS/San Salvador": {
+		"id": "data/BS/San Salvador",
+		"key": "San Salvador",
+		"name": "San Salvador",
+		"lang": "en",
+		"isoid": "SS"
+	},
+	"data/BS/Spanish Wells": {
+		"id": "data/BS/Spanish Wells",
+		"key": "Spanish Wells",
+		"name": "Spanish Wells",
+		"lang": "en",
+		"isoid": "SW"
 	}
 }

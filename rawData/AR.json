@@ -1,11 +1,35 @@
 {
-	"data/AR/Chubut": {
-		"id": "data/AR/Chubut",
-		"key": "Chubut",
-		"name": "Chubut",
+	"data/AR": {
+		"id": "data/AR",
+		"key": "AR",
+		"name": "ARGENTINA",
 		"lang": "es",
-		"zip": "U?[89]",
-		"isoid": "U"
+		"languages": "es",
+		"fmt": "%N%n%O%n%A%n%Z %C%n%S",
+		"upper": "ACZ",
+		"zip": "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?",
+		"zipex": "C1070AAM,C1000WAM,B1000TBU,X5187XAB",
+		"posturl": "http://www.correoargentino.com.ar/formularios/cpa",
+		"sub_keys": "Buenos Aires~Catamarca~Chaco~Chubut~Ciudad Autónoma de Buenos Aires~Córdoba~Corrientes~Entre Ríos~Formosa~Jujuy~La Pampa~La Rioja~Mendoza~Misiones~Neuquén~Río Negro~Salta~San Juan~San Luis~Santa Cruz~Santa Fe~Santiago del Estero~Tierra del Fuego~Tucumán",
+		"sub_names": "Buenos Aires~Catamarca~Chaco~Chubut~Ciudad Autónoma de Buenos Aires~Córdoba~Corrientes~Entre Ríos~Formosa~Jujuy~La Pampa~La Rioja~Mendoza~Misiones~Neuquén~Río Negro~Salta~San Juan~San Luis~Santa Cruz~Santa Fe~Santiago del Estero~Tierra del Fuego~Tucumán",
+		"sub_zips": "B?[1-36-8]~K?[45]~H?3~U?[89]~C?1~X?[235-8]~W?3~E?[1-3]~P?[37]~Y?4~L?[3568]~F?5~M?[56]~N?3~Q?[38]~R?[89]~A?[34]~J?5~D?[4-6]~Z?[89]~S?[2368]~G?[2-5]~V?9~T?[45]",
+		"sub_isoids": "B~K~H~U~C~X~W~E~P~Y~L~F~M~N~Q~R~A~J~D~Z~S~G~V~T"
+	},
+	"data/AR/Buenos Aires": {
+		"id": "data/AR/Buenos Aires",
+		"key": "Buenos Aires",
+		"name": "Buenos Aires",
+		"lang": "es",
+		"zip": "B?[1-36-8]",
+		"isoid": "B"
+	},
+	"data/AR/Catamarca": {
+		"id": "data/AR/Catamarca",
+		"key": "Catamarca",
+		"name": "Catamarca",
+		"lang": "es",
+		"zip": "K?[45]",
+		"isoid": "K"
 	},
 	"data/AR/Chaco": {
 		"id": "data/AR/Chaco",
@@ -15,85 +39,21 @@
 		"zip": "H?3",
 		"isoid": "H"
 	},
-	"data/AR/Misiones": {
-		"id": "data/AR/Misiones",
-		"key": "Misiones",
-		"name": "Misiones",
+	"data/AR/Chubut": {
+		"id": "data/AR/Chubut",
+		"key": "Chubut",
+		"name": "Chubut",
 		"lang": "es",
-		"zip": "N?3",
-		"isoid": "N"
+		"zip": "U?[89]",
+		"isoid": "U"
 	},
-	"data/AR/San Luis": {
-		"id": "data/AR/San Luis",
-		"key": "San Luis",
-		"name": "San Luis",
+	"data/AR/Ciudad Autónoma de Buenos Aires": {
+		"id": "data/AR/Ciudad Autónoma de Buenos Aires",
+		"key": "Ciudad Autónoma de Buenos Aires",
+		"name": "Ciudad Autónoma de Buenos Aires",
 		"lang": "es",
-		"zip": "D?[4-6]",
-		"isoid": "D"
-	},
-	"data/AR/Río Negro": {
-		"id": "data/AR/Río Negro",
-		"key": "Río Negro",
-		"name": "Río Negro",
-		"lang": "es",
-		"zip": "R?[89]",
-		"isoid": "R"
-	},
-	"data/AR/Santa Cruz": {
-		"id": "data/AR/Santa Cruz",
-		"key": "Santa Cruz",
-		"name": "Santa Cruz",
-		"lang": "es",
-		"zip": "Z?[89]",
-		"isoid": "Z"
-	},
-	"data/AR/Santiago del Estero": {
-		"id": "data/AR/Santiago del Estero",
-		"key": "Santiago del Estero",
-		"name": "Santiago del Estero",
-		"lang": "es",
-		"zip": "G?[2-5]",
-		"isoid": "G"
-	},
-	"data/AR/Formosa": {
-		"id": "data/AR/Formosa",
-		"key": "Formosa",
-		"name": "Formosa",
-		"lang": "es",
-		"zip": "P?[37]",
-		"isoid": "P"
-	},
-	"data/AR/Córdoba": {
-		"id": "data/AR/Córdoba",
-		"key": "Córdoba",
-		"name": "Córdoba",
-		"lang": "es",
-		"zip": "X?[235-8]",
-		"isoid": "X"
-	},
-	"data/AR/San Juan": {
-		"id": "data/AR/San Juan",
-		"key": "San Juan",
-		"name": "San Juan",
-		"lang": "es",
-		"zip": "J?5",
-		"isoid": "J"
-	},
-	"data/AR/Salta": {
-		"id": "data/AR/Salta",
-		"key": "Salta",
-		"name": "Salta",
-		"lang": "es",
-		"zip": "A?[34]",
-		"isoid": "A"
-	},
-	"data/AR/Tierra del Fuego": {
-		"id": "data/AR/Tierra del Fuego",
-		"key": "Tierra del Fuego",
-		"name": "Tierra del Fuego",
-		"lang": "es",
-		"zip": "V?9",
-		"isoid": "V"
+		"zip": "C?1",
+		"isoid": "C"
 	},
 	"data/AR/Corrientes": {
 		"id": "data/AR/Corrientes",
@@ -103,6 +63,14 @@
 		"zip": "W?3",
 		"isoid": "W"
 	},
+	"data/AR/Córdoba": {
+		"id": "data/AR/Córdoba",
+		"key": "Córdoba",
+		"name": "Córdoba",
+		"lang": "es",
+		"zip": "X?[235-8]",
+		"isoid": "X"
+	},
 	"data/AR/Entre Ríos": {
 		"id": "data/AR/Entre Ríos",
 		"key": "Entre Ríos",
@@ -111,21 +79,21 @@
 		"zip": "E?[1-3]",
 		"isoid": "E"
 	},
-	"data/AR/Mendoza": {
-		"id": "data/AR/Mendoza",
-		"key": "Mendoza",
-		"name": "Mendoza",
+	"data/AR/Formosa": {
+		"id": "data/AR/Formosa",
+		"key": "Formosa",
+		"name": "Formosa",
 		"lang": "es",
-		"zip": "M?[56]",
-		"isoid": "M"
+		"zip": "P?[37]",
+		"isoid": "P"
 	},
-	"data/AR/Catamarca": {
-		"id": "data/AR/Catamarca",
-		"key": "Catamarca",
-		"name": "Catamarca",
+	"data/AR/Jujuy": {
+		"id": "data/AR/Jujuy",
+		"key": "Jujuy",
+		"name": "Jujuy",
 		"lang": "es",
-		"zip": "K?[45]",
-		"isoid": "K"
+		"zip": "Y?4",
+		"isoid": "Y"
 	},
 	"data/AR/La Pampa": {
 		"id": "data/AR/La Pampa",
@@ -143,45 +111,21 @@
 		"zip": "F?5",
 		"isoid": "F"
 	},
-	"data/AR/Tucumán": {
-		"id": "data/AR/Tucumán",
-		"key": "Tucumán",
-		"name": "Tucumán",
+	"data/AR/Mendoza": {
+		"id": "data/AR/Mendoza",
+		"key": "Mendoza",
+		"name": "Mendoza",
 		"lang": "es",
-		"zip": "T?[45]",
-		"isoid": "T"
+		"zip": "M?[56]",
+		"isoid": "M"
 	},
-	"data/AR": {
-		"id": "data/AR",
-		"key": "AR",
-		"name": "ARGENTINA",
+	"data/AR/Misiones": {
+		"id": "data/AR/Misiones",
+		"key": "Misiones",
+		"name": "Misiones",
 		"lang": "es",
-		"languages": "es",
-		"fmt": "%N%n%O%n%A%n%Z %C%n%S",
-		"upper": "ACZ",
-		"zip": "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?",
-		"zipex": "C1070AAM,C1000WAM,B1000TBU,X5187XAB",
-		"posturl": "http://www.correoargentino.com.ar/formularios/cpa",
-		"sub_keys": "Buenos Aires~Catamarca~Chaco~Chubut~Ciudad Autónoma de Buenos Aires~Córdoba~Corrientes~Entre Ríos~Formosa~Jujuy~La Pampa~La Rioja~Mendoza~Misiones~Neuquén~Río Negro~Salta~San Juan~San Luis~Santa Cruz~Santa Fe~Santiago del Estero~Tierra del Fuego~Tucumán",
-		"sub_names": "Buenos Aires~Catamarca~Chaco~Chubut~Ciudad Autónoma de Buenos Aires~Córdoba~Corrientes~Entre Ríos~Formosa~Jujuy~La Pampa~La Rioja~Mendoza~Misiones~Neuquén~Río Negro~Salta~San Juan~San Luis~Santa Cruz~Santa Fe~Santiago del Estero~Tierra del Fuego~Tucumán",
-		"sub_zips": "B?[1-36-8]~K?[45]~H?3~U?[89]~C?1~X?[235-8]~W?3~E?[1-3]~P?[37]~Y?4~L?[3568]~F?5~M?[56]~N?3~Q?[38]~R?[89]~A?[34]~J?5~D?[4-6]~Z?[89]~S?[2368]~G?[2-5]~V?9~T?[45]",
-		"sub_isoids": "B~K~H~U~C~X~W~E~P~Y~L~F~M~N~Q~R~A~J~D~Z~S~G~V~T"
-	},
-	"data/AR/Jujuy": {
-		"id": "data/AR/Jujuy",
-		"key": "Jujuy",
-		"name": "Jujuy",
-		"lang": "es",
-		"zip": "Y?4",
-		"isoid": "Y"
-	},
-	"data/AR/Ciudad Autónoma de Buenos Aires": {
-		"id": "data/AR/Ciudad Autónoma de Buenos Aires",
-		"key": "Ciudad Autónoma de Buenos Aires",
-		"name": "Ciudad Autónoma de Buenos Aires",
-		"lang": "es",
-		"zip": "C?1",
-		"isoid": "C"
+		"zip": "N?3",
+		"isoid": "N"
 	},
 	"data/AR/Neuquén": {
 		"id": "data/AR/Neuquén",
@@ -191,6 +135,46 @@
 		"zip": "Q?[38]",
 		"isoid": "Q"
 	},
+	"data/AR/Río Negro": {
+		"id": "data/AR/Río Negro",
+		"key": "Río Negro",
+		"name": "Río Negro",
+		"lang": "es",
+		"zip": "R?[89]",
+		"isoid": "R"
+	},
+	"data/AR/Salta": {
+		"id": "data/AR/Salta",
+		"key": "Salta",
+		"name": "Salta",
+		"lang": "es",
+		"zip": "A?[34]",
+		"isoid": "A"
+	},
+	"data/AR/San Juan": {
+		"id": "data/AR/San Juan",
+		"key": "San Juan",
+		"name": "San Juan",
+		"lang": "es",
+		"zip": "J?5",
+		"isoid": "J"
+	},
+	"data/AR/San Luis": {
+		"id": "data/AR/San Luis",
+		"key": "San Luis",
+		"name": "San Luis",
+		"lang": "es",
+		"zip": "D?[4-6]",
+		"isoid": "D"
+	},
+	"data/AR/Santa Cruz": {
+		"id": "data/AR/Santa Cruz",
+		"key": "Santa Cruz",
+		"name": "Santa Cruz",
+		"lang": "es",
+		"zip": "Z?[89]",
+		"isoid": "Z"
+	},
 	"data/AR/Santa Fe": {
 		"id": "data/AR/Santa Fe",
 		"key": "Santa Fe",
@@ -199,12 +183,28 @@
 		"zip": "S?[2368]",
 		"isoid": "S"
 	},
-	"data/AR/Buenos Aires": {
-		"id": "data/AR/Buenos Aires",
-		"key": "Buenos Aires",
-		"name": "Buenos Aires",
+	"data/AR/Santiago del Estero": {
+		"id": "data/AR/Santiago del Estero",
+		"key": "Santiago del Estero",
+		"name": "Santiago del Estero",
 		"lang": "es",
-		"zip": "B?[1-36-8]",
-		"isoid": "B"
+		"zip": "G?[2-5]",
+		"isoid": "G"
+	},
+	"data/AR/Tierra del Fuego": {
+		"id": "data/AR/Tierra del Fuego",
+		"key": "Tierra del Fuego",
+		"name": "Tierra del Fuego",
+		"lang": "es",
+		"zip": "V?9",
+		"isoid": "V"
+	},
+	"data/AR/Tucumán": {
+		"id": "data/AR/Tucumán",
+		"key": "Tucumán",
+		"name": "Tucumán",
+		"lang": "es",
+		"zip": "T?[45]",
+		"isoid": "T"
 	}
 }

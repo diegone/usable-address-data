@@ -1,68 +1,4 @@
 {
-	"data/MY/Kelantan": {
-		"id": "data/MY/Kelantan",
-		"key": "Kelantan",
-		"lang": "ms",
-		"zip": "1[5-9]",
-		"zipex": "15000,18599",
-		"isoid": "03"
-	},
-	"data/MY/Negeri Sembilan": {
-		"id": "data/MY/Negeri Sembilan",
-		"key": "Negeri Sembilan",
-		"lang": "ms",
-		"zip": "7[0-4]",
-		"zipex": "70000,73599",
-		"isoid": "05"
-	},
-	"data/MY/Putrajaya": {
-		"id": "data/MY/Putrajaya",
-		"key": "Putrajaya",
-		"lang": "ms",
-		"zip": "62",
-		"zipex": "62000,62999",
-		"isoid": "16"
-	},
-	"data/MY/Johor": {
-		"id": "data/MY/Johor",
-		"key": "Johor",
-		"lang": "ms",
-		"zip": "79|8[0-6]",
-		"zipex": "79000,86999",
-		"isoid": "01"
-	},
-	"data/MY/Kedah": {
-		"id": "data/MY/Kedah",
-		"key": "Kedah",
-		"lang": "ms",
-		"zip": "0[5-9]|34950",
-		"zipex": "05000,09999,34950",
-		"isoid": "02"
-	},
-	"data/MY/Terengganu": {
-		"id": "data/MY/Terengganu",
-		"key": "Terengganu",
-		"lang": "ms",
-		"zip": "2[0-4]",
-		"zipex": "20000,24999",
-		"isoid": "11"
-	},
-	"data/MY/Labuan": {
-		"id": "data/MY/Labuan",
-		"key": "Labuan",
-		"lang": "ms",
-		"zip": "87",
-		"zipex": "87000,87999",
-		"isoid": "15"
-	},
-	"data/MY/Kuala Lumpur": {
-		"id": "data/MY/Kuala Lumpur",
-		"key": "Kuala Lumpur",
-		"lang": "ms",
-		"zip": "5|60",
-		"zipex": "50000,60000",
-		"isoid": "14"
-	},
 	"data/MY": {
 		"id": "data/MY",
 		"key": "MY",
@@ -82,6 +18,62 @@
 		"sub_zipexs": "79000,86999~05000,09999,34950~15000,18599~50000,60000~87000,87999~75000,78399~70000,73599~25000,28999,39000,49000,69000~30000,36899,39000~01000,02799~10000,14999~62000,62999~88000,91999~93000,98999~40000,48999,63000,68199~20000,24999",
 		"sub_isoids": "01~02~03~14~15~04~05~06~08~09~07~16~12~13~10~11"
 	},
+	"data/MY/Johor": {
+		"id": "data/MY/Johor",
+		"key": "Johor",
+		"lang": "ms",
+		"zip": "79|8[0-6]",
+		"zipex": "79000,86999",
+		"isoid": "01"
+	},
+	"data/MY/Kedah": {
+		"id": "data/MY/Kedah",
+		"key": "Kedah",
+		"lang": "ms",
+		"zip": "0[5-9]|34950",
+		"zipex": "05000,09999,34950",
+		"isoid": "02"
+	},
+	"data/MY/Kelantan": {
+		"id": "data/MY/Kelantan",
+		"key": "Kelantan",
+		"lang": "ms",
+		"zip": "1[5-9]",
+		"zipex": "15000,18599",
+		"isoid": "03"
+	},
+	"data/MY/Kuala Lumpur": {
+		"id": "data/MY/Kuala Lumpur",
+		"key": "Kuala Lumpur",
+		"lang": "ms",
+		"zip": "5|60",
+		"zipex": "50000,60000",
+		"isoid": "14"
+	},
+	"data/MY/Labuan": {
+		"id": "data/MY/Labuan",
+		"key": "Labuan",
+		"lang": "ms",
+		"zip": "87",
+		"zipex": "87000,87999",
+		"isoid": "15"
+	},
+	"data/MY/Melaka": {
+		"id": "data/MY/Melaka",
+		"key": "Melaka",
+		"lang": "ms",
+		"zip": "7[5-8]",
+		"zipex": "75000,78399",
+		"isoid": "04"
+	},
+	"data/MY/Negeri Sembilan": {
+		"id": "data/MY/Negeri Sembilan",
+		"key": "Negeri Sembilan",
+		"lang": "ms",
+		"zip": "7[0-4]",
+		"zipex": "70000,73599",
+		"isoid": "05"
+	},
 	"data/MY/Pahang": {
 		"id": "data/MY/Pahang",
 		"key": "Pahang",
@@ -89,6 +81,14 @@
 		"zip": "2[5-8]|[346]9",
 		"zipex": "25000,28999,39000,49000,69000",
 		"isoid": "06"
+	},
+	"data/MY/Perak": {
+		"id": "data/MY/Perak",
+		"key": "Perak",
+		"lang": "ms",
+		"zip": "3[0-6]|39000",
+		"zipex": "30000,36899,39000",
+		"isoid": "08"
 	},
 	"data/MY/Perlis": {
 		"id": "data/MY/Perlis",
@@ -106,29 +106,13 @@
 		"zipex": "10000,14999",
 		"isoid": "07"
 	},
-	"data/MY/Selangor": {
-		"id": "data/MY/Selangor",
-		"key": "Selangor",
+	"data/MY/Putrajaya": {
+		"id": "data/MY/Putrajaya",
+		"key": "Putrajaya",
 		"lang": "ms",
-		"zip": "4[0-8]|6[3-8]",
-		"zipex": "40000,48999,63000,68199",
-		"isoid": "10"
-	},
-	"data/MY/Perak": {
-		"id": "data/MY/Perak",
-		"key": "Perak",
-		"lang": "ms",
-		"zip": "3[0-6]|39000",
-		"zipex": "30000,36899,39000",
-		"isoid": "08"
-	},
-	"data/MY/Sarawak": {
-		"id": "data/MY/Sarawak",
-		"key": "Sarawak",
-		"lang": "ms",
-		"zip": "9[3-8]",
-		"zipex": "93000,98999",
-		"isoid": "13"
+		"zip": "62",
+		"zipex": "62000,62999",
+		"isoid": "16"
 	},
 	"data/MY/Sabah": {
 		"id": "data/MY/Sabah",
@@ -138,12 +122,28 @@
 		"zipex": "88000,91999",
 		"isoid": "12"
 	},
-	"data/MY/Melaka": {
-		"id": "data/MY/Melaka",
-		"key": "Melaka",
+	"data/MY/Sarawak": {
+		"id": "data/MY/Sarawak",
+		"key": "Sarawak",
 		"lang": "ms",
-		"zip": "7[5-8]",
-		"zipex": "75000,78399",
-		"isoid": "04"
+		"zip": "9[3-8]",
+		"zipex": "93000,98999",
+		"isoid": "13"
+	},
+	"data/MY/Selangor": {
+		"id": "data/MY/Selangor",
+		"key": "Selangor",
+		"lang": "ms",
+		"zip": "4[0-8]|6[3-8]",
+		"zipex": "40000,48999,63000,68199",
+		"isoid": "10"
+	},
+	"data/MY/Terengganu": {
+		"id": "data/MY/Terengganu",
+		"key": "Terengganu",
+		"lang": "ms",
+		"zip": "2[0-4]",
+		"zipex": "20000,24999",
+		"isoid": "11"
 	}
 }

@@ -6,7 +6,7 @@
 		"fmt": "%N%n%O%n%A%nFO%Z %C",
 		"zip": "\\d{3}",
 		"zipex": "100",
-		"posturl": "http://www.postur.fo/",
+		"posturl": "https://www.posta.fo/fo/forsida/finn-postnr-stad/",
 		"postprefix": "FO"
 	}
 }

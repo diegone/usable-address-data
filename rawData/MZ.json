@@ -1,28 +1,4 @@
 {
-	"data/MZ/Cabo Delgado": {
-		"id": "data/MZ/Cabo Delgado",
-		"key": "Cabo Delgado",
-		"lang": "pt",
-		"isoid": "P"
-	},
-	"data/MZ/Tete": {
-		"id": "data/MZ/Tete",
-		"key": "Tete",
-		"lang": "pt",
-		"isoid": "T"
-	},
-	"data/MZ/Gaza": {
-		"id": "data/MZ/Gaza",
-		"key": "Gaza",
-		"lang": "pt",
-		"isoid": "G"
-	},
-	"data/MZ/Niassa": {
-		"id": "data/MZ/Niassa",
-		"key": "Niassa",
-		"lang": "pt",
-		"isoid": "A"
-	},
 	"data/MZ": {
 		"id": "data/MZ",
 		"key": "MZ",
@@ -35,23 +11,23 @@
 		"sub_keys": "Cabo Delgado~Cidade de Maputo~Gaza~Inhambane~Manica~Maputo~Nampula~Niassa~Sofala~Tete~Zambezia",
 		"sub_isoids": "P~MPM~G~I~B~L~N~A~S~T~Q"
 	},
-	"data/MZ/Nampula": {
-		"id": "data/MZ/Nampula",
-		"key": "Nampula",
+	"data/MZ/Cabo Delgado": {
+		"id": "data/MZ/Cabo Delgado",
+		"key": "Cabo Delgado",
 		"lang": "pt",
-		"isoid": "N"
+		"isoid": "P"
 	},
-	"data/MZ/Maputo": {
-		"id": "data/MZ/Maputo",
-		"key": "Maputo",
+	"data/MZ/Cidade de Maputo": {
+		"id": "data/MZ/Cidade de Maputo",
+		"key": "Cidade de Maputo",
 		"lang": "pt",
-		"isoid": "L"
+		"isoid": "MPM"
 	},
-	"data/MZ/Sofala": {
-		"id": "data/MZ/Sofala",
-		"key": "Sofala",
+	"data/MZ/Gaza": {
+		"id": "data/MZ/Gaza",
+		"key": "Gaza",
 		"lang": "pt",
-		"isoid": "S"
+		"isoid": "G"
 	},
 	"data/MZ/Inhambane": {
 		"id": "data/MZ/Inhambane",
@@ -65,16 +41,40 @@
 		"lang": "pt",
 		"isoid": "B"
 	},
+	"data/MZ/Maputo": {
+		"id": "data/MZ/Maputo",
+		"key": "Maputo",
+		"lang": "pt",
+		"isoid": "L"
+	},
+	"data/MZ/Nampula": {
+		"id": "data/MZ/Nampula",
+		"key": "Nampula",
+		"lang": "pt",
+		"isoid": "N"
+	},
+	"data/MZ/Niassa": {
+		"id": "data/MZ/Niassa",
+		"key": "Niassa",
+		"lang": "pt",
+		"isoid": "A"
+	},
+	"data/MZ/Sofala": {
+		"id": "data/MZ/Sofala",
+		"key": "Sofala",
+		"lang": "pt",
+		"isoid": "S"
+	},
+	"data/MZ/Tete": {
+		"id": "data/MZ/Tete",
+		"key": "Tete",
+		"lang": "pt",
+		"isoid": "T"
+	},
 	"data/MZ/Zambezia": {
 		"id": "data/MZ/Zambezia",
 		"key": "Zambezia",
 		"lang": "pt",
 		"isoid": "Q"
-	},
-	"data/MZ/Cidade de Maputo": {
-		"id": "data/MZ/Cidade de Maputo",
-		"key": "Cidade de Maputo",
-		"lang": "pt",
-		"isoid": "MPM"
 	}
 }

@@ -1,46 +1,4 @@
 {
-	"data/PE/Pasco": {
-		"id": "data/PE/Pasco",
-		"key": "Pasco",
-		"lang": "es",
-		"isoid": "PAS"
-	},
-	"data/PE/Ica": {
-		"id": "data/PE/Ica",
-		"key": "Ica",
-		"lang": "es",
-		"isoid": "ICA"
-	},
-	"data/PE/Amazonas": {
-		"id": "data/PE/Amazonas",
-		"key": "Amazonas",
-		"lang": "es",
-		"isoid": "AMA"
-	},
-	"data/PE/Moquegua": {
-		"id": "data/PE/Moquegua",
-		"key": "Moquegua",
-		"lang": "es",
-		"isoid": "MOQ"
-	},
-	"data/PE/Puno": {
-		"id": "data/PE/Puno",
-		"key": "Puno",
-		"lang": "es",
-		"isoid": "PUN"
-	},
-	"data/PE/Piura": {
-		"id": "data/PE/Piura",
-		"key": "Piura",
-		"lang": "es",
-		"isoid": "PIU"
-	},
-	"data/PE/Apurímac": {
-		"id": "data/PE/Apurímac",
-		"key": "Apurímac",
-		"lang": "es",
-		"isoid": "APU"
-	},
 	"data/PE": {
 		"id": "data/PE",
 		"key": "PE",
@@ -55,23 +13,23 @@
 		"sub_keys": "Amazonas~Áncash~Apurímac~Arequipa~Ayacucho~Cajamarca~Callao~Cuzco~Gobierno Regional de Lima~Huancavelica~Huánuco~Ica~Junín~La Libertad~Lambayeque~Loreto~Madre de Dios~Moquegua~Municipalidad Metropolitana de Lima~Pasco~Piura~Puno~San Martín~Tacna~Tumbes~Ucayali",
 		"sub_isoids": "AMA~ANC~APU~ARE~AYA~CAJ~CAL~CUS~LIM~HUV~HUC~ICA~JUN~LAL~LAM~LOR~MDD~MOQ~LMA~PAS~PIU~PUN~SAM~TAC~TUM~UCA"
 	},
-	"data/PE/Loreto": {
-		"id": "data/PE/Loreto",
-		"key": "Loreto",
+	"data/PE/Amazonas": {
+		"id": "data/PE/Amazonas",
+		"key": "Amazonas",
 		"lang": "es",
-		"isoid": "LOR"
+		"isoid": "AMA"
 	},
-	"data/PE/San Martín": {
-		"id": "data/PE/San Martín",
-		"key": "San Martín",
+	"data/PE/Apurímac": {
+		"id": "data/PE/Apurímac",
+		"key": "Apurímac",
 		"lang": "es",
-		"isoid": "SAM"
+		"isoid": "APU"
 	},
-	"data/PE/Junín": {
-		"id": "data/PE/Junín",
-		"key": "Junín",
+	"data/PE/Arequipa": {
+		"id": "data/PE/Arequipa",
+		"key": "Arequipa",
 		"lang": "es",
-		"isoid": "JUN"
+		"isoid": "ARE"
 	},
 	"data/PE/Ayacucho": {
 		"id": "data/PE/Ayacucho",
@@ -79,23 +37,17 @@
 		"lang": "es",
 		"isoid": "AYA"
 	},
-	"data/PE/Municipalidad Metropolitana de Lima": {
-		"id": "data/PE/Municipalidad Metropolitana de Lima",
-		"key": "Municipalidad Metropolitana de Lima",
+	"data/PE/Cajamarca": {
+		"id": "data/PE/Cajamarca",
+		"key": "Cajamarca",
 		"lang": "es",
-		"isoid": "LMA"
+		"isoid": "CAJ"
 	},
-	"data/PE/Áncash": {
-		"id": "data/PE/Áncash",
-		"key": "Áncash",
+	"data/PE/Callao": {
+		"id": "data/PE/Callao",
+		"key": "Callao",
 		"lang": "es",
-		"isoid": "ANC"
-	},
-	"data/PE/Ucayali": {
-		"id": "data/PE/Ucayali",
-		"key": "Ucayali",
-		"lang": "es",
-		"isoid": "UCA"
+		"isoid": "CAL"
 	},
 	"data/PE/Cuzco": {
 		"id": "data/PE/Cuzco",
@@ -103,11 +55,11 @@
 		"lang": "es",
 		"isoid": "CUS"
 	},
-	"data/PE/Lambayeque": {
-		"id": "data/PE/Lambayeque",
-		"key": "Lambayeque",
+	"data/PE/Gobierno Regional de Lima": {
+		"id": "data/PE/Gobierno Regional de Lima",
+		"key": "Gobierno Regional de Lima",
 		"lang": "es",
-		"isoid": "LAM"
+		"isoid": "LIM"
 	},
 	"data/PE/Huancavelica": {
 		"id": "data/PE/Huancavelica",
@@ -121,17 +73,17 @@
 		"lang": "es",
 		"isoid": "HUC"
 	},
-	"data/PE/Arequipa": {
-		"id": "data/PE/Arequipa",
-		"key": "Arequipa",
+	"data/PE/Ica": {
+		"id": "data/PE/Ica",
+		"key": "Ica",
 		"lang": "es",
-		"isoid": "ARE"
+		"isoid": "ICA"
 	},
-	"data/PE/Madre de Dios": {
-		"id": "data/PE/Madre de Dios",
-		"key": "Madre de Dios",
+	"data/PE/Junín": {
+		"id": "data/PE/Junín",
+		"key": "Junín",
 		"lang": "es",
-		"isoid": "MDD"
+		"isoid": "JUN"
 	},
 	"data/PE/La Libertad": {
 		"id": "data/PE/La Libertad",
@@ -139,11 +91,65 @@
 		"lang": "es",
 		"isoid": "LAL"
 	},
-	"data/PE/Cajamarca": {
-		"id": "data/PE/Cajamarca",
-		"key": "Cajamarca",
+	"data/PE/Lambayeque": {
+		"id": "data/PE/Lambayeque",
+		"key": "Lambayeque",
 		"lang": "es",
-		"isoid": "CAJ"
+		"isoid": "LAM"
+	},
+	"data/PE/Loreto": {
+		"id": "data/PE/Loreto",
+		"key": "Loreto",
+		"lang": "es",
+		"isoid": "LOR"
+	},
+	"data/PE/Madre de Dios": {
+		"id": "data/PE/Madre de Dios",
+		"key": "Madre de Dios",
+		"lang": "es",
+		"isoid": "MDD"
+	},
+	"data/PE/Moquegua": {
+		"id": "data/PE/Moquegua",
+		"key": "Moquegua",
+		"lang": "es",
+		"isoid": "MOQ"
+	},
+	"data/PE/Municipalidad Metropolitana de Lima": {
+		"id": "data/PE/Municipalidad Metropolitana de Lima",
+		"key": "Municipalidad Metropolitana de Lima",
+		"lang": "es",
+		"isoid": "LMA"
+	},
+	"data/PE/Pasco": {
+		"id": "data/PE/Pasco",
+		"key": "Pasco",
+		"lang": "es",
+		"isoid": "PAS"
+	},
+	"data/PE/Piura": {
+		"id": "data/PE/Piura",
+		"key": "Piura",
+		"lang": "es",
+		"isoid": "PIU"
+	},
+	"data/PE/Puno": {
+		"id": "data/PE/Puno",
+		"key": "Puno",
+		"lang": "es",
+		"isoid": "PUN"
+	},
+	"data/PE/San Martín": {
+		"id": "data/PE/San Martín",
+		"key": "San Martín",
+		"lang": "es",
+		"isoid": "SAM"
+	},
+	"data/PE/Tacna": {
+		"id": "data/PE/Tacna",
+		"key": "Tacna",
+		"lang": "es",
+		"isoid": "TAC"
 	},
 	"data/PE/Tumbes": {
 		"id": "data/PE/Tumbes",
@@ -151,22 +157,16 @@
 		"lang": "es",
 		"isoid": "TUM"
 	},
-	"data/PE/Gobierno Regional de Lima": {
-		"id": "data/PE/Gobierno Regional de Lima",
-		"key": "Gobierno Regional de Lima",
+	"data/PE/Ucayali": {
+		"id": "data/PE/Ucayali",
+		"key": "Ucayali",
 		"lang": "es",
-		"isoid": "LIM"
+		"isoid": "UCA"
 	},
-	"data/PE/Callao": {
-		"id": "data/PE/Callao",
-		"key": "Callao",
+	"data/PE/Áncash": {
+		"id": "data/PE/Áncash",
+		"key": "Áncash",
 		"lang": "es",
-		"isoid": "CAL"
-	},
-	"data/PE/Tacna": {
-		"id": "data/PE/Tacna",
-		"key": "Tacna",
-		"lang": "es",
-		"isoid": "TAC"
+		"isoid": "ANC"
 	}
 }

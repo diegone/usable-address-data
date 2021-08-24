@@ -1,410 +1,4 @@
 {
-	"data/VN/Hòa Bình": {
-		"id": "data/VN/Hòa Bình",
-		"key": "Hòa Bình",
-		"lang": "vi",
-		"lname": "Hoa Binh Province",
-		"isoid": "14"
-	},
-	"data/VN/Lào Cai": {
-		"id": "data/VN/Lào Cai",
-		"key": "Lào Cai",
-		"lang": "vi",
-		"lname": "Lao Cai Province",
-		"isoid": "02"
-	},
-	"data/VN/Thừa Thiên–Huế": {
-		"id": "data/VN/Thừa Thiên–Huế",
-		"key": "Thừa Thiên–Huế",
-		"lang": "vi",
-		"lname": "Thua Thien-Hue Province",
-		"isoid": "26"
-	},
-	"data/VN/Thành phố Hồ Chí Minh": {
-		"id": "data/VN/Thành phố Hồ Chí Minh",
-		"key": "Thành phố Hồ Chí Minh",
-		"lang": "vi",
-		"lname": "Ho Chi Minh City",
-		"isoid": "SG"
-	},
-	"data/VN/Quảng Nam": {
-		"id": "data/VN/Quảng Nam",
-		"key": "Quảng Nam",
-		"lang": "vi",
-		"lname": "Quang Nam Province",
-		"isoid": "27"
-	},
-	"data/VN/Phú Yên": {
-		"id": "data/VN/Phú Yên",
-		"key": "Phú Yên",
-		"lang": "vi",
-		"lname": "Phu Yen Province",
-		"isoid": "32"
-	},
-	"data/VN/Quảng Ninh": {
-		"id": "data/VN/Quảng Ninh",
-		"key": "Quảng Ninh",
-		"lang": "vi",
-		"lname": "Quang Ninh Province",
-		"isoid": "13"
-	},
-	"data/VN/Đồng Nai": {
-		"id": "data/VN/Đồng Nai",
-		"key": "Đồng Nai",
-		"lang": "vi",
-		"lname": "Dong Nai Province",
-		"isoid": "39"
-	},
-	"data/VN/Hải Dương": {
-		"id": "data/VN/Hải Dương",
-		"key": "Hải Dương",
-		"lang": "vi",
-		"lname": "Hai Duong Province",
-		"isoid": "61"
-	},
-	"data/VN/Sóc Trăng": {
-		"id": "data/VN/Sóc Trăng",
-		"key": "Sóc Trăng",
-		"lang": "vi",
-		"lname": "Soc Trang Province",
-		"isoid": "52"
-	},
-	"data/VN/Nghệ An": {
-		"id": "data/VN/Nghệ An",
-		"key": "Nghệ An",
-		"lang": "vi",
-		"lname": "Nghe An Province",
-		"isoid": "22"
-	},
-	"data/VN/Tuyên Quang": {
-		"id": "data/VN/Tuyên Quang",
-		"key": "Tuyên Quang",
-		"lang": "vi",
-		"lname": "Tuyen Quang Province",
-		"isoid": "07"
-	},
-	"data/VN/Đồng Tháp": {
-		"id": "data/VN/Đồng Tháp",
-		"key": "Đồng Tháp",
-		"lang": "vi",
-		"lname": "Dong Thap Province",
-		"isoid": "45"
-	},
-	"data/VN/Hải Phòng": {
-		"id": "data/VN/Hải Phòng",
-		"key": "Hải Phòng",
-		"lang": "vi",
-		"lname": "Haiphong City",
-		"isoid": "HP"
-	},
-	"data/VN/Nam Định": {
-		"id": "data/VN/Nam Định",
-		"key": "Nam Định",
-		"lang": "vi",
-		"lname": "Nam Dinh Province",
-		"isoid": "67"
-	},
-	"data/VN/Lâm Đồng": {
-		"id": "data/VN/Lâm Đồng",
-		"key": "Lâm Đồng",
-		"lang": "vi",
-		"lname": "Lam Dong Province",
-		"isoid": "35"
-	},
-	"data/VN/Điện Biên": {
-		"id": "data/VN/Điện Biên",
-		"key": "Điện Biên",
-		"lang": "vi",
-		"lname": "Dien Bien Province",
-		"isoid": "71"
-	},
-	"data/VN/Thanh Hóa": {
-		"id": "data/VN/Thanh Hóa",
-		"key": "Thanh Hóa",
-		"lang": "vi",
-		"lname": "Thanh Hoa Province",
-		"isoid": "21"
-	},
-	"data/VN/Cà Mau": {
-		"id": "data/VN/Cà Mau",
-		"key": "Cà Mau",
-		"lang": "vi",
-		"lname": "Ca Mau Province",
-		"isoid": "59"
-	},
-	"data/VN/Thái Nguyên": {
-		"id": "data/VN/Thái Nguyên",
-		"key": "Thái Nguyên",
-		"lang": "vi",
-		"lname": "Thai Nguyen Province",
-		"isoid": "69"
-	},
-	"data/VN/Ninh Thuận": {
-		"id": "data/VN/Ninh Thuận",
-		"key": "Ninh Thuận",
-		"lang": "vi",
-		"lname": "Ninh Thuan Province",
-		"isoid": "36"
-	},
-	"data/VN/Long An": {
-		"id": "data/VN/Long An",
-		"key": "Long An",
-		"lang": "vi",
-		"lname": "Long An Province",
-		"isoid": "41"
-	},
-	"data/VN/Trà Vinh": {
-		"id": "data/VN/Trà Vinh",
-		"key": "Trà Vinh",
-		"lang": "vi",
-		"lname": "Tra Vinh Province",
-		"isoid": "51"
-	},
-	"data/VN/Đắk Lắk": {
-		"id": "data/VN/Đắk Lắk",
-		"key": "Đắk Lắk",
-		"lang": "vi",
-		"lname": "Dak Lak Province",
-		"isoid": "33"
-	},
-	"data/VN/An Giang": {
-		"id": "data/VN/An Giang",
-		"key": "An Giang",
-		"lang": "vi",
-		"lname": "An Giang Province",
-		"isoid": "44"
-	},
-	"data/VN/Bạc Liêu": {
-		"id": "data/VN/Bạc Liêu",
-		"key": "Bạc Liêu",
-		"lang": "vi",
-		"lname": "Bac Lieu Province",
-		"isoid": "55"
-	},
-	"data/VN/Hà Giang": {
-		"id": "data/VN/Hà Giang",
-		"key": "Hà Giang",
-		"lang": "vi",
-		"lname": "Ha Giang Province",
-		"isoid": "03"
-	},
-	"data/VN/Hậu Giang": {
-		"id": "data/VN/Hậu Giang",
-		"key": "Hậu Giang",
-		"lang": "vi",
-		"lname": "Hau Giang Province",
-		"isoid": "73"
-	},
-	"data/VN/Quảng Trị": {
-		"id": "data/VN/Quảng Trị",
-		"key": "Quảng Trị",
-		"lang": "vi",
-		"lname": "Quang Tri Province",
-		"isoid": "25"
-	},
-	"data/VN/Hà Tĩnh": {
-		"id": "data/VN/Hà Tĩnh",
-		"key": "Hà Tĩnh",
-		"lang": "vi",
-		"lname": "Ha Tinh Province",
-		"isoid": "23"
-	},
-	"data/VN/Bến Tre": {
-		"id": "data/VN/Bến Tre",
-		"key": "Bến Tre",
-		"lang": "vi",
-		"lname": "Ben Tre Province",
-		"isoid": "50"
-	},
-	"data/VN/Bình Định": {
-		"id": "data/VN/Bình Định",
-		"key": "Bình Định",
-		"lang": "vi",
-		"lname": "Binh Dinh Province",
-		"isoid": "31"
-	},
-	"data/VN/Bình Phước": {
-		"id": "data/VN/Bình Phước",
-		"key": "Bình Phước",
-		"lang": "vi",
-		"lname": "Binh Phuoc Province",
-		"isoid": "58"
-	},
-	"data/VN/Thái Bình": {
-		"id": "data/VN/Thái Bình",
-		"key": "Thái Bình",
-		"lang": "vi",
-		"lname": "Thai Binh Province",
-		"isoid": "20"
-	},
-	"data/VN/Quảng Ngãi": {
-		"id": "data/VN/Quảng Ngãi",
-		"key": "Quảng Ngãi",
-		"lang": "vi",
-		"lname": "Quang Ngai Province",
-		"isoid": "29"
-	},
-	"data/VN/Bà Rịa–Vũng Tàu": {
-		"id": "data/VN/Bà Rịa–Vũng Tàu",
-		"key": "Bà Rịa–Vũng Tàu",
-		"lang": "vi",
-		"lname": "Ba Ria-Vung Tau Province",
-		"isoid": "43"
-	},
-	"data/VN/Hà Nội": {
-		"id": "data/VN/Hà Nội",
-		"key": "Hà Nội",
-		"lang": "vi",
-		"lname": "Hanoi City",
-		"isoid": "HN"
-	},
-	"data/VN/Cần Thơ": {
-		"id": "data/VN/Cần Thơ",
-		"key": "Cần Thơ",
-		"lang": "vi",
-		"lname": "Can Tho City",
-		"isoid": "CT"
-	},
-	"data/VN/Quảng Bình": {
-		"id": "data/VN/Quảng Bình",
-		"key": "Quảng Bình",
-		"lang": "vi",
-		"lname": "Quang Binh Province",
-		"isoid": "24"
-	},
-	"data/VN/Ninh Bình": {
-		"id": "data/VN/Ninh Bình",
-		"key": "Ninh Bình",
-		"lang": "vi",
-		"lname": "Ninh Binh Province",
-		"isoid": "18"
-	},
-	"data/VN/Tiền Giang": {
-		"id": "data/VN/Tiền Giang",
-		"key": "Tiền Giang",
-		"lang": "vi",
-		"lname": "Tien Giang Province",
-		"isoid": "46"
-	},
-	"data/VN/Đăk Nông": {
-		"id": "data/VN/Đăk Nông",
-		"key": "Đăk Nông",
-		"lang": "vi",
-		"lname": "Dak Nong Province",
-		"isoid": "72"
-	},
-	"data/VN/Bắc Giang": {
-		"id": "data/VN/Bắc Giang",
-		"key": "Bắc Giang",
-		"lang": "vi",
-		"lname": "Bac Giang Province",
-		"isoid": "54"
-	},
-	"data/VN/Đà Nẵng": {
-		"id": "data/VN/Đà Nẵng",
-		"key": "Đà Nẵng",
-		"lang": "vi",
-		"lname": "Da Nang City",
-		"isoid": "DN"
-	},
-	"data/VN/Bình Dương": {
-		"id": "data/VN/Bình Dương",
-		"key": "Bình Dương",
-		"lang": "vi",
-		"lname": "Binh Duong Province",
-		"isoid": "57"
-	},
-	"data/VN/Hưng Yên": {
-		"id": "data/VN/Hưng Yên",
-		"key": "Hưng Yên",
-		"lang": "vi",
-		"lname": "Hung Yen Province",
-		"isoid": "66"
-	},
-	"data/VN/Kon Tum": {
-		"id": "data/VN/Kon Tum",
-		"key": "Kon Tum",
-		"lang": "vi",
-		"lname": "Kon Tum Province",
-		"isoid": "28"
-	},
-	"data/VN/Bình Thuận": {
-		"id": "data/VN/Bình Thuận",
-		"key": "Bình Thuận",
-		"lang": "vi",
-		"lname": "Binh Thuan Province",
-		"isoid": "40"
-	},
-	"data/VN/Tây Ninh": {
-		"id": "data/VN/Tây Ninh",
-		"key": "Tây Ninh",
-		"lang": "vi",
-		"lname": "Tay Ninh Province",
-		"isoid": "37"
-	},
-	"data/VN/Gia Lai": {
-		"id": "data/VN/Gia Lai",
-		"key": "Gia Lai",
-		"lang": "vi",
-		"lname": "Gia Lai Province",
-		"isoid": "30"
-	},
-	"data/VN/Kiên Giang": {
-		"id": "data/VN/Kiên Giang",
-		"key": "Kiên Giang",
-		"lang": "vi",
-		"lname": "Kien Giang Province",
-		"isoid": "47"
-	},
-	"data/VN/Lai Châu": {
-		"id": "data/VN/Lai Châu",
-		"key": "Lai Châu",
-		"lang": "vi",
-		"lname": "Lai Chau Province",
-		"isoid": "01"
-	},
-	"data/VN/Khánh Hòa": {
-		"id": "data/VN/Khánh Hòa",
-		"key": "Khánh Hòa",
-		"lang": "vi",
-		"lname": "Khanh Hoa Province",
-		"isoid": "34"
-	},
-	"data/VN/Cao Bằng": {
-		"id": "data/VN/Cao Bằng",
-		"key": "Cao Bằng",
-		"lang": "vi",
-		"lname": "Cao Bang Province",
-		"isoid": "04"
-	},
-	"data/VN/Vĩnh Phúc": {
-		"id": "data/VN/Vĩnh Phúc",
-		"key": "Vĩnh Phúc",
-		"lang": "vi",
-		"lname": "Vinh Phuc Province",
-		"isoid": "70"
-	},
-	"data/VN/Phú Thọ": {
-		"id": "data/VN/Phú Thọ",
-		"key": "Phú Thọ",
-		"lang": "vi",
-		"lname": "Phu Tho Province",
-		"isoid": "68"
-	},
-	"data/VN/Sơn La": {
-		"id": "data/VN/Sơn La",
-		"key": "Sơn La",
-		"lang": "vi",
-		"lname": "Son La Province",
-		"isoid": "05"
-	},
-	"data/VN/Hà Nam": {
-		"id": "data/VN/Hà Nam",
-		"key": "Hà Nam",
-		"lang": "vi",
-		"lname": "Ha Nam Province",
-		"isoid": "63"
-	},
 	"data/VN": {
 		"id": "data/VN",
 		"key": "VN",
@@ -420,19 +14,61 @@
 		"sub_lnames": "An Giang Province~Ba Ria-Vung Tau Province~Bac Lieu Province~Bac Giang Province~Bac Kan Province~Bac Ninh Province~Ben Tre Province~Binh Duong Province~Binh Dinh Province~Binh Phuoc Province~Binh Thuan Province~Ca Mau Province~Cao Bang Province~Can Tho City~Da Nang City~Dak Lak Province~Dak Nong Province~Dien Bien Province~Dong Nai Province~Dong Thap Province~Gia Lai Province~Ha Giang Province~Ha Nam Province~Hanoi City~Ha Tinh Province~Hai Duong Province~Haiphong City~Hau Giang Province~Hoa Binh Province~Hung Yen Province~Khanh Hoa Province~Kien Giang Province~Kon Tum Province~Lai Chau Province~Lang Song Province~Lao Cai Province~Lam Dong Province~Long An Province~Nam Dinh Province~Nghe An Province~Ninh Binh Province~Ninh Thuan Province~Phu Tho Province~Phu Yen Province~Quang Binh Province~Quang Nam Province~Quang Ngai Province~Quang Ninh Province~Quang Tri Province~Soc Trang Province~Son La Province~Tay Ninh Province~Thai Binh Province~Thai Nguyen Province~Thanh Hoa Province~Ho Chi Minh City~Thua Thien-Hue Province~Tien Giang Province~Tra Vinh Province~Tuyen Quang Province~Vinh Long Province~Vinh Phuc Province~Yen Bai Province",
 		"sub_isoids": "44~43~55~54~53~56~50~57~31~58~40~59~04~CT~DN~33~72~71~39~45~30~03~63~HN~23~61~HP~73~14~66~34~47~28~01~09~02~35~41~67~22~18~36~68~32~24~27~29~13~25~52~05~37~20~69~21~SG~26~46~51~07~49~70~06"
 	},
-	"data/VN/Yên Bái": {
-		"id": "data/VN/Yên Bái",
-		"key": "Yên Bái",
+	"data/VN/An Giang": {
+		"id": "data/VN/An Giang",
+		"key": "An Giang",
 		"lang": "vi",
-		"lname": "Yen Bai Province",
-		"isoid": "06"
+		"lname": "An Giang Province",
+		"isoid": "44"
 	},
-	"data/VN/Bắc Ninh": {
-		"id": "data/VN/Bắc Ninh",
-		"key": "Bắc Ninh",
+	"data/VN/Bà Rịa–Vũng Tàu": {
+		"id": "data/VN/Bà Rịa–Vũng Tàu",
+		"key": "Bà Rịa–Vũng Tàu",
 		"lang": "vi",
-		"lname": "Bac Ninh Province",
-		"isoid": "56"
+		"lname": "Ba Ria-Vung Tau Province",
+		"isoid": "43"
+	},
+	"data/VN/Bình Dương": {
+		"id": "data/VN/Bình Dương",
+		"key": "Bình Dương",
+		"lang": "vi",
+		"lname": "Binh Duong Province",
+		"isoid": "57"
+	},
+	"data/VN/Bình Phước": {
+		"id": "data/VN/Bình Phước",
+		"key": "Bình Phước",
+		"lang": "vi",
+		"lname": "Binh Phuoc Province",
+		"isoid": "58"
+	},
+	"data/VN/Bình Thuận": {
+		"id": "data/VN/Bình Thuận",
+		"key": "Bình Thuận",
+		"lang": "vi",
+		"lname": "Binh Thuan Province",
+		"isoid": "40"
+	},
+	"data/VN/Bình Định": {
+		"id": "data/VN/Bình Định",
+		"key": "Bình Định",
+		"lang": "vi",
+		"lname": "Binh Dinh Province",
+		"isoid": "31"
+	},
+	"data/VN/Bạc Liêu": {
+		"id": "data/VN/Bạc Liêu",
+		"key": "Bạc Liêu",
+		"lang": "vi",
+		"lname": "Bac Lieu Province",
+		"isoid": "55"
+	},
+	"data/VN/Bắc Giang": {
+		"id": "data/VN/Bắc Giang",
+		"key": "Bắc Giang",
+		"lang": "vi",
+		"lname": "Bac Giang Province",
+		"isoid": "54"
 	},
 	"data/VN/Bắc Kạn": {
 		"id": "data/VN/Bắc Kạn",
@@ -441,12 +77,159 @@
 		"lname": "Bac Kan Province",
 		"isoid": "53"
 	},
-	"data/VN/Vĩnh Long": {
-		"id": "data/VN/Vĩnh Long",
-		"key": "Vĩnh Long",
+	"data/VN/Bắc Ninh": {
+		"id": "data/VN/Bắc Ninh",
+		"key": "Bắc Ninh",
 		"lang": "vi",
-		"lname": "Vinh Long Province",
-		"isoid": "49"
+		"lname": "Bac Ninh Province",
+		"isoid": "56"
+	},
+	"data/VN/Bến Tre": {
+		"id": "data/VN/Bến Tre",
+		"key": "Bến Tre",
+		"lang": "vi",
+		"lname": "Ben Tre Province",
+		"isoid": "50"
+	},
+	"data/VN/Cao Bằng": {
+		"id": "data/VN/Cao Bằng",
+		"key": "Cao Bằng",
+		"lang": "vi",
+		"lname": "Cao Bang Province",
+		"isoid": "04"
+	},
+	"data/VN/Cà Mau": {
+		"id": "data/VN/Cà Mau",
+		"key": "Cà Mau",
+		"lang": "vi",
+		"lname": "Ca Mau Province",
+		"isoid": "59"
+	},
+	"data/VN/Cần Thơ": {
+		"id": "data/VN/Cần Thơ",
+		"key": "Cần Thơ",
+		"lang": "vi",
+		"lname": "Can Tho City",
+		"isoid": "CT"
+	},
+	"data/VN/Gia Lai": {
+		"id": "data/VN/Gia Lai",
+		"key": "Gia Lai",
+		"lang": "vi",
+		"lname": "Gia Lai Province",
+		"isoid": "30"
+	},
+	"data/VN/Hà Giang": {
+		"id": "data/VN/Hà Giang",
+		"key": "Hà Giang",
+		"lang": "vi",
+		"lname": "Ha Giang Province",
+		"isoid": "03"
+	},
+	"data/VN/Hà Nam": {
+		"id": "data/VN/Hà Nam",
+		"key": "Hà Nam",
+		"lang": "vi",
+		"lname": "Ha Nam Province",
+		"isoid": "63"
+	},
+	"data/VN/Hà Nội": {
+		"id": "data/VN/Hà Nội",
+		"key": "Hà Nội",
+		"lang": "vi",
+		"lname": "Hanoi City",
+		"isoid": "HN"
+	},
+	"data/VN/Hà Tĩnh": {
+		"id": "data/VN/Hà Tĩnh",
+		"key": "Hà Tĩnh",
+		"lang": "vi",
+		"lname": "Ha Tinh Province",
+		"isoid": "23"
+	},
+	"data/VN/Hòa Bình": {
+		"id": "data/VN/Hòa Bình",
+		"key": "Hòa Bình",
+		"lang": "vi",
+		"lname": "Hoa Binh Province",
+		"isoid": "14"
+	},
+	"data/VN/Hưng Yên": {
+		"id": "data/VN/Hưng Yên",
+		"key": "Hưng Yên",
+		"lang": "vi",
+		"lname": "Hung Yen Province",
+		"isoid": "66"
+	},
+	"data/VN/Hải Dương": {
+		"id": "data/VN/Hải Dương",
+		"key": "Hải Dương",
+		"lang": "vi",
+		"lname": "Hai Duong Province",
+		"isoid": "61"
+	},
+	"data/VN/Hải Phòng": {
+		"id": "data/VN/Hải Phòng",
+		"key": "Hải Phòng",
+		"lang": "vi",
+		"lname": "Haiphong City",
+		"isoid": "HP"
+	},
+	"data/VN/Hậu Giang": {
+		"id": "data/VN/Hậu Giang",
+		"key": "Hậu Giang",
+		"lang": "vi",
+		"lname": "Hau Giang Province",
+		"isoid": "73"
+	},
+	"data/VN/Khánh Hòa": {
+		"id": "data/VN/Khánh Hòa",
+		"key": "Khánh Hòa",
+		"lang": "vi",
+		"lname": "Khanh Hoa Province",
+		"isoid": "34"
+	},
+	"data/VN/Kiên Giang": {
+		"id": "data/VN/Kiên Giang",
+		"key": "Kiên Giang",
+		"lang": "vi",
+		"lname": "Kien Giang Province",
+		"isoid": "47"
+	},
+	"data/VN/Kon Tum": {
+		"id": "data/VN/Kon Tum",
+		"key": "Kon Tum",
+		"lang": "vi",
+		"lname": "Kon Tum Province",
+		"isoid": "28"
+	},
+	"data/VN/Lai Châu": {
+		"id": "data/VN/Lai Châu",
+		"key": "Lai Châu",
+		"lang": "vi",
+		"lname": "Lai Chau Province",
+		"isoid": "01"
+	},
+	"data/VN/Long An": {
+		"id": "data/VN/Long An",
+		"key": "Long An",
+		"lang": "vi",
+		"lname": "Long An Province",
+		"isoid": "41"
+	},
+	"data/VN/Lào Cai": {
+		"id": "data/VN/Lào Cai",
+		"key": "Lào Cai",
+		"lang": "vi",
+		"lname": "Lao Cai Province",
+		"isoid": "02"
+	},
+	"data/VN/Lâm Đồng": {
+		"id": "data/VN/Lâm Đồng",
+		"key": "Lâm Đồng",
+		"lang": "vi",
+		"lname": "Lam Dong Province",
+		"isoid": "35"
 	},
 	"data/VN/Lạng Sơn": {
 		"id": "data/VN/Lạng Sơn",
@@ -454,5 +237,222 @@
 		"lang": "vi",
 		"lname": "Lang Song Province",
 		"isoid": "09"
+	},
+	"data/VN/Nam Định": {
+		"id": "data/VN/Nam Định",
+		"key": "Nam Định",
+		"lang": "vi",
+		"lname": "Nam Dinh Province",
+		"isoid": "67"
+	},
+	"data/VN/Nghệ An": {
+		"id": "data/VN/Nghệ An",
+		"key": "Nghệ An",
+		"lang": "vi",
+		"lname": "Nghe An Province",
+		"isoid": "22"
+	},
+	"data/VN/Ninh Bình": {
+		"id": "data/VN/Ninh Bình",
+		"key": "Ninh Bình",
+		"lang": "vi",
+		"lname": "Ninh Binh Province",
+		"isoid": "18"
+	},
+	"data/VN/Ninh Thuận": {
+		"id": "data/VN/Ninh Thuận",
+		"key": "Ninh Thuận",
+		"lang": "vi",
+		"lname": "Ninh Thuan Province",
+		"isoid": "36"
+	},
+	"data/VN/Phú Thọ": {
+		"id": "data/VN/Phú Thọ",
+		"key": "Phú Thọ",
+		"lang": "vi",
+		"lname": "Phu Tho Province",
+		"isoid": "68"
+	},
+	"data/VN/Phú Yên": {
+		"id": "data/VN/Phú Yên",
+		"key": "Phú Yên",
+		"lang": "vi",
+		"lname": "Phu Yen Province",
+		"isoid": "32"
+	},
+	"data/VN/Quảng Bình": {
+		"id": "data/VN/Quảng Bình",
+		"key": "Quảng Bình",
+		"lang": "vi",
+		"lname": "Quang Binh Province",
+		"isoid": "24"
+	},
+	"data/VN/Quảng Nam": {
+		"id": "data/VN/Quảng Nam",
+		"key": "Quảng Nam",
+		"lang": "vi",
+		"lname": "Quang Nam Province",
+		"isoid": "27"
+	},
+	"data/VN/Quảng Ngãi": {
+		"id": "data/VN/Quảng Ngãi",
+		"key": "Quảng Ngãi",
+		"lang": "vi",
+		"lname": "Quang Ngai Province",
+		"isoid": "29"
+	},
+	"data/VN/Quảng Ninh": {
+		"id": "data/VN/Quảng Ninh",
+		"key": "Quảng Ninh",
+		"lang": "vi",
+		"lname": "Quang Ninh Province",
+		"isoid": "13"
+	},
+	"data/VN/Quảng Trị": {
+		"id": "data/VN/Quảng Trị",
+		"key": "Quảng Trị",
+		"lang": "vi",
+		"lname": "Quang Tri Province",
+		"isoid": "25"
+	},
+	"data/VN/Sóc Trăng": {
+		"id": "data/VN/Sóc Trăng",
+		"key": "Sóc Trăng",
+		"lang": "vi",
+		"lname": "Soc Trang Province",
+		"isoid": "52"
+	},
+	"data/VN/Sơn La": {
+		"id": "data/VN/Sơn La",
+		"key": "Sơn La",
+		"lang": "vi",
+		"lname": "Son La Province",
+		"isoid": "05"
+	},
+	"data/VN/Thanh Hóa": {
+		"id": "data/VN/Thanh Hóa",
+		"key": "Thanh Hóa",
+		"lang": "vi",
+		"lname": "Thanh Hoa Province",
+		"isoid": "21"
+	},
+	"data/VN/Thành phố Hồ Chí Minh": {
+		"id": "data/VN/Thành phố Hồ Chí Minh",
+		"key": "Thành phố Hồ Chí Minh",
+		"lang": "vi",
+		"lname": "Ho Chi Minh City",
+		"isoid": "SG"
+	},
+	"data/VN/Thái Bình": {
+		"id": "data/VN/Thái Bình",
+		"key": "Thái Bình",
+		"lang": "vi",
+		"lname": "Thai Binh Province",
+		"isoid": "20"
+	},
+	"data/VN/Thái Nguyên": {
+		"id": "data/VN/Thái Nguyên",
+		"key": "Thái Nguyên",
+		"lang": "vi",
+		"lname": "Thai Nguyen Province",
+		"isoid": "69"
+	},
+	"data/VN/Thừa Thiên–Huế": {
+		"id": "data/VN/Thừa Thiên–Huế",
+		"key": "Thừa Thiên–Huế",
+		"lang": "vi",
+		"lname": "Thua Thien-Hue Province",
+		"isoid": "26"
+	},
+	"data/VN/Tiền Giang": {
+		"id": "data/VN/Tiền Giang",
+		"key": "Tiền Giang",
+		"lang": "vi",
+		"lname": "Tien Giang Province",
+		"isoid": "46"
+	},
+	"data/VN/Trà Vinh": {
+		"id": "data/VN/Trà Vinh",
+		"key": "Trà Vinh",
+		"lang": "vi",
+		"lname": "Tra Vinh Province",
+		"isoid": "51"
+	},
+	"data/VN/Tuyên Quang": {
+		"id": "data/VN/Tuyên Quang",
+		"key": "Tuyên Quang",
+		"lang": "vi",
+		"lname": "Tuyen Quang Province",
+		"isoid": "07"
+	},
+	"data/VN/Tây Ninh": {
+		"id": "data/VN/Tây Ninh",
+		"key": "Tây Ninh",
+		"lang": "vi",
+		"lname": "Tay Ninh Province",
+		"isoid": "37"
+	},
+	"data/VN/Vĩnh Long": {
+		"id": "data/VN/Vĩnh Long",
+		"key": "Vĩnh Long",
+		"lang": "vi",
+		"lname": "Vinh Long Province",
+		"isoid": "49"
+	},
+	"data/VN/Vĩnh Phúc": {
+		"id": "data/VN/Vĩnh Phúc",
+		"key": "Vĩnh Phúc",
+		"lang": "vi",
+		"lname": "Vinh Phuc Province",
+		"isoid": "70"
+	},
+	"data/VN/Yên Bái": {
+		"id": "data/VN/Yên Bái",
+		"key": "Yên Bái",
+		"lang": "vi",
+		"lname": "Yen Bai Province",
+		"isoid": "06"
+	},
+	"data/VN/Điện Biên": {
+		"id": "data/VN/Điện Biên",
+		"key": "Điện Biên",
+		"lang": "vi",
+		"lname": "Dien Bien Province",
+		"isoid": "71"
+	},
+	"data/VN/Đà Nẵng": {
+		"id": "data/VN/Đà Nẵng",
+		"key": "Đà Nẵng",
+		"lang": "vi",
+		"lname": "Da Nang City",
+		"isoid": "DN"
+	},
+	"data/VN/Đăk Nông": {
+		"id": "data/VN/Đăk Nông",
+		"key": "Đăk Nông",
+		"lang": "vi",
+		"lname": "Dak Nong Province",
+		"isoid": "72"
+	},
+	"data/VN/Đắk Lắk": {
+		"id": "data/VN/Đắk Lắk",
+		"key": "Đắk Lắk",
+		"lang": "vi",
+		"lname": "Dak Lak Province",
+		"isoid": "33"
+	},
+	"data/VN/Đồng Nai": {
+		"id": "data/VN/Đồng Nai",
+		"key": "Đồng Nai",
+		"lang": "vi",
+		"lname": "Dong Nai Province",
+		"isoid": "39"
+	},
+	"data/VN/Đồng Tháp": {
+		"id": "data/VN/Đồng Tháp",
+		"key": "Đồng Tháp",
+		"lang": "vi",
+		"lname": "Dong Thap Province",
+		"isoid": "45"
 	}
 }

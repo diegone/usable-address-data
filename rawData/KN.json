@@ -11,16 +11,16 @@
 		"sub_keys": "Nevis~St. Kitts",
 		"sub_isoids": "N~K"
 	},
-	"data/KN/St. Kitts": {
-		"id": "data/KN/St. Kitts",
-		"key": "St. Kitts",
-		"lang": "en",
-		"isoid": "K"
-	},
 	"data/KN/Nevis": {
 		"id": "data/KN/Nevis",
 		"key": "Nevis",
 		"lang": "en",
 		"isoid": "N"
+	},
+	"data/KN/St. Kitts": {
+		"id": "data/KN/St. Kitts",
+		"key": "St. Kitts",
+		"lang": "en",
+		"isoid": "K"
 	}
 }

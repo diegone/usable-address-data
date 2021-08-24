@@ -1,123 +1,4 @@
 {
-	"data/NI/Nueva Segovia": {
-		"id": "data/NI/Nueva Segovia",
-		"key": "Nueva Segovia",
-		"lang": "es",
-		"zip": "3[7-9]",
-		"isoid": "NS"
-	},
-	"data/NI/Región Autónoma de la Costa Caribe Norte": {
-		"id": "data/NI/Región Autónoma de la Costa Caribe Norte",
-		"key": "Región Autónoma de la Costa Caribe Norte",
-		"lang": "es",
-		"zip": "7[12]",
-		"isoid": "AN"
-	},
-	"data/NI/Rivas": {
-		"id": "data/NI/Rivas",
-		"key": "Rivas",
-		"lang": "es",
-		"zip": "4[78]",
-		"isoid": "RI"
-	},
-	"data/NI/Managua": {
-		"id": "data/NI/Managua",
-		"key": "Managua",
-		"lang": "es",
-		"zip": "1[0-6]",
-		"isoid": "MN"
-	},
-	"data/NI/Carazo": {
-		"id": "data/NI/Carazo",
-		"key": "Carazo",
-		"lang": "es",
-		"zip": "4[56]",
-		"isoid": "CA"
-	},
-	"data/NI/Masaya": {
-		"id": "data/NI/Masaya",
-		"key": "Masaya",
-		"lang": "es",
-		"zip": "4[12]",
-		"isoid": "MS"
-	},
-	"data/NI/Región Autónoma de la Costa Caribe Sur": {
-		"id": "data/NI/Región Autónoma de la Costa Caribe Sur",
-		"key": "Región Autónoma de la Costa Caribe Sur",
-		"lang": "es",
-		"zip": "8[1-3]",
-		"isoid": "AS"
-	},
-	"data/NI/Granada": {
-		"id": "data/NI/Granada",
-		"key": "Granada",
-		"lang": "es",
-		"zip": "4[34]",
-		"isoid": "GR"
-	},
-	"data/NI/Jinotega": {
-		"id": "data/NI/Jinotega",
-		"key": "Jinotega",
-		"lang": "es",
-		"zip": "6[56]",
-		"isoid": "JI"
-	},
-	"data/NI/Río San Juan": {
-		"id": "data/NI/Río San Juan",
-		"key": "Río San Juan",
-		"lang": "es",
-		"zip": "9[12]",
-		"isoid": "SJ"
-	},
-	"data/NI/Madriz": {
-		"id": "data/NI/Madriz",
-		"key": "Madriz",
-		"lang": "es",
-		"zip": "3[45]",
-		"isoid": "MD"
-	},
-	"data/NI/Chinandega": {
-		"id": "data/NI/Chinandega",
-		"key": "Chinandega",
-		"lang": "es",
-		"zip": "2[5-7]",
-		"isoid": "CI"
-	},
-	"data/NI/León": {
-		"id": "data/NI/León",
-		"key": "León",
-		"lang": "es",
-		"zip": "2[12]",
-		"isoid": "LE"
-	},
-	"data/NI/Chontales": {
-		"id": "data/NI/Chontales",
-		"key": "Chontales",
-		"lang": "es",
-		"zip": "5[56]",
-		"isoid": "CO"
-	},
-	"data/NI/Matagalpa": {
-		"id": "data/NI/Matagalpa",
-		"key": "Matagalpa",
-		"lang": "es",
-		"zip": "6[1-3]",
-		"isoid": "MT"
-	},
-	"data/NI/Boaco": {
-		"id": "data/NI/Boaco",
-		"key": "Boaco",
-		"lang": "es",
-		"zip": "5[12]",
-		"isoid": "BO"
-	},
-	"data/NI/Estelí": {
-		"id": "data/NI/Estelí",
-		"key": "Estelí",
-		"lang": "es",
-		"zip": "3[12]",
-		"isoid": "ES"
-	},
 	"data/NI": {
 		"id": "data/NI",
 		"key": "NI",
@@ -133,5 +14,124 @@
 		"sub_keys": "Boaco~Carazo~Chinandega~Chontales~Estelí~Granada~Jinotega~León~Madriz~Managua~Masaya~Matagalpa~Nueva Segovia~Región Autónoma de la Costa Caribe Norte~Región Autónoma de la Costa Caribe Sur~Río San Juan~Rivas",
 		"sub_zips": "5[12]~4[56]~2[5-7]~5[56]~3[12]~4[34]~6[56]~2[12]~3[45]~1[0-6]~4[12]~6[1-3]~3[7-9]~7[12]~8[1-3]~9[12]~4[78]",
 		"sub_isoids": "BO~CA~CI~CO~ES~GR~JI~LE~MD~MN~MS~MT~NS~AN~AS~SJ~RI"
+	},
+	"data/NI/Boaco": {
+		"id": "data/NI/Boaco",
+		"key": "Boaco",
+		"lang": "es",
+		"zip": "5[12]",
+		"isoid": "BO"
+	},
+	"data/NI/Carazo": {
+		"id": "data/NI/Carazo",
+		"key": "Carazo",
+		"lang": "es",
+		"zip": "4[56]",
+		"isoid": "CA"
+	},
+	"data/NI/Chinandega": {
+		"id": "data/NI/Chinandega",
+		"key": "Chinandega",
+		"lang": "es",
+		"zip": "2[5-7]",
+		"isoid": "CI"
+	},
+	"data/NI/Chontales": {
+		"id": "data/NI/Chontales",
+		"key": "Chontales",
+		"lang": "es",
+		"zip": "5[56]",
+		"isoid": "CO"
+	},
+	"data/NI/Estelí": {
+		"id": "data/NI/Estelí",
+		"key": "Estelí",
+		"lang": "es",
+		"zip": "3[12]",
+		"isoid": "ES"
+	},
+	"data/NI/Granada": {
+		"id": "data/NI/Granada",
+		"key": "Granada",
+		"lang": "es",
+		"zip": "4[34]",
+		"isoid": "GR"
+	},
+	"data/NI/Jinotega": {
+		"id": "data/NI/Jinotega",
+		"key": "Jinotega",
+		"lang": "es",
+		"zip": "6[56]",
+		"isoid": "JI"
+	},
+	"data/NI/León": {
+		"id": "data/NI/León",
+		"key": "León",
+		"lang": "es",
+		"zip": "2[12]",
+		"isoid": "LE"
+	},
+	"data/NI/Madriz": {
+		"id": "data/NI/Madriz",
+		"key": "Madriz",
+		"lang": "es",
+		"zip": "3[45]",
+		"isoid": "MD"
+	},
+	"data/NI/Managua": {
+		"id": "data/NI/Managua",
+		"key": "Managua",
+		"lang": "es",
+		"zip": "1[0-6]",
+		"isoid": "MN"
+	},
+	"data/NI/Masaya": {
+		"id": "data/NI/Masaya",
+		"key": "Masaya",
+		"lang": "es",
+		"zip": "4[12]",
+		"isoid": "MS"
+	},
+	"data/NI/Matagalpa": {
+		"id": "data/NI/Matagalpa",
+		"key": "Matagalpa",
+		"lang": "es",
+		"zip": "6[1-3]",
+		"isoid": "MT"
+	},
+	"data/NI/Nueva Segovia": {
+		"id": "data/NI/Nueva Segovia",
+		"key": "Nueva Segovia",
+		"lang": "es",
+		"zip": "3[7-9]",
+		"isoid": "NS"
+	},
+	"data/NI/Región Autónoma de la Costa Caribe Norte": {
+		"id": "data/NI/Región Autónoma de la Costa Caribe Norte",
+		"key": "Región Autónoma de la Costa Caribe Norte",
+		"lang": "es",
+		"zip": "7[12]",
+		"isoid": "AN"
+	},
+	"data/NI/Región Autónoma de la Costa Caribe Sur": {
+		"id": "data/NI/Región Autónoma de la Costa Caribe Sur",
+		"key": "Región Autónoma de la Costa Caribe Sur",
+		"lang": "es",
+		"zip": "8[1-3]",
+		"isoid": "AS"
+	},
+	"data/NI/Rivas": {
+		"id": "data/NI/Rivas",
+		"key": "Rivas",
+		"lang": "es",
+		"zip": "4[78]",
+		"isoid": "RI"
+	},
+	"data/NI/Río San Juan": {
+		"id": "data/NI/Río San Juan",
+		"key": "Río San Juan",
+		"lang": "es",
+		"zip": "9[12]",
+		"isoid": "SJ"
 	}
 }

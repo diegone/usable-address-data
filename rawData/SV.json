@@ -1,40 +1,4 @@
 {
-	"data/SV/Usulutan": {
-		"id": "data/SV/Usulutan",
-		"key": "Usulutan",
-		"name": "Usulután",
-		"lang": "es",
-		"zip": "CP 34",
-		"zipex": "CP 3401",
-		"isoid": "US"
-	},
-	"data/SV/San Salvador": {
-		"id": "data/SV/San Salvador",
-		"key": "San Salvador",
-		"name": "San Salvador",
-		"lang": "es",
-		"zip": "CP 11",
-		"zipex": "CP 1101",
-		"isoid": "SS"
-	},
-	"data/SV/Santa Ana": {
-		"id": "data/SV/Santa Ana",
-		"key": "Santa Ana",
-		"name": "Santa Ana",
-		"lang": "es",
-		"zip": "CP 22",
-		"zipex": "CP 2201",
-		"isoid": "SA"
-	},
-	"data/SV/San Miguel": {
-		"id": "data/SV/San Miguel",
-		"key": "San Miguel",
-		"name": "San Miguel",
-		"lang": "es",
-		"zip": "CP 33",
-		"zipex": "CP 3301",
-		"isoid": "SM"
-	},
 	"data/SV": {
 		"id": "data/SV",
 		"key": "SV",
@@ -51,42 +15,6 @@
 		"sub_zips": "CP 21~CP 12~CP 13~CP 14~CP 15~CP 16~CP 31~CP 32~CP 33~CP 11~CP 17~CP 22~CP 23~CP 34",
 		"sub_zipexs": "CP 2101~CP 1201~CP 1301~CP 1401~CP 1501~CP 1601~CP 3101~CP 3201~CP 3301~CP 1101~CP 1701~CP 2201~CP 2301~CP 3401",
 		"sub_isoids": "AH~CA~CH~CU~LI~PA~UN~MO~SM~SS~SV~SA~SO~US"
-	},
-	"data/SV/Morazan": {
-		"id": "data/SV/Morazan",
-		"key": "Morazan",
-		"name": "Morazán",
-		"lang": "es",
-		"zip": "CP 32",
-		"zipex": "CP 3201",
-		"isoid": "MO"
-	},
-	"data/SV/La Union": {
-		"id": "data/SV/La Union",
-		"key": "La Union",
-		"name": "La Unión",
-		"lang": "es",
-		"zip": "CP 31",
-		"zipex": "CP 3101",
-		"isoid": "UN"
-	},
-	"data/SV/Sonsonate": {
-		"id": "data/SV/Sonsonate",
-		"key": "Sonsonate",
-		"name": "Sonsonate",
-		"lang": "es",
-		"zip": "CP 23",
-		"zipex": "CP 2301",
-		"isoid": "SO"
-	},
-	"data/SV/San Vicente": {
-		"id": "data/SV/San Vicente",
-		"key": "San Vicente",
-		"name": "San Vicente",
-		"lang": "es",
-		"zip": "CP 17",
-		"zipex": "CP 1701",
-		"isoid": "SV"
 	},
 	"data/SV/Ahuachapan": {
 		"id": "data/SV/Ahuachapan",
@@ -106,14 +34,14 @@
 		"zipex": "CP 1201",
 		"isoid": "CA"
 	},
-	"data/SV/La Paz": {
-		"id": "data/SV/La Paz",
-		"key": "La Paz",
-		"name": "La Paz",
+	"data/SV/Calatenango": {
+		"id": "data/SV/Calatenango",
+		"key": "Calatenango",
+		"name": "Chalatenango",
 		"lang": "es",
-		"zip": "CP 16",
-		"zipex": "CP 1601",
-		"isoid": "PA"
+		"zip": "CP 13",
+		"zipex": "CP 1301",
+		"isoid": "CH"
 	},
 	"data/SV/Cuscatlan": {
 		"id": "data/SV/Cuscatlan",
@@ -133,13 +61,85 @@
 		"zipex": "CP 1501",
 		"isoid": "LI"
 	},
-	"data/SV/Calatenango": {
-		"id": "data/SV/Calatenango",
-		"key": "Calatenango",
-		"name": "Chalatenango",
+	"data/SV/La Paz": {
+		"id": "data/SV/La Paz",
+		"key": "La Paz",
+		"name": "La Paz",
 		"lang": "es",
-		"zip": "CP 13",
-		"zipex": "CP 1301",
-		"isoid": "CH"
+		"zip": "CP 16",
+		"zipex": "CP 1601",
+		"isoid": "PA"
+	},
+	"data/SV/La Union": {
+		"id": "data/SV/La Union",
+		"key": "La Union",
+		"name": "La Unión",
+		"lang": "es",
+		"zip": "CP 31",
+		"zipex": "CP 3101",
+		"isoid": "UN"
+	},
+	"data/SV/Morazan": {
+		"id": "data/SV/Morazan",
+		"key": "Morazan",
+		"name": "Morazán",
+		"lang": "es",
+		"zip": "CP 32",
+		"zipex": "CP 3201",
+		"isoid": "MO"
+	},
+	"data/SV/San Miguel": {
+		"id": "data/SV/San Miguel",
+		"key": "San Miguel",
+		"name": "San Miguel",
+		"lang": "es",
+		"zip": "CP 33",
+		"zipex": "CP 3301",
+		"isoid": "SM"
+	},
+	"data/SV/San Salvador": {
+		"id": "data/SV/San Salvador",
+		"key": "San Salvador",
+		"name": "San Salvador",
+		"lang": "es",
+		"zip": "CP 11",
+		"zipex": "CP 1101",
+		"isoid": "SS"
+	},
+	"data/SV/San Vicente": {
+		"id": "data/SV/San Vicente",
+		"key": "San Vicente",
+		"name": "San Vicente",
+		"lang": "es",
+		"zip": "CP 17",
+		"zipex": "CP 1701",
+		"isoid": "SV"
+	},
+	"data/SV/Santa Ana": {
+		"id": "data/SV/Santa Ana",
+		"key": "Santa Ana",
+		"name": "Santa Ana",
+		"lang": "es",
+		"zip": "CP 22",
+		"zipex": "CP 2201",
+		"isoid": "SA"
+	},
+	"data/SV/Sonsonate": {
+		"id": "data/SV/Sonsonate",
+		"key": "Sonsonate",
+		"name": "Sonsonate",
+		"lang": "es",
+		"zip": "CP 23",
+		"zipex": "CP 2301",
+		"isoid": "SO"
+	},
+	"data/SV/Usulutan": {
+		"id": "data/SV/Usulutan",
+		"key": "Usulutan",
+		"name": "Usulután",
+		"lang": "es",
+		"zip": "CP 34",
+		"zipex": "CP 3401",
+		"isoid": "US"
 	}
 }

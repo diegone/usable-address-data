@@ -1,15 +1,20 @@
 {
-	"data/SR/Wanica": {
-		"id": "data/SR/Wanica",
-		"key": "Wanica",
+	"data/SR": {
+		"id": "data/SR",
+		"key": "SR",
+		"name": "SURINAME",
 		"lang": "nl",
-		"isoid": "WA"
+		"languages": "nl",
+		"fmt": "%N%n%O%n%A%n%C%n%S",
+		"upper": "AS",
+		"sub_keys": "Brokopondo~Commewijne~Coronie~Marowijne~Nickerie~Para~Paramaribo~Saramacca~Sipaliwini~Wanica",
+		"sub_isoids": "BR~CM~CR~MA~NI~PR~PM~SA~SI~WA"
 	},
-	"data/SR/Para": {
-		"id": "data/SR/Para",
-		"key": "Para",
+	"data/SR/Brokopondo": {
+		"id": "data/SR/Brokopondo",
+		"key": "Brokopondo",
 		"lang": "nl",
-		"isoid": "PR"
+		"isoid": "BR"
 	},
 	"data/SR/Commewijne": {
 		"id": "data/SR/Commewijne",
@@ -17,17 +22,35 @@
 		"lang": "nl",
 		"isoid": "CM"
 	},
-	"data/SR/Paramaribo": {
-		"id": "data/SR/Paramaribo",
-		"key": "Paramaribo",
-		"lang": "nl",
-		"isoid": "PM"
-	},
 	"data/SR/Coronie": {
 		"id": "data/SR/Coronie",
 		"key": "Coronie",
 		"lang": "nl",
 		"isoid": "CR"
+	},
+	"data/SR/Marowijne": {
+		"id": "data/SR/Marowijne",
+		"key": "Marowijne",
+		"lang": "nl",
+		"isoid": "MA"
+	},
+	"data/SR/Nickerie": {
+		"id": "data/SR/Nickerie",
+		"key": "Nickerie",
+		"lang": "nl",
+		"isoid": "NI"
+	},
+	"data/SR/Para": {
+		"id": "data/SR/Para",
+		"key": "Para",
+		"lang": "nl",
+		"isoid": "PR"
+	},
+	"data/SR/Paramaribo": {
+		"id": "data/SR/Paramaribo",
+		"key": "Paramaribo",
+		"lang": "nl",
+		"isoid": "PM"
 	},
 	"data/SR/Saramacca": {
 		"id": "data/SR/Saramacca",
@@ -41,33 +64,10 @@
 		"lang": "nl",
 		"isoid": "SI"
 	},
-	"data/SR": {
-		"id": "data/SR",
-		"key": "SR",
-		"name": "SURINAME",
+	"data/SR/Wanica": {
+		"id": "data/SR/Wanica",
+		"key": "Wanica",
 		"lang": "nl",
-		"languages": "nl",
-		"fmt": "%N%n%O%n%A%n%C%n%S",
-		"upper": "AS",
-		"sub_keys": "Brokopondo~Commewijne~Coronie~Marowijne~Nickerie~Para~Paramaribo~Saramacca~Sipaliwini~Wanica",
-		"sub_isoids": "BR~CM~CR~MA~NI~PR~PM~SA~SI~WA"
-	},
-	"data/SR/Nickerie": {
-		"id": "data/SR/Nickerie",
-		"key": "Nickerie",
-		"lang": "nl",
-		"isoid": "NI"
-	},
-	"data/SR/Marowijne": {
-		"id": "data/SR/Marowijne",
-		"key": "Marowijne",
-		"lang": "nl",
-		"isoid": "MA"
-	},
-	"data/SR/Brokopondo": {
-		"id": "data/SR/Brokopondo",
-		"key": "Brokopondo",
-		"lang": "nl",
-		"isoid": "BR"
+		"isoid": "WA"
 	}
 }

@@ -1,9 +1,4 @@
 {
-	"data/KY/Little Cayman": {
-		"id": "data/KY/Little Cayman",
-		"key": "Little Cayman",
-		"lang": "en"
-	},
 	"data/KY": {
 		"id": "data/KY",
 		"key": "KY",
@@ -18,14 +13,19 @@
 		"state_name_type": "island",
 		"sub_keys": "Cayman Brac~Grand Cayman~Little Cayman"
 	},
+	"data/KY/Cayman Brac": {
+		"id": "data/KY/Cayman Brac",
+		"key": "Cayman Brac",
+		"lang": "en"
+	},
 	"data/KY/Grand Cayman": {
 		"id": "data/KY/Grand Cayman",
 		"key": "Grand Cayman",
 		"lang": "en"
 	},
-	"data/KY/Cayman Brac": {
-		"id": "data/KY/Cayman Brac",
-		"key": "Cayman Brac",
+	"data/KY/Little Cayman": {
+		"id": "data/KY/Little Cayman",
+		"key": "Little Cayman",
 		"lang": "en"
 	}
 }

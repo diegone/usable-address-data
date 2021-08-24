@@ -1,347 +1,4 @@
 {
-	"data/ES/CU--ca": {
-		"id": "data/ES/CU--ca",
-		"name": "Cuenca",
-		"lang": "ca",
-		"zip": "16",
-		"key": "CU"
-	},
-	"data/ES/CS": {
-		"id": "data/ES/CS",
-		"name": "Castellón",
-		"lang": "es",
-		"zip": "12",
-		"key": "CS"
-	},
-	"data/ES/C--ca": {
-		"id": "data/ES/C--ca",
-		"name": "La Corunya",
-		"lang": "ca",
-		"zip": "15",
-		"key": "C"
-	},
-	"data/ES/TF--eu": {
-		"id": "data/ES/TF--eu",
-		"name": "Santa Cruz Tenerifekoa",
-		"lang": "eu",
-		"zip": "38",
-		"key": "TF"
-	},
-	"data/ES/P--gl": {
-		"id": "data/ES/P--gl",
-		"name": "Palencia",
-		"lang": "gl",
-		"zip": "34",
-		"key": "P"
-	},
-	"data/ES/NA--eu": {
-		"id": "data/ES/NA--eu",
-		"name": "Nafarroa",
-		"lang": "eu",
-		"zip": "31",
-		"key": "NA"
-	},
-	"data/ES/B": {
-		"id": "data/ES/B",
-		"name": "Barcelona",
-		"lang": "es",
-		"zip": "08",
-		"key": "B"
-	},
-	"data/ES/OR--ca": {
-		"id": "data/ES/OR--ca",
-		"name": "Ourense",
-		"lang": "ca",
-		"zip": "32",
-		"key": "OR"
-	},
-	"data/ES/VA--eu": {
-		"id": "data/ES/VA--eu",
-		"name": "Valladolid",
-		"lang": "eu",
-		"zip": "47",
-		"key": "VA"
-	},
-	"data/ES/AB": {
-		"id": "data/ES/AB",
-		"name": "Albacete",
-		"lang": "es",
-		"zip": "02",
-		"key": "AB"
-	},
-	"data/ES/CS--eu": {
-		"id": "data/ES/CS--eu",
-		"name": "Castelló",
-		"lang": "eu",
-		"zip": "12",
-		"key": "CS"
-	},
-	"data/ES/MA--gl": {
-		"id": "data/ES/MA--gl",
-		"name": "Málaga",
-		"lang": "gl",
-		"zip": "29",
-		"key": "MA"
-	},
-	"data/ES/CA--ca": {
-		"id": "data/ES/CA--ca",
-		"name": "Cadis",
-		"lang": "ca",
-		"zip": "11",
-		"key": "CA"
-	},
-	"data/ES/TF": {
-		"id": "data/ES/TF",
-		"name": "Santa Cruz de Tenerife",
-		"lang": "es",
-		"zip": "38",
-		"key": "TF"
-	},
-	"data/ES/BA--eu": {
-		"id": "data/ES/BA--eu",
-		"name": "Badajoz",
-		"lang": "eu",
-		"zip": "06",
-		"key": "BA"
-	},
-	"data/ES/PM--gl": {
-		"id": "data/ES/PM--gl",
-		"name": "Illas Baleares",
-		"lang": "gl",
-		"zip": "07",
-		"key": "PM"
-	},
-	"data/ES/GI--ca": {
-		"id": "data/ES/GI--ca",
-		"name": "Girona",
-		"lang": "ca",
-		"zip": "17",
-		"key": "GI"
-	},
-	"data/ES/CC": {
-		"id": "data/ES/CC",
-		"name": "Cáceres",
-		"lang": "es",
-		"zip": "10",
-		"key": "CC"
-	},
-	"data/ES/LE": {
-		"id": "data/ES/LE",
-		"name": "León",
-		"lang": "es",
-		"zip": "24",
-		"key": "LE"
-	},
-	"data/ES/CR": {
-		"id": "data/ES/CR",
-		"name": "Ciudad Real",
-		"lang": "es",
-		"zip": "13",
-		"key": "CR"
-	},
-	"data/ES/GC": {
-		"id": "data/ES/GC",
-		"name": "Las Palmas",
-		"lang": "es",
-		"zip": "35",
-		"key": "GC"
-	},
-	"data/ES/B--eu": {
-		"id": "data/ES/B--eu",
-		"name": "Barcelona",
-		"lang": "eu",
-		"zip": "08",
-		"key": "B"
-	},
-	"data/ES/PO--eu": {
-		"id": "data/ES/PO--eu",
-		"name": "Pontevedra",
-		"lang": "eu",
-		"zip": "36",
-		"key": "PO"
-	},
-	"data/ES/LU--eu": {
-		"id": "data/ES/LU--eu",
-		"name": "Lugo",
-		"lang": "eu",
-		"zip": "27",
-		"key": "LU"
-	},
-	"data/ES/HU--gl": {
-		"id": "data/ES/HU--gl",
-		"name": "Huesca",
-		"lang": "gl",
-		"zip": "22",
-		"key": "HU"
-	},
-	"data/ES/MA--ca": {
-		"id": "data/ES/MA--ca",
-		"name": "Málaga",
-		"lang": "ca",
-		"zip": "29",
-		"key": "MA"
-	},
-	"data/ES/LO--ca": {
-		"id": "data/ES/LO--ca",
-		"name": "La Rioja",
-		"lang": "ca",
-		"zip": "26",
-		"key": "LO"
-	},
-	"data/ES/AL": {
-		"id": "data/ES/AL",
-		"name": "Almería",
-		"lang": "es",
-		"zip": "04",
-		"key": "AL"
-	},
-	"data/ES/V": {
-		"id": "data/ES/V",
-		"name": "Valencia",
-		"lang": "es",
-		"zip": "46",
-		"key": "V"
-	},
-	"data/ES/PM": {
-		"id": "data/ES/PM",
-		"name": "Islas Baleares",
-		"lang": "es",
-		"zip": "07",
-		"key": "PM"
-	},
-	"data/ES/O": {
-		"id": "data/ES/O",
-		"name": "Asturias",
-		"lang": "es",
-		"zip": "33",
-		"key": "O"
-	},
-	"data/ES/ML--gl": {
-		"id": "data/ES/ML--gl",
-		"name": "Melilla",
-		"lang": "gl",
-		"zip": "52",
-		"key": "ML"
-	},
-	"data/ES/HU--eu": {
-		"id": "data/ES/HU--eu",
-		"name": "Huesca",
-		"lang": "eu",
-		"zip": "22",
-		"key": "HU"
-	},
-	"data/ES/CC--ca": {
-		"id": "data/ES/CC--ca",
-		"name": "Cáceres",
-		"lang": "ca",
-		"zip": "10",
-		"key": "CC"
-	},
-	"data/ES/H": {
-		"id": "data/ES/H",
-		"name": "Huelva",
-		"lang": "es",
-		"zip": "21",
-		"key": "H"
-	},
-	"data/ES/SO--ca": {
-		"id": "data/ES/SO--ca",
-		"name": "Soria",
-		"lang": "ca",
-		"zip": "42",
-		"key": "SO"
-	},
-	"data/ES/MU--gl": {
-		"id": "data/ES/MU--gl",
-		"name": "Murcia",
-		"lang": "gl",
-		"zip": "30",
-		"key": "MU"
-	},
-	"data/ES/CR--ca": {
-		"id": "data/ES/CR--ca",
-		"name": "Ciudad Real",
-		"lang": "ca",
-		"zip": "13",
-		"key": "CR"
-	},
-	"data/ES/BI--ca": {
-		"id": "data/ES/BI--ca",
-		"name": "Bizkaia",
-		"lang": "ca",
-		"zip": "48",
-		"key": "BI"
-	},
-	"data/ES/ZA--gl": {
-		"id": "data/ES/ZA--gl",
-		"name": "Zamora",
-		"lang": "gl",
-		"zip": "49",
-		"key": "ZA"
-	},
-	"data/ES/Z--ca": {
-		"id": "data/ES/Z--ca",
-		"name": "Zaragoza",
-		"lang": "ca",
-		"zip": "50",
-		"key": "Z"
-	},
-	"data/ES/SA--ca": {
-		"id": "data/ES/SA--ca",
-		"name": "Salamanca",
-		"lang": "ca",
-		"zip": "37",
-		"key": "SA"
-	},
-	"data/ES/VI--eu": {
-		"id": "data/ES/VI--eu",
-		"name": "Araba",
-		"lang": "eu",
-		"zip": "01",
-		"key": "VI"
-	},
-	"data/ES/SE--gl": {
-		"id": "data/ES/SE--gl",
-		"name": "Sevilla",
-		"lang": "gl",
-		"zip": "41",
-		"key": "SE"
-	},
-	"data/ES/J--eu": {
-		"id": "data/ES/J--eu",
-		"name": "Jaén",
-		"lang": "eu",
-		"zip": "23",
-		"key": "J"
-	},
-	"data/ES/GU": {
-		"id": "data/ES/GU",
-		"name": "Guadalajara",
-		"lang": "es",
-		"zip": "19",
-		"key": "GU"
-	},
-	"data/ES/SS--eu": {
-		"id": "data/ES/SS--eu",
-		"name": "Gipuzkoa",
-		"lang": "eu",
-		"zip": "20",
-		"key": "SS"
-	},
-	"data/ES/GU--eu": {
-		"id": "data/ES/GU--eu",
-		"name": "Guadalajara",
-		"lang": "eu",
-		"zip": "19",
-		"key": "GU"
-	},
-	"data/ES/M--gl": {
-		"id": "data/ES/M--gl",
-		"name": "Madrid",
-		"lang": "gl",
-		"zip": "28",
-		"key": "M"
-	},
 	"data/ES": {
 		"id": "data/ES",
 		"key": "ES",
@@ -358,243 +15,20 @@
 		"sub_zips": "01~02~03~04~33~05~06~08~09~10~11~39~12~51~13~14~16~17~18~19~20~21~22~07~23~15~26~35~24~25~27~28~29~52~30~31~32~34~36~37~38~40~41~42~43~44~45~46~47~48~49~50",
 		"sub_keys": "VI~AB~A~AL~O~AV~BA~B~BU~CC~CA~S~CS~CE~CR~CO~CU~GI~GR~GU~SS~H~HU~PM~J~C~LO~GC~LE~L~LU~M~MA~ML~MU~NA~OR~P~PO~SA~TF~SG~SE~SO~T~TE~TO~V~VA~BI~ZA~Z"
 	},
-	"data/ES/NA--ca": {
-		"id": "data/ES/NA--ca",
-		"name": "Navarra",
+	"data/ES--ca": {
+		"id": "data/ES--ca",
+		"key": "ES",
+		"name": "SPAIN",
 		"lang": "ca",
-		"zip": "31",
-		"key": "NA"
-	},
-	"data/ES/CA": {
-		"id": "data/ES/CA",
-		"name": "Cádiz",
-		"lang": "es",
-		"zip": "11",
-		"key": "CA"
-	},
-	"data/ES/AB--ca": {
-		"id": "data/ES/AB--ca",
-		"name": "Albacete",
-		"lang": "ca",
-		"zip": "02",
-		"key": "AB"
-	},
-	"data/ES/Z": {
-		"id": "data/ES/Z",
-		"name": "Zaragoza",
-		"lang": "es",
-		"zip": "50",
-		"key": "Z"
-	},
-	"data/ES/L--eu": {
-		"id": "data/ES/L--eu",
-		"name": "Lleida",
-		"lang": "eu",
-		"zip": "25",
-		"key": "L"
-	},
-	"data/ES/ML--ca": {
-		"id": "data/ES/ML--ca",
-		"name": "Melilla",
-		"lang": "ca",
-		"zip": "52",
-		"key": "ML"
-	},
-	"data/ES/T--gl": {
-		"id": "data/ES/T--gl",
-		"name": "Tarragona",
-		"lang": "gl",
-		"zip": "43",
-		"key": "T"
-	},
-	"data/ES/J--ca": {
-		"id": "data/ES/J--ca",
-		"name": "Jaén",
-		"lang": "ca",
-		"zip": "23",
-		"key": "J"
-	},
-	"data/ES/O--ca": {
-		"id": "data/ES/O--ca",
-		"name": "Asturias",
-		"lang": "ca",
-		"zip": "33",
-		"key": "O"
-	},
-	"data/ES/AL--ca": {
-		"id": "data/ES/AL--ca",
-		"name": "Almeria",
-		"lang": "ca",
-		"zip": "04",
-		"key": "AL"
-	},
-	"data/ES/GR--gl": {
-		"id": "data/ES/GR--gl",
-		"name": "Granada",
-		"lang": "gl",
-		"zip": "18",
-		"key": "GR"
-	},
-	"data/ES/V--gl": {
-		"id": "data/ES/V--gl",
-		"name": "Valencia",
-		"lang": "gl",
-		"zip": "46",
-		"key": "V"
-	},
-	"data/ES/GC--gl": {
-		"id": "data/ES/GC--gl",
-		"name": "As Palmas",
-		"lang": "gl",
-		"zip": "35",
-		"key": "GC"
-	},
-	"data/ES/GR": {
-		"id": "data/ES/GR",
-		"name": "Granada",
-		"lang": "es",
-		"zip": "18",
-		"key": "GR"
-	},
-	"data/ES/CA--eu": {
-		"id": "data/ES/CA--eu",
-		"name": "Cádiz",
-		"lang": "eu",
-		"zip": "11",
-		"key": "CA"
-	},
-	"data/ES/BU--eu": {
-		"id": "data/ES/BU--eu",
-		"name": "Burgos",
-		"lang": "eu",
-		"zip": "09",
-		"key": "BU"
-	},
-	"data/ES/T--eu": {
-		"id": "data/ES/T--eu",
-		"name": "Tarragona",
-		"lang": "eu",
-		"zip": "43",
-		"key": "T"
-	},
-	"data/ES/LU": {
-		"id": "data/ES/LU",
-		"name": "Lugo",
-		"lang": "es",
-		"zip": "27",
-		"key": "LU"
-	},
-	"data/ES/GC--eu": {
-		"id": "data/ES/GC--eu",
-		"name": "Las Palmas",
-		"lang": "eu",
-		"zip": "35",
-		"key": "GC"
-	},
-	"data/ES/CS--ca": {
-		"id": "data/ES/CS--ca",
-		"name": "Castelló",
-		"lang": "ca",
-		"zip": "12",
-		"key": "CS"
-	},
-	"data/ES/AV--gl": {
-		"id": "data/ES/AV--gl",
-		"name": "Ávila",
-		"lang": "gl",
-		"zip": "05",
-		"key": "AV"
-	},
-	"data/ES/H--ca": {
-		"id": "data/ES/H--ca",
-		"name": "Huelva",
-		"lang": "ca",
-		"zip": "21",
-		"key": "H"
-	},
-	"data/ES/P": {
-		"id": "data/ES/P",
-		"name": "Palencia",
-		"lang": "es",
-		"zip": "34",
-		"key": "P"
-	},
-	"data/ES/VA--ca": {
-		"id": "data/ES/VA--ca",
-		"name": "Valladolid",
-		"lang": "ca",
-		"zip": "47",
-		"key": "VA"
-	},
-	"data/ES/VA--gl": {
-		"id": "data/ES/VA--gl",
-		"name": "Valladolid",
-		"lang": "gl",
-		"zip": "47",
-		"key": "VA"
-	},
-	"data/ES/B--ca": {
-		"id": "data/ES/B--ca",
-		"name": "Barcelona",
-		"lang": "ca",
-		"zip": "08",
-		"key": "B"
-	},
-	"data/ES/CE--ca": {
-		"id": "data/ES/CE--ca",
-		"name": "Ceuta",
-		"lang": "ca",
-		"zip": "51",
-		"key": "CE"
-	},
-	"data/ES/J": {
-		"id": "data/ES/J",
-		"name": "Jaén",
-		"lang": "es",
-		"zip": "23",
-		"key": "J"
-	},
-	"data/ES/TE--eu": {
-		"id": "data/ES/TE--eu",
-		"name": "Teruel",
-		"lang": "eu",
-		"zip": "44",
-		"key": "TE"
-	},
-	"data/ES/LO": {
-		"id": "data/ES/LO",
-		"name": "La Rioja",
-		"lang": "es",
-		"zip": "26",
-		"key": "LO"
-	},
-	"data/ES/C--eu": {
-		"id": "data/ES/C--eu",
-		"name": "Coruña",
-		"lang": "eu",
-		"zip": "15",
-		"key": "C"
-	},
-	"data/ES/HU": {
-		"id": "data/ES/HU",
-		"name": "Huesca",
-		"lang": "es",
-		"zip": "22",
-		"key": "HU"
-	},
-	"data/ES/BU--ca": {
-		"id": "data/ES/BU--ca",
-		"name": "Burgos",
-		"lang": "ca",
-		"zip": "09",
-		"key": "BU"
-	},
-	"data/ES/SG": {
-		"id": "data/ES/SG",
-		"name": "Segovia",
-		"lang": "es",
-		"zip": "40",
-		"key": "SG"
+		"fmt": "%N%n%O%n%A%n%Z %C %S",
+		"require": "ACSZ",
+		"upper": "CS",
+		"zip": "\\d{5}",
+		"zipex": "28039,28300,28070",
+		"posturl": "http://www.correos.es/contenido/13-MenuRec2/04-MenuRec24/1010_s-CodPostal.asp",
+		"sub_names": "Alacant~Albacete~Almeria~Araba~Asturias~Àvila~Badajoz~Barcelona~Bizkaia~Burgos~Cáceres~Cadis~Cantabria~Castelló~Ceuta~Ciudad Real~Córdoba~Cuenca~Girona~Granada~Guadalajara~Guipúscoa~Huelva~Huesca~Illes Balears~Jaén~La Corunya~La Rioja~Las Palmas~León~Lleida~Lugo~Madrid~Málaga~Melilla~Murcia~Navarra~Ourense~Palencia~Pontevedra~Salamanca~Santa Cruz de Tenerife~Segovia~Sevilla~Soria~Tarragona~Teruel~Toledo~València~Valladolid~Zamora~Zaragoza",
+		"sub_zips": "03~02~04~01~33~05~06~08~48~09~10~11~39~12~51~13~14~16~17~18~19~20~21~22~07~23~15~26~35~24~25~27~28~29~52~30~31~32~34~36~37~38~40~41~42~43~44~45~46~47~49~50",
+		"sub_keys": "A~AB~AL~VI~O~AV~BA~B~BI~BU~CC~CA~S~CS~CE~CR~CO~CU~GI~GR~GU~SS~H~HU~PM~J~C~LO~GC~LE~L~LU~M~MA~ML~MU~NA~OR~P~PO~SA~TF~SG~SE~SO~T~TE~TO~V~VA~ZA~Z"
 	},
 	"data/ES--eu": {
 		"id": "data/ES--eu",
@@ -611,245 +45,6 @@
 		"sub_zips": "03~02~04~01~33~05~06~08~48~09~10~11~39~12~51~13~15~16~20~17~18~19~21~22~07~23~14~26~35~24~25~27~28~29~52~30~31~32~34~36~37~38~40~41~42~43~44~45~46~47~49~50",
 		"sub_keys": "A~AB~AL~VI~O~AV~BA~B~BI~BU~CC~CA~S~CS~CE~CR~C~CU~SS~GI~GR~GU~H~HU~PM~J~CO~LO~GC~LE~L~LU~M~MA~ML~MU~NA~OR~P~PO~SA~TF~SG~SE~SO~T~TE~TO~V~VA~ZA~Z"
 	},
-	"data/ES/GI--eu": {
-		"id": "data/ES/GI--eu",
-		"name": "Girona",
-		"lang": "eu",
-		"zip": "17",
-		"key": "GI"
-	},
-	"data/ES/MA": {
-		"id": "data/ES/MA",
-		"name": "Málaga",
-		"lang": "es",
-		"zip": "29",
-		"key": "MA"
-	},
-	"data/ES/A--gl": {
-		"id": "data/ES/A--gl",
-		"name": "Alacant",
-		"lang": "gl",
-		"zip": "03",
-		"key": "A"
-	},
-	"data/ES/CC--gl": {
-		"id": "data/ES/CC--gl",
-		"name": "Cáceres",
-		"lang": "gl",
-		"zip": "10",
-		"key": "CC"
-	},
-	"data/ES/SO--gl": {
-		"id": "data/ES/SO--gl",
-		"name": "Soria",
-		"lang": "gl",
-		"zip": "42",
-		"key": "SO"
-	},
-	"data/ES/T": {
-		"id": "data/ES/T",
-		"name": "Tarragona",
-		"lang": "es",
-		"zip": "43",
-		"key": "T"
-	},
-	"data/ES/BA": {
-		"id": "data/ES/BA",
-		"name": "Badajoz",
-		"lang": "es",
-		"zip": "06",
-		"key": "BA"
-	},
-	"data/ES/TE": {
-		"id": "data/ES/TE",
-		"name": "Teruel",
-		"lang": "es",
-		"zip": "44",
-		"key": "TE"
-	},
-	"data/ES/TE--gl": {
-		"id": "data/ES/TE--gl",
-		"name": "Teruel",
-		"lang": "gl",
-		"zip": "44",
-		"key": "TE"
-	},
-	"data/ES/LE--eu": {
-		"id": "data/ES/LE--eu",
-		"name": "León",
-		"lang": "eu",
-		"zip": "24",
-		"key": "LE"
-	},
-	"data/ES--ca": {
-		"id": "data/ES--ca",
-		"key": "ES",
-		"name": "SPAIN",
-		"lang": "ca",
-		"fmt": "%N%n%O%n%A%n%Z %C %S",
-		"require": "ACSZ",
-		"upper": "CS",
-		"zip": "\\d{5}",
-		"zipex": "28039,28300,28070",
-		"posturl": "http://www.correos.es/contenido/13-MenuRec2/04-MenuRec24/1010_s-CodPostal.asp",
-		"sub_names": "Alacant~Albacete~Almeria~Araba~Asturias~Àvila~Badajoz~Barcelona~Bizkaia~Burgos~Cáceres~Cadis~Cantabria~Castelló~Ceuta~Ciudad Real~Córdoba~Cuenca~Girona~Granada~Guadalajara~Guipúscoa~Huelva~Huesca~Illes Balears~Jaén~La Corunya~La Rioja~Las Palmas~León~Lleida~Lugo~Madrid~Málaga~Melilla~Murcia~Navarra~Ourense~Palencia~Pontevedra~Salamanca~Santa Cruz de Tenerife~Segovia~Sevilla~Soria~Tarragona~Teruel~Toledo~València~Valladolid~Zamora~Zaragoza",
-		"sub_zips": "03~02~04~01~33~05~06~08~48~09~10~11~39~12~51~13~14~16~17~18~19~20~21~22~07~23~15~26~35~24~25~27~28~29~52~30~31~32~34~36~37~38~40~41~42~43~44~45~46~47~49~50",
-		"sub_keys": "A~AB~AL~VI~O~AV~BA~B~BI~BU~CC~CA~S~CS~CE~CR~CO~CU~GI~GR~GU~SS~H~HU~PM~J~C~LO~GC~LE~L~LU~M~MA~ML~MU~NA~OR~P~PO~SA~TF~SG~SE~SO~T~TE~TO~V~VA~ZA~Z"
-	},
-	"data/ES/LU--gl": {
-		"id": "data/ES/LU--gl",
-		"name": "Lugo",
-		"lang": "gl",
-		"zip": "27",
-		"key": "LU"
-	},
-	"data/ES/BU--gl": {
-		"id": "data/ES/BU--gl",
-		"name": "Burgos",
-		"lang": "gl",
-		"zip": "09",
-		"key": "BU"
-	},
-	"data/ES/SA--gl": {
-		"id": "data/ES/SA--gl",
-		"name": "Salamanca",
-		"lang": "gl",
-		"zip": "37",
-		"key": "SA"
-	},
-	"data/ES/OR--eu": {
-		"id": "data/ES/OR--eu",
-		"name": "Ourense",
-		"lang": "eu",
-		"zip": "32",
-		"key": "OR"
-	},
-	"data/ES/VI--ca": {
-		"id": "data/ES/VI--ca",
-		"name": "Araba",
-		"lang": "ca",
-		"zip": "01",
-		"key": "VI"
-	},
-	"data/ES/SS--gl": {
-		"id": "data/ES/SS--gl",
-		"name": "Guipúscoa",
-		"lang": "gl",
-		"zip": "20",
-		"key": "SS"
-	},
-	"data/ES/M": {
-		"id": "data/ES/M",
-		"name": "Madrid",
-		"lang": "es",
-		"zip": "28",
-		"key": "M"
-	},
-	"data/ES/TF--gl": {
-		"id": "data/ES/TF--gl",
-		"name": "Santa Cruz de Tenerife",
-		"lang": "gl",
-		"zip": "38",
-		"key": "TF"
-	},
-	"data/ES/PO": {
-		"id": "data/ES/PO",
-		"name": "Pontevedra",
-		"lang": "es",
-		"zip": "36",
-		"key": "PO"
-	},
-	"data/ES/ZA--eu": {
-		"id": "data/ES/ZA--eu",
-		"name": "Zamora",
-		"lang": "eu",
-		"zip": "49",
-		"key": "ZA"
-	},
-	"data/ES/M--ca": {
-		"id": "data/ES/M--ca",
-		"name": "Madrid",
-		"lang": "ca",
-		"zip": "28",
-		"key": "M"
-	},
-	"data/ES/LO--gl": {
-		"id": "data/ES/LO--gl",
-		"name": "La Rioja",
-		"lang": "gl",
-		"zip": "26",
-		"key": "LO"
-	},
-	"data/ES/SG--eu": {
-		"id": "data/ES/SG--eu",
-		"name": "Segovia",
-		"lang": "eu",
-		"zip": "40",
-		"key": "SG"
-	},
-	"data/ES/TO--ca": {
-		"id": "data/ES/TO--ca",
-		"name": "Toledo",
-		"lang": "ca",
-		"zip": "45",
-		"key": "TO"
-	},
-	"data/ES/O--eu": {
-		"id": "data/ES/O--eu",
-		"name": "Asturias",
-		"lang": "eu",
-		"zip": "33",
-		"key": "O"
-	},
-	"data/ES/L": {
-		"id": "data/ES/L",
-		"name": "Lérida",
-		"lang": "es",
-		"zip": "25",
-		"key": "L"
-	},
-	"data/ES/OR--gl": {
-		"id": "data/ES/OR--gl",
-		"name": "Ourense",
-		"lang": "gl",
-		"zip": "32",
-		"key": "OR"
-	},
-	"data/ES/AL--eu": {
-		"id": "data/ES/AL--eu",
-		"name": "Almería",
-		"lang": "eu",
-		"zip": "04",
-		"key": "AL"
-	},
-	"data/ES/ZA": {
-		"id": "data/ES/ZA",
-		"name": "Zamora",
-		"lang": "es",
-		"zip": "49",
-		"key": "ZA"
-	},
-	"data/ES/V--ca": {
-		"id": "data/ES/V--ca",
-		"name": "València",
-		"lang": "ca",
-		"zip": "46",
-		"key": "V"
-	},
-	"data/ES/AB--eu": {
-		"id": "data/ES/AB--eu",
-		"name": "Albacete",
-		"lang": "eu",
-		"zip": "02",
-		"key": "AB"
-	},
-	"data/ES/SE": {
-		"id": "data/ES/SE",
-		"name": "Sevilla",
-		"lang": "es",
-		"zip": "41",
-		"key": "SE"
-	},
 	"data/ES--gl": {
 		"id": "data/ES--gl",
 		"key": "ES",
@@ -865,117 +60,54 @@
 		"sub_zips": "15~03~01~02~04~35~33~05~06~08~48~09~10~11~39~12~51~13~14~16~18~19~20~21~22~07~26~24~25~27~28~29~52~30~31~32~34~36~37~38~40~41~42~43~44~45~46~47~23~17~49~50",
 		"sub_keys": "C~A~VI~AB~AL~GC~O~AV~BA~B~BI~BU~CC~CA~S~CS~CE~CR~CO~CU~GR~GU~SS~H~HU~PM~LO~LE~L~LU~M~MA~ML~MU~NA~OR~P~PO~SA~TF~SG~SE~SO~T~TE~TO~V~VA~J~GI~ZA~Z"
 	},
-	"data/ES/GU--gl": {
-		"id": "data/ES/GU--gl",
-		"name": "Guadalajara",
-		"lang": "gl",
-		"zip": "19",
-		"key": "GU"
+	"data/ES/A": {
+		"id": "data/ES/A",
+		"name": "Alicante",
+		"lang": "es",
+		"zip": "03",
+		"key": "A"
 	},
-	"data/ES/ML--eu": {
-		"id": "data/ES/ML--eu",
-		"name": "Melilla",
+	"data/ES/A--ca": {
+		"id": "data/ES/A--ca",
+		"name": "Alacant",
+		"lang": "ca",
+		"zip": "03",
+		"key": "A"
+	},
+	"data/ES/A--eu": {
+		"id": "data/ES/A--eu",
+		"name": "Alacant",
 		"lang": "eu",
-		"zip": "52",
-		"key": "ML"
+		"zip": "03",
+		"key": "A"
 	},
-	"data/ES/BU": {
-		"id": "data/ES/BU",
-		"name": "Burgos",
-		"lang": "es",
-		"zip": "09",
-		"key": "BU"
-	},
-	"data/ES/BI--gl": {
-		"id": "data/ES/BI--gl",
-		"name": "Biscaia",
+	"data/ES/A--gl": {
+		"id": "data/ES/A--gl",
+		"name": "Alacant",
 		"lang": "gl",
-		"zip": "48",
-		"key": "BI"
+		"zip": "03",
+		"key": "A"
 	},
-	"data/ES/GC--ca": {
-		"id": "data/ES/GC--ca",
-		"name": "Las Palmas",
-		"lang": "ca",
-		"zip": "35",
-		"key": "GC"
-	},
-	"data/ES/T--ca": {
-		"id": "data/ES/T--ca",
-		"name": "Tarragona",
-		"lang": "ca",
-		"zip": "43",
-		"key": "T"
-	},
-	"data/ES/H--gl": {
-		"id": "data/ES/H--gl",
-		"name": "Huelva",
-		"lang": "gl",
-		"zip": "21",
-		"key": "H"
-	},
-	"data/ES/AV--ca": {
-		"id": "data/ES/AV--ca",
-		"name": "Àvila",
-		"lang": "ca",
-		"zip": "05",
-		"key": "AV"
-	},
-	"data/ES/CU": {
-		"id": "data/ES/CU",
-		"name": "Cuenca",
+	"data/ES/AB": {
+		"id": "data/ES/AB",
+		"name": "Albacete",
 		"lang": "es",
-		"zip": "16",
-		"key": "CU"
+		"zip": "02",
+		"key": "AB"
 	},
-	"data/ES/LO--eu": {
-		"id": "data/ES/LO--eu",
-		"name": "La Rioja",
+	"data/ES/AB--ca": {
+		"id": "data/ES/AB--ca",
+		"name": "Albacete",
+		"lang": "ca",
+		"zip": "02",
+		"key": "AB"
+	},
+	"data/ES/AB--eu": {
+		"id": "data/ES/AB--eu",
+		"name": "Albacete",
 		"lang": "eu",
-		"zip": "26",
-		"key": "LO"
-	},
-	"data/ES/MU": {
-		"id": "data/ES/MU",
-		"name": "Murcia",
-		"lang": "es",
-		"zip": "30",
-		"key": "MU"
-	},
-	"data/ES/BI": {
-		"id": "data/ES/BI",
-		"name": "Vizcaya",
-		"lang": "es",
-		"zip": "48",
-		"key": "BI"
-	},
-	"data/ES/P--eu": {
-		"id": "data/ES/P--eu",
-		"name": "Palentzia",
-		"lang": "eu",
-		"zip": "34",
-		"key": "P"
-	},
-	"data/ES/ML": {
-		"id": "data/ES/ML",
-		"name": "Melilla",
-		"lang": "es",
-		"zip": "52",
-		"key": "ML"
-	},
-	"data/ES/SE--ca": {
-		"id": "data/ES/SE--ca",
-		"name": "Sevilla",
-		"lang": "ca",
-		"zip": "41",
-		"key": "SE"
-	},
-	"data/ES/VI": {
-		"id": "data/ES/VI",
-		"name": "Álava",
-		"lang": "es",
-		"zip": "01",
-		"key": "VI"
+		"zip": "02",
+		"key": "AB"
 	},
 	"data/ES/AB--gl": {
 		"id": "data/ES/AB--gl",
@@ -984,117 +116,26 @@
 		"zip": "02",
 		"key": "AB"
 	},
-	"data/ES/TE--ca": {
-		"id": "data/ES/TE--ca",
-		"name": "Teruel",
-		"lang": "ca",
-		"zip": "44",
-		"key": "TE"
-	},
-	"data/ES/V--eu": {
-		"id": "data/ES/V--eu",
-		"name": "Valentzia",
-		"lang": "eu",
-		"zip": "46",
-		"key": "V"
-	},
-	"data/ES/AV--eu": {
-		"id": "data/ES/AV--eu",
-		"name": "Ávila",
-		"lang": "eu",
-		"zip": "05",
-		"key": "AV"
-	},
-	"data/ES/CC--eu": {
-		"id": "data/ES/CC--eu",
-		"name": "Cáceres",
-		"lang": "eu",
-		"zip": "10",
-		"key": "CC"
-	},
-	"data/ES/CS--gl": {
-		"id": "data/ES/CS--gl",
-		"name": "Castelló",
-		"lang": "gl",
-		"zip": "12",
-		"key": "CS"
-	},
-	"data/ES/PM--eu": {
-		"id": "data/ES/PM--eu",
-		"name": "Illes Balears",
-		"lang": "eu",
-		"zip": "07",
-		"key": "PM"
-	},
-	"data/ES/CU--eu": {
-		"id": "data/ES/CU--eu",
-		"name": "Cuenca",
-		"lang": "eu",
-		"zip": "16",
-		"key": "CU"
-	},
-	"data/ES/ZA--ca": {
-		"id": "data/ES/ZA--ca",
-		"name": "Zamora",
-		"lang": "ca",
-		"zip": "49",
-		"key": "ZA"
-	},
-	"data/ES/PO--ca": {
-		"id": "data/ES/PO--ca",
-		"name": "Pontevedra",
-		"lang": "ca",
-		"zip": "36",
-		"key": "PO"
-	},
-	"data/ES/SO": {
-		"id": "data/ES/SO",
-		"name": "Soria",
+	"data/ES/AL": {
+		"id": "data/ES/AL",
+		"name": "Almería",
 		"lang": "es",
-		"zip": "42",
-		"key": "SO"
+		"zip": "04",
+		"key": "AL"
 	},
-	"data/ES/S--gl": {
-		"id": "data/ES/S--gl",
-		"name": "Cantabria",
-		"lang": "gl",
-		"zip": "39",
-		"key": "S"
+	"data/ES/AL--ca": {
+		"id": "data/ES/AL--ca",
+		"name": "Almeria",
+		"lang": "ca",
+		"zip": "04",
+		"key": "AL"
 	},
-	"data/ES/O--gl": {
-		"id": "data/ES/O--gl",
-		"name": "Asturias",
-		"lang": "gl",
-		"zip": "33",
-		"key": "O"
-	},
-	"data/ES/VA": {
-		"id": "data/ES/VA",
-		"name": "Valladolid",
-		"lang": "es",
-		"zip": "47",
-		"key": "VA"
-	},
-	"data/ES/TO--gl": {
-		"id": "data/ES/TO--gl",
-		"name": "Toledo",
-		"lang": "gl",
-		"zip": "45",
-		"key": "TO"
-	},
-	"data/ES/MA--eu": {
-		"id": "data/ES/MA--eu",
-		"name": "Málaga",
+	"data/ES/AL--eu": {
+		"id": "data/ES/AL--eu",
+		"name": "Almería",
 		"lang": "eu",
-		"zip": "29",
-		"key": "MA"
-	},
-	"data/ES/TO": {
-		"id": "data/ES/TO",
-		"name": "Toledo",
-		"lang": "es",
-		"zip": "45",
-		"key": "TO"
+		"zip": "04",
+		"key": "AL"
 	},
 	"data/ES/AL--gl": {
 		"id": "data/ES/AL--gl",
@@ -1103,129 +144,276 @@
 		"zip": "04",
 		"key": "AL"
 	},
-	"data/ES/J--gl": {
-		"id": "data/ES/J--gl",
-		"name": "Xaén",
-		"lang": "gl",
-		"zip": "23",
-		"key": "J"
+	"data/ES/AV": {
+		"id": "data/ES/AV",
+		"name": "Ávila",
+		"lang": "es",
+		"zip": "05",
+		"key": "AV"
 	},
-	"data/ES/TF--ca": {
-		"id": "data/ES/TF--ca",
-		"name": "Santa Cruz de Tenerife",
+	"data/ES/AV--ca": {
+		"id": "data/ES/AV--ca",
+		"name": "Àvila",
 		"lang": "ca",
-		"zip": "38",
-		"key": "TF"
+		"zip": "05",
+		"key": "AV"
 	},
-	"data/ES/CR--eu": {
-		"id": "data/ES/CR--eu",
-		"name": "Ciudad Real",
+	"data/ES/AV--eu": {
+		"id": "data/ES/AV--eu",
+		"name": "Ávila",
 		"lang": "eu",
-		"zip": "13",
-		"key": "CR"
+		"zip": "05",
+		"key": "AV"
 	},
-	"data/ES/Z--gl": {
-		"id": "data/ES/Z--gl",
-		"name": "Zaragoza",
+	"data/ES/AV--gl": {
+		"id": "data/ES/AV--gl",
+		"name": "Ávila",
 		"lang": "gl",
-		"zip": "50",
-		"key": "Z"
+		"zip": "05",
+		"key": "AV"
 	},
-	"data/ES/PM--ca": {
-		"id": "data/ES/PM--ca",
-		"name": "Illes Balears",
-		"lang": "ca",
-		"zip": "07",
-		"key": "PM"
-	},
-	"data/ES/GI": {
-		"id": "data/ES/GI",
-		"name": "Girona",
+	"data/ES/B": {
+		"id": "data/ES/B",
+		"name": "Barcelona",
 		"lang": "es",
-		"zip": "17",
-		"key": "GI"
+		"zip": "08",
+		"key": "B"
 	},
-	"data/ES/CR--gl": {
-		"id": "data/ES/CR--gl",
-		"name": "Cidade Real",
-		"lang": "gl",
-		"zip": "13",
-		"key": "CR"
+	"data/ES/B--ca": {
+		"id": "data/ES/B--ca",
+		"name": "Barcelona",
+		"lang": "ca",
+		"zip": "08",
+		"key": "B"
 	},
-	"data/ES/L--gl": {
-		"id": "data/ES/L--gl",
-		"name": "Lleida",
-		"lang": "gl",
-		"zip": "25",
-		"key": "L"
-	},
-	"data/ES/NA--gl": {
-		"id": "data/ES/NA--gl",
-		"name": "Navarra",
-		"lang": "gl",
-		"zip": "31",
-		"key": "NA"
-	},
-	"data/ES/GR--eu": {
-		"id": "data/ES/GR--eu",
-		"name": "Granada",
+	"data/ES/B--eu": {
+		"id": "data/ES/B--eu",
+		"name": "Barcelona",
 		"lang": "eu",
-		"zip": "18",
-		"key": "GR"
+		"zip": "08",
+		"key": "B"
 	},
-	"data/ES/HU--ca": {
-		"id": "data/ES/HU--ca",
-		"name": "Huesca",
-		"lang": "ca",
-		"zip": "22",
-		"key": "HU"
-	},
-	"data/ES/MU--ca": {
-		"id": "data/ES/MU--ca",
-		"name": "Murcia",
-		"lang": "ca",
-		"zip": "30",
-		"key": "MU"
-	},
-	"data/ES/SS--ca": {
-		"id": "data/ES/SS--ca",
-		"name": "Guipúscoa",
-		"lang": "ca",
-		"zip": "20",
-		"key": "SS"
-	},
-	"data/ES/LE--gl": {
-		"id": "data/ES/LE--gl",
-		"name": "León",
+	"data/ES/B--gl": {
+		"id": "data/ES/B--gl",
+		"name": "Barcelona",
 		"lang": "gl",
-		"zip": "24",
-		"key": "LE"
+		"zip": "08",
+		"key": "B"
 	},
-	"data/ES/S": {
-		"id": "data/ES/S",
-		"name": "Cantabria",
+	"data/ES/BA": {
+		"id": "data/ES/BA",
+		"name": "Badajoz",
 		"lang": "es",
-		"zip": "39",
-		"key": "S"
+		"zip": "06",
+		"key": "BA"
 	},
-	"data/ES/SG--gl": {
-		"id": "data/ES/SG--gl",
-		"name": "Segovia",
+	"data/ES/BA--ca": {
+		"id": "data/ES/BA--ca",
+		"name": "Badajoz",
+		"lang": "ca",
+		"zip": "06",
+		"key": "BA"
+	},
+	"data/ES/BA--eu": {
+		"id": "data/ES/BA--eu",
+		"name": "Badajoz",
+		"lang": "eu",
+		"zip": "06",
+		"key": "BA"
+	},
+	"data/ES/BA--gl": {
+		"id": "data/ES/BA--gl",
+		"name": "Badaxoz",
 		"lang": "gl",
-		"zip": "40",
-		"key": "SG"
+		"zip": "06",
+		"key": "BA"
 	},
-	"data/ES/A": {
-		"id": "data/ES/A",
-		"name": "Alicante",
+	"data/ES/BI": {
+		"id": "data/ES/BI",
+		"name": "Vizcaya",
 		"lang": "es",
-		"zip": "03",
-		"key": "A"
+		"zip": "48",
+		"key": "BI"
+	},
+	"data/ES/BI--ca": {
+		"id": "data/ES/BI--ca",
+		"name": "Bizkaia",
+		"lang": "ca",
+		"zip": "48",
+		"key": "BI"
+	},
+	"data/ES/BI--eu": {
+		"id": "data/ES/BI--eu",
+		"name": "Bizkaia",
+		"lang": "eu",
+		"zip": "48",
+		"key": "BI"
+	},
+	"data/ES/BI--gl": {
+		"id": "data/ES/BI--gl",
+		"name": "Biscaia",
+		"lang": "gl",
+		"zip": "48",
+		"key": "BI"
+	},
+	"data/ES/BU": {
+		"id": "data/ES/BU",
+		"name": "Burgos",
+		"lang": "es",
+		"zip": "09",
+		"key": "BU"
+	},
+	"data/ES/BU--ca": {
+		"id": "data/ES/BU--ca",
+		"name": "Burgos",
+		"lang": "ca",
+		"zip": "09",
+		"key": "BU"
+	},
+	"data/ES/BU--eu": {
+		"id": "data/ES/BU--eu",
+		"name": "Burgos",
+		"lang": "eu",
+		"zip": "09",
+		"key": "BU"
+	},
+	"data/ES/BU--gl": {
+		"id": "data/ES/BU--gl",
+		"name": "Burgos",
+		"lang": "gl",
+		"zip": "09",
+		"key": "BU"
+	},
+	"data/ES/C": {
+		"id": "data/ES/C",
+		"name": "La Coruña",
+		"lang": "es",
+		"zip": "15",
+		"key": "C"
+	},
+	"data/ES/C--ca": {
+		"id": "data/ES/C--ca",
+		"name": "La Corunya",
+		"lang": "ca",
+		"zip": "15",
+		"key": "C"
+	},
+	"data/ES/C--eu": {
+		"id": "data/ES/C--eu",
+		"name": "Coruña",
+		"lang": "eu",
+		"zip": "15",
+		"key": "C"
+	},
+	"data/ES/C--gl": {
+		"id": "data/ES/C--gl",
+		"name": "A Coruña",
+		"lang": "gl",
+		"zip": "15",
+		"key": "C"
+	},
+	"data/ES/CA": {
+		"id": "data/ES/CA",
+		"name": "Cádiz",
+		"lang": "es",
+		"zip": "11",
+		"key": "CA"
+	},
+	"data/ES/CA--ca": {
+		"id": "data/ES/CA--ca",
+		"name": "Cadis",
+		"lang": "ca",
+		"zip": "11",
+		"key": "CA"
+	},
+	"data/ES/CA--eu": {
+		"id": "data/ES/CA--eu",
+		"name": "Cádiz",
+		"lang": "eu",
+		"zip": "11",
+		"key": "CA"
+	},
+	"data/ES/CA--gl": {
+		"id": "data/ES/CA--gl",
+		"name": "Cádiz",
+		"lang": "gl",
+		"zip": "11",
+		"key": "CA"
+	},
+	"data/ES/CC": {
+		"id": "data/ES/CC",
+		"name": "Cáceres",
+		"lang": "es",
+		"zip": "10",
+		"key": "CC"
+	},
+	"data/ES/CC--ca": {
+		"id": "data/ES/CC--ca",
+		"name": "Cáceres",
+		"lang": "ca",
+		"zip": "10",
+		"key": "CC"
+	},
+	"data/ES/CC--eu": {
+		"id": "data/ES/CC--eu",
+		"name": "Cáceres",
+		"lang": "eu",
+		"zip": "10",
+		"key": "CC"
+	},
+	"data/ES/CC--gl": {
+		"id": "data/ES/CC--gl",
+		"name": "Cáceres",
+		"lang": "gl",
+		"zip": "10",
+		"key": "CC"
+	},
+	"data/ES/CE": {
+		"id": "data/ES/CE",
+		"name": "Ceuta",
+		"lang": "es",
+		"zip": "51",
+		"key": "CE"
+	},
+	"data/ES/CE--ca": {
+		"id": "data/ES/CE--ca",
+		"name": "Ceuta",
+		"lang": "ca",
+		"zip": "51",
+		"key": "CE"
+	},
+	"data/ES/CE--eu": {
+		"id": "data/ES/CE--eu",
+		"name": "Ceuta",
+		"lang": "eu",
+		"zip": "51",
+		"key": "CE"
+	},
+	"data/ES/CE--gl": {
+		"id": "data/ES/CE--gl",
+		"name": "Ceuta",
+		"lang": "gl",
+		"zip": "51",
+		"key": "CE"
+	},
+	"data/ES/CO": {
+		"id": "data/ES/CO",
+		"name": "Córdoba",
+		"lang": "es",
+		"zip": "14",
+		"key": "CO"
 	},
 	"data/ES/CO--ca": {
 		"id": "data/ES/CO--ca",
 		"name": "Córdoba",
 		"lang": "ca",
+		"zip": "14",
+		"key": "CO"
+	},
+	"data/ES/CO--eu": {
+		"id": "data/ES/CO--eu",
+		"name": "Kordoba",
+		"lang": "eu",
 		"zip": "14",
 		"key": "CO"
 	},
@@ -1236,187 +424,82 @@
 		"zip": "14",
 		"key": "CO"
 	},
-	"data/ES/S--ca": {
-		"id": "data/ES/S--ca",
-		"name": "Cantabria",
-		"lang": "ca",
-		"zip": "39",
-		"key": "S"
-	},
-	"data/ES/H--eu": {
-		"id": "data/ES/H--eu",
-		"name": "Huelva",
-		"lang": "eu",
-		"zip": "21",
-		"key": "H"
-	},
-	"data/ES/M--eu": {
-		"id": "data/ES/M--eu",
-		"name": "Madrid",
-		"lang": "eu",
-		"zip": "28",
-		"key": "M"
-	},
-	"data/ES/CA--gl": {
-		"id": "data/ES/CA--gl",
-		"name": "Cádiz",
-		"lang": "gl",
-		"zip": "11",
-		"key": "CA"
-	},
-	"data/ES/A--eu": {
-		"id": "data/ES/A--eu",
-		"name": "Alacant",
-		"lang": "eu",
-		"zip": "03",
-		"key": "A"
-	},
-	"data/ES/LE--ca": {
-		"id": "data/ES/LE--ca",
-		"name": "León",
-		"lang": "ca",
-		"zip": "24",
-		"key": "LE"
-	},
-	"data/ES/CE--gl": {
-		"id": "data/ES/CE--gl",
-		"name": "Ceuta",
-		"lang": "gl",
-		"zip": "51",
-		"key": "CE"
-	},
-	"data/ES/CO--eu": {
-		"id": "data/ES/CO--eu",
-		"name": "Kordoba",
-		"lang": "eu",
-		"zip": "14",
-		"key": "CO"
-	},
-	"data/ES/SO--eu": {
-		"id": "data/ES/SO--eu",
-		"name": "Soria",
-		"lang": "eu",
-		"zip": "42",
-		"key": "SO"
-	},
-	"data/ES/CE--eu": {
-		"id": "data/ES/CE--eu",
-		"name": "Ceuta",
-		"lang": "eu",
-		"zip": "51",
-		"key": "CE"
-	},
-	"data/ES/C": {
-		"id": "data/ES/C",
-		"name": "La Coruña",
+	"data/ES/CR": {
+		"id": "data/ES/CR",
+		"name": "Ciudad Real",
 		"lang": "es",
-		"zip": "15",
-		"key": "C"
+		"zip": "13",
+		"key": "CR"
 	},
-	"data/ES/GI--gl": {
-		"id": "data/ES/GI--gl",
-		"name": "Xirona",
-		"lang": "gl",
-		"zip": "17",
-		"key": "GI"
-	},
-	"data/ES/VI--gl": {
-		"id": "data/ES/VI--gl",
-		"name": "Álava",
-		"lang": "gl",
-		"zip": "01",
-		"key": "VI"
-	},
-	"data/ES/BA--gl": {
-		"id": "data/ES/BA--gl",
-		"name": "Badaxoz",
-		"lang": "gl",
-		"zip": "06",
-		"key": "BA"
-	},
-	"data/ES/GU--ca": {
-		"id": "data/ES/GU--ca",
-		"name": "Guadalajara",
+	"data/ES/CR--ca": {
+		"id": "data/ES/CR--ca",
+		"name": "Ciudad Real",
 		"lang": "ca",
-		"zip": "19",
-		"key": "GU"
+		"zip": "13",
+		"key": "CR"
 	},
-	"data/ES/NA": {
-		"id": "data/ES/NA",
-		"name": "Navarra",
+	"data/ES/CR--eu": {
+		"id": "data/ES/CR--eu",
+		"name": "Ciudad Real",
+		"lang": "eu",
+		"zip": "13",
+		"key": "CR"
+	},
+	"data/ES/CR--gl": {
+		"id": "data/ES/CR--gl",
+		"name": "Cidade Real",
+		"lang": "gl",
+		"zip": "13",
+		"key": "CR"
+	},
+	"data/ES/CS": {
+		"id": "data/ES/CS",
+		"name": "Castellón",
 		"lang": "es",
-		"zip": "31",
-		"key": "NA"
+		"zip": "12",
+		"key": "CS"
 	},
-	"data/ES/SG--ca": {
-		"id": "data/ES/SG--ca",
-		"name": "Segovia",
+	"data/ES/CS--ca": {
+		"id": "data/ES/CS--ca",
+		"name": "Castelló",
 		"lang": "ca",
-		"zip": "40",
-		"key": "SG"
+		"zip": "12",
+		"key": "CS"
 	},
-	"data/ES/PO--gl": {
-		"id": "data/ES/PO--gl",
-		"name": "Pontevedra",
+	"data/ES/CS--eu": {
+		"id": "data/ES/CS--eu",
+		"name": "Castelló",
+		"lang": "eu",
+		"zip": "12",
+		"key": "CS"
+	},
+	"data/ES/CS--gl": {
+		"id": "data/ES/CS--gl",
+		"name": "Castelló",
 		"lang": "gl",
-		"zip": "36",
-		"key": "PO"
+		"zip": "12",
+		"key": "CS"
 	},
-	"data/ES/GR--ca": {
-		"id": "data/ES/GR--ca",
-		"name": "Granada",
+	"data/ES/CU": {
+		"id": "data/ES/CU",
+		"name": "Cuenca",
+		"lang": "es",
+		"zip": "16",
+		"key": "CU"
+	},
+	"data/ES/CU--ca": {
+		"id": "data/ES/CU--ca",
+		"name": "Cuenca",
 		"lang": "ca",
-		"zip": "18",
-		"key": "GR"
+		"zip": "16",
+		"key": "CU"
 	},
-	"data/ES/SE--eu": {
-		"id": "data/ES/SE--eu",
-		"name": "Sevilla",
+	"data/ES/CU--eu": {
+		"id": "data/ES/CU--eu",
+		"name": "Cuenca",
 		"lang": "eu",
-		"zip": "41",
-		"key": "SE"
-	},
-	"data/ES/C--gl": {
-		"id": "data/ES/C--gl",
-		"name": "A Coruña",
-		"lang": "gl",
-		"zip": "15",
-		"key": "C"
-	},
-	"data/ES/CO": {
-		"id": "data/ES/CO",
-		"name": "Córdoba",
-		"lang": "es",
-		"zip": "14",
-		"key": "CO"
-	},
-	"data/ES/B--gl": {
-		"id": "data/ES/B--gl",
-		"name": "Barcelona",
-		"lang": "gl",
-		"zip": "08",
-		"key": "B"
-	},
-	"data/ES/SS": {
-		"id": "data/ES/SS",
-		"name": "Guipúzcoa",
-		"lang": "es",
-		"zip": "20",
-		"key": "SS"
-	},
-	"data/ES/S--eu": {
-		"id": "data/ES/S--eu",
-		"name": "Cantabria",
-		"lang": "eu",
-		"zip": "39",
-		"key": "S"
-	},
-	"data/ES/SA--eu": {
-		"id": "data/ES/SA--eu",
-		"name": "Salamanca",
-		"lang": "eu",
-		"zip": "37",
-		"key": "SA"
+		"zip": "16",
+		"key": "CU"
 	},
 	"data/ES/CU--gl": {
 		"id": "data/ES/CU--gl",
@@ -1425,75 +508,208 @@
 		"zip": "16",
 		"key": "CU"
 	},
-	"data/ES/TO--eu": {
-		"id": "data/ES/TO--eu",
-		"name": "Toledo",
+	"data/ES/GC": {
+		"id": "data/ES/GC",
+		"name": "Las Palmas",
+		"lang": "es",
+		"zip": "35",
+		"key": "GC"
+	},
+	"data/ES/GC--ca": {
+		"id": "data/ES/GC--ca",
+		"name": "Las Palmas",
+		"lang": "ca",
+		"zip": "35",
+		"key": "GC"
+	},
+	"data/ES/GC--eu": {
+		"id": "data/ES/GC--eu",
+		"name": "Las Palmas",
 		"lang": "eu",
-		"zip": "45",
-		"key": "TO"
+		"zip": "35",
+		"key": "GC"
 	},
-	"data/ES/CE": {
-		"id": "data/ES/CE",
-		"name": "Ceuta",
+	"data/ES/GC--gl": {
+		"id": "data/ES/GC--gl",
+		"name": "As Palmas",
+		"lang": "gl",
+		"zip": "35",
+		"key": "GC"
+	},
+	"data/ES/GI": {
+		"id": "data/ES/GI",
+		"name": "Girona",
 		"lang": "es",
-		"zip": "51",
-		"key": "CE"
+		"zip": "17",
+		"key": "GI"
 	},
-	"data/ES/LU--ca": {
-		"id": "data/ES/LU--ca",
-		"name": "Lugo",
+	"data/ES/GI--ca": {
+		"id": "data/ES/GI--ca",
+		"name": "Girona",
 		"lang": "ca",
-		"zip": "27",
-		"key": "LU"
+		"zip": "17",
+		"key": "GI"
 	},
-	"data/ES/P--ca": {
-		"id": "data/ES/P--ca",
-		"name": "Palencia",
-		"lang": "ca",
-		"zip": "34",
-		"key": "P"
-	},
-	"data/ES/AV": {
-		"id": "data/ES/AV",
-		"name": "Ávila",
-		"lang": "es",
-		"zip": "05",
-		"key": "AV"
-	},
-	"data/ES/A--ca": {
-		"id": "data/ES/A--ca",
-		"name": "Alacant",
-		"lang": "ca",
-		"zip": "03",
-		"key": "A"
-	},
-	"data/ES/Z--eu": {
-		"id": "data/ES/Z--eu",
-		"name": "Zaragoza",
+	"data/ES/GI--eu": {
+		"id": "data/ES/GI--eu",
+		"name": "Girona",
 		"lang": "eu",
-		"zip": "50",
-		"key": "Z"
+		"zip": "17",
+		"key": "GI"
 	},
-	"data/ES/OR": {
-		"id": "data/ES/OR",
-		"name": "Ourense",
+	"data/ES/GI--gl": {
+		"id": "data/ES/GI--gl",
+		"name": "Xirona",
+		"lang": "gl",
+		"zip": "17",
+		"key": "GI"
+	},
+	"data/ES/GR": {
+		"id": "data/ES/GR",
+		"name": "Granada",
 		"lang": "es",
-		"zip": "32",
-		"key": "OR"
+		"zip": "18",
+		"key": "GR"
 	},
-	"data/ES/SA": {
-		"id": "data/ES/SA",
-		"name": "Salamanca",
-		"lang": "es",
-		"zip": "37",
-		"key": "SA"
-	},
-	"data/ES/BA--ca": {
-		"id": "data/ES/BA--ca",
-		"name": "Badajoz",
+	"data/ES/GR--ca": {
+		"id": "data/ES/GR--ca",
+		"name": "Granada",
 		"lang": "ca",
-		"zip": "06",
-		"key": "BA"
+		"zip": "18",
+		"key": "GR"
+	},
+	"data/ES/GR--eu": {
+		"id": "data/ES/GR--eu",
+		"name": "Granada",
+		"lang": "eu",
+		"zip": "18",
+		"key": "GR"
+	},
+	"data/ES/GR--gl": {
+		"id": "data/ES/GR--gl",
+		"name": "Granada",
+		"lang": "gl",
+		"zip": "18",
+		"key": "GR"
+	},
+	"data/ES/GU": {
+		"id": "data/ES/GU",
+		"name": "Guadalajara",
+		"lang": "es",
+		"zip": "19",
+		"key": "GU"
+	},
+	"data/ES/GU--ca": {
+		"id": "data/ES/GU--ca",
+		"name": "Guadalajara",
+		"lang": "ca",
+		"zip": "19",
+		"key": "GU"
+	},
+	"data/ES/GU--eu": {
+		"id": "data/ES/GU--eu",
+		"name": "Guadalajara",
+		"lang": "eu",
+		"zip": "19",
+		"key": "GU"
+	},
+	"data/ES/GU--gl": {
+		"id": "data/ES/GU--gl",
+		"name": "Guadalajara",
+		"lang": "gl",
+		"zip": "19",
+		"key": "GU"
+	},
+	"data/ES/H": {
+		"id": "data/ES/H",
+		"name": "Huelva",
+		"lang": "es",
+		"zip": "21",
+		"key": "H"
+	},
+	"data/ES/H--ca": {
+		"id": "data/ES/H--ca",
+		"name": "Huelva",
+		"lang": "ca",
+		"zip": "21",
+		"key": "H"
+	},
+	"data/ES/H--eu": {
+		"id": "data/ES/H--eu",
+		"name": "Huelva",
+		"lang": "eu",
+		"zip": "21",
+		"key": "H"
+	},
+	"data/ES/H--gl": {
+		"id": "data/ES/H--gl",
+		"name": "Huelva",
+		"lang": "gl",
+		"zip": "21",
+		"key": "H"
+	},
+	"data/ES/HU": {
+		"id": "data/ES/HU",
+		"name": "Huesca",
+		"lang": "es",
+		"zip": "22",
+		"key": "HU"
+	},
+	"data/ES/HU--ca": {
+		"id": "data/ES/HU--ca",
+		"name": "Huesca",
+		"lang": "ca",
+		"zip": "22",
+		"key": "HU"
+	},
+	"data/ES/HU--eu": {
+		"id": "data/ES/HU--eu",
+		"name": "Huesca",
+		"lang": "eu",
+		"zip": "22",
+		"key": "HU"
+	},
+	"data/ES/HU--gl": {
+		"id": "data/ES/HU--gl",
+		"name": "Huesca",
+		"lang": "gl",
+		"zip": "22",
+		"key": "HU"
+	},
+	"data/ES/J": {
+		"id": "data/ES/J",
+		"name": "Jaén",
+		"lang": "es",
+		"zip": "23",
+		"key": "J"
+	},
+	"data/ES/J--ca": {
+		"id": "data/ES/J--ca",
+		"name": "Jaén",
+		"lang": "ca",
+		"zip": "23",
+		"key": "J"
+	},
+	"data/ES/J--eu": {
+		"id": "data/ES/J--eu",
+		"name": "Jaén",
+		"lang": "eu",
+		"zip": "23",
+		"key": "J"
+	},
+	"data/ES/J--gl": {
+		"id": "data/ES/J--gl",
+		"name": "Xaén",
+		"lang": "gl",
+		"zip": "23",
+		"key": "J"
+	},
+	"data/ES/L": {
+		"id": "data/ES/L",
+		"name": "Lérida",
+		"lang": "es",
+		"zip": "25",
+		"key": "L"
 	},
 	"data/ES/L--ca": {
 		"id": "data/ES/L--ca",
@@ -1502,6 +718,202 @@
 		"zip": "25",
 		"key": "L"
 	},
+	"data/ES/L--eu": {
+		"id": "data/ES/L--eu",
+		"name": "Lleida",
+		"lang": "eu",
+		"zip": "25",
+		"key": "L"
+	},
+	"data/ES/L--gl": {
+		"id": "data/ES/L--gl",
+		"name": "Lleida",
+		"lang": "gl",
+		"zip": "25",
+		"key": "L"
+	},
+	"data/ES/LE": {
+		"id": "data/ES/LE",
+		"name": "León",
+		"lang": "es",
+		"zip": "24",
+		"key": "LE"
+	},
+	"data/ES/LE--ca": {
+		"id": "data/ES/LE--ca",
+		"name": "León",
+		"lang": "ca",
+		"zip": "24",
+		"key": "LE"
+	},
+	"data/ES/LE--eu": {
+		"id": "data/ES/LE--eu",
+		"name": "León",
+		"lang": "eu",
+		"zip": "24",
+		"key": "LE"
+	},
+	"data/ES/LE--gl": {
+		"id": "data/ES/LE--gl",
+		"name": "León",
+		"lang": "gl",
+		"zip": "24",
+		"key": "LE"
+	},
+	"data/ES/LO": {
+		"id": "data/ES/LO",
+		"name": "La Rioja",
+		"lang": "es",
+		"zip": "26",
+		"key": "LO"
+	},
+	"data/ES/LO--ca": {
+		"id": "data/ES/LO--ca",
+		"name": "La Rioja",
+		"lang": "ca",
+		"zip": "26",
+		"key": "LO"
+	},
+	"data/ES/LO--eu": {
+		"id": "data/ES/LO--eu",
+		"name": "La Rioja",
+		"lang": "eu",
+		"zip": "26",
+		"key": "LO"
+	},
+	"data/ES/LO--gl": {
+		"id": "data/ES/LO--gl",
+		"name": "La Rioja",
+		"lang": "gl",
+		"zip": "26",
+		"key": "LO"
+	},
+	"data/ES/LU": {
+		"id": "data/ES/LU",
+		"name": "Lugo",
+		"lang": "es",
+		"zip": "27",
+		"key": "LU"
+	},
+	"data/ES/LU--ca": {
+		"id": "data/ES/LU--ca",
+		"name": "Lugo",
+		"lang": "ca",
+		"zip": "27",
+		"key": "LU"
+	},
+	"data/ES/LU--eu": {
+		"id": "data/ES/LU--eu",
+		"name": "Lugo",
+		"lang": "eu",
+		"zip": "27",
+		"key": "LU"
+	},
+	"data/ES/LU--gl": {
+		"id": "data/ES/LU--gl",
+		"name": "Lugo",
+		"lang": "gl",
+		"zip": "27",
+		"key": "LU"
+	},
+	"data/ES/M": {
+		"id": "data/ES/M",
+		"name": "Madrid",
+		"lang": "es",
+		"zip": "28",
+		"key": "M"
+	},
+	"data/ES/M--ca": {
+		"id": "data/ES/M--ca",
+		"name": "Madrid",
+		"lang": "ca",
+		"zip": "28",
+		"key": "M"
+	},
+	"data/ES/M--eu": {
+		"id": "data/ES/M--eu",
+		"name": "Madrid",
+		"lang": "eu",
+		"zip": "28",
+		"key": "M"
+	},
+	"data/ES/M--gl": {
+		"id": "data/ES/M--gl",
+		"name": "Madrid",
+		"lang": "gl",
+		"zip": "28",
+		"key": "M"
+	},
+	"data/ES/MA": {
+		"id": "data/ES/MA",
+		"name": "Málaga",
+		"lang": "es",
+		"zip": "29",
+		"key": "MA"
+	},
+	"data/ES/MA--ca": {
+		"id": "data/ES/MA--ca",
+		"name": "Málaga",
+		"lang": "ca",
+		"zip": "29",
+		"key": "MA"
+	},
+	"data/ES/MA--eu": {
+		"id": "data/ES/MA--eu",
+		"name": "Málaga",
+		"lang": "eu",
+		"zip": "29",
+		"key": "MA"
+	},
+	"data/ES/MA--gl": {
+		"id": "data/ES/MA--gl",
+		"name": "Málaga",
+		"lang": "gl",
+		"zip": "29",
+		"key": "MA"
+	},
+	"data/ES/ML": {
+		"id": "data/ES/ML",
+		"name": "Melilla",
+		"lang": "es",
+		"zip": "52",
+		"key": "ML"
+	},
+	"data/ES/ML--ca": {
+		"id": "data/ES/ML--ca",
+		"name": "Melilla",
+		"lang": "ca",
+		"zip": "52",
+		"key": "ML"
+	},
+	"data/ES/ML--eu": {
+		"id": "data/ES/ML--eu",
+		"name": "Melilla",
+		"lang": "eu",
+		"zip": "52",
+		"key": "ML"
+	},
+	"data/ES/ML--gl": {
+		"id": "data/ES/ML--gl",
+		"name": "Melilla",
+		"lang": "gl",
+		"zip": "52",
+		"key": "ML"
+	},
+	"data/ES/MU": {
+		"id": "data/ES/MU",
+		"name": "Murcia",
+		"lang": "es",
+		"zip": "30",
+		"key": "MU"
+	},
+	"data/ES/MU--ca": {
+		"id": "data/ES/MU--ca",
+		"name": "Murcia",
+		"lang": "ca",
+		"zip": "30",
+		"key": "MU"
+	},
 	"data/ES/MU--eu": {
 		"id": "data/ES/MU--eu",
 		"name": "Murtzia",
@@ -1509,11 +921,599 @@
 		"zip": "30",
 		"key": "MU"
 	},
-	"data/ES/BI--eu": {
-		"id": "data/ES/BI--eu",
-		"name": "Bizkaia",
+	"data/ES/MU--gl": {
+		"id": "data/ES/MU--gl",
+		"name": "Murcia",
+		"lang": "gl",
+		"zip": "30",
+		"key": "MU"
+	},
+	"data/ES/NA": {
+		"id": "data/ES/NA",
+		"name": "Navarra",
+		"lang": "es",
+		"zip": "31",
+		"key": "NA"
+	},
+	"data/ES/NA--ca": {
+		"id": "data/ES/NA--ca",
+		"name": "Navarra",
+		"lang": "ca",
+		"zip": "31",
+		"key": "NA"
+	},
+	"data/ES/NA--eu": {
+		"id": "data/ES/NA--eu",
+		"name": "Nafarroa",
 		"lang": "eu",
-		"zip": "48",
-		"key": "BI"
+		"zip": "31",
+		"key": "NA"
+	},
+	"data/ES/NA--gl": {
+		"id": "data/ES/NA--gl",
+		"name": "Navarra",
+		"lang": "gl",
+		"zip": "31",
+		"key": "NA"
+	},
+	"data/ES/O": {
+		"id": "data/ES/O",
+		"name": "Asturias",
+		"lang": "es",
+		"zip": "33",
+		"key": "O"
+	},
+	"data/ES/O--ca": {
+		"id": "data/ES/O--ca",
+		"name": "Asturias",
+		"lang": "ca",
+		"zip": "33",
+		"key": "O"
+	},
+	"data/ES/O--eu": {
+		"id": "data/ES/O--eu",
+		"name": "Asturias",
+		"lang": "eu",
+		"zip": "33",
+		"key": "O"
+	},
+	"data/ES/O--gl": {
+		"id": "data/ES/O--gl",
+		"name": "Asturias",
+		"lang": "gl",
+		"zip": "33",
+		"key": "O"
+	},
+	"data/ES/OR": {
+		"id": "data/ES/OR",
+		"name": "Ourense",
+		"lang": "es",
+		"zip": "32",
+		"key": "OR"
+	},
+	"data/ES/OR--ca": {
+		"id": "data/ES/OR--ca",
+		"name": "Ourense",
+		"lang": "ca",
+		"zip": "32",
+		"key": "OR"
+	},
+	"data/ES/OR--eu": {
+		"id": "data/ES/OR--eu",
+		"name": "Ourense",
+		"lang": "eu",
+		"zip": "32",
+		"key": "OR"
+	},
+	"data/ES/OR--gl": {
+		"id": "data/ES/OR--gl",
+		"name": "Ourense",
+		"lang": "gl",
+		"zip": "32",
+		"key": "OR"
+	},
+	"data/ES/P": {
+		"id": "data/ES/P",
+		"name": "Palencia",
+		"lang": "es",
+		"zip": "34",
+		"key": "P"
+	},
+	"data/ES/P--ca": {
+		"id": "data/ES/P--ca",
+		"name": "Palencia",
+		"lang": "ca",
+		"zip": "34",
+		"key": "P"
+	},
+	"data/ES/P--eu": {
+		"id": "data/ES/P--eu",
+		"name": "Palentzia",
+		"lang": "eu",
+		"zip": "34",
+		"key": "P"
+	},
+	"data/ES/P--gl": {
+		"id": "data/ES/P--gl",
+		"name": "Palencia",
+		"lang": "gl",
+		"zip": "34",
+		"key": "P"
+	},
+	"data/ES/PM": {
+		"id": "data/ES/PM",
+		"name": "Islas Baleares",
+		"lang": "es",
+		"zip": "07",
+		"key": "PM"
+	},
+	"data/ES/PM--ca": {
+		"id": "data/ES/PM--ca",
+		"name": "Illes Balears",
+		"lang": "ca",
+		"zip": "07",
+		"key": "PM"
+	},
+	"data/ES/PM--eu": {
+		"id": "data/ES/PM--eu",
+		"name": "Illes Balears",
+		"lang": "eu",
+		"zip": "07",
+		"key": "PM"
+	},
+	"data/ES/PM--gl": {
+		"id": "data/ES/PM--gl",
+		"name": "Illas Baleares",
+		"lang": "gl",
+		"zip": "07",
+		"key": "PM"
+	},
+	"data/ES/PO": {
+		"id": "data/ES/PO",
+		"name": "Pontevedra",
+		"lang": "es",
+		"zip": "36",
+		"key": "PO"
+	},
+	"data/ES/PO--ca": {
+		"id": "data/ES/PO--ca",
+		"name": "Pontevedra",
+		"lang": "ca",
+		"zip": "36",
+		"key": "PO"
+	},
+	"data/ES/PO--eu": {
+		"id": "data/ES/PO--eu",
+		"name": "Pontevedra",
+		"lang": "eu",
+		"zip": "36",
+		"key": "PO"
+	},
+	"data/ES/PO--gl": {
+		"id": "data/ES/PO--gl",
+		"name": "Pontevedra",
+		"lang": "gl",
+		"zip": "36",
+		"key": "PO"
+	},
+	"data/ES/S": {
+		"id": "data/ES/S",
+		"name": "Cantabria",
+		"lang": "es",
+		"zip": "39",
+		"key": "S"
+	},
+	"data/ES/S--ca": {
+		"id": "data/ES/S--ca",
+		"name": "Cantabria",
+		"lang": "ca",
+		"zip": "39",
+		"key": "S"
+	},
+	"data/ES/S--eu": {
+		"id": "data/ES/S--eu",
+		"name": "Cantabria",
+		"lang": "eu",
+		"zip": "39",
+		"key": "S"
+	},
+	"data/ES/S--gl": {
+		"id": "data/ES/S--gl",
+		"name": "Cantabria",
+		"lang": "gl",
+		"zip": "39",
+		"key": "S"
+	},
+	"data/ES/SA": {
+		"id": "data/ES/SA",
+		"name": "Salamanca",
+		"lang": "es",
+		"zip": "37",
+		"key": "SA"
+	},
+	"data/ES/SA--ca": {
+		"id": "data/ES/SA--ca",
+		"name": "Salamanca",
+		"lang": "ca",
+		"zip": "37",
+		"key": "SA"
+	},
+	"data/ES/SA--eu": {
+		"id": "data/ES/SA--eu",
+		"name": "Salamanca",
+		"lang": "eu",
+		"zip": "37",
+		"key": "SA"
+	},
+	"data/ES/SA--gl": {
+		"id": "data/ES/SA--gl",
+		"name": "Salamanca",
+		"lang": "gl",
+		"zip": "37",
+		"key": "SA"
+	},
+	"data/ES/SE": {
+		"id": "data/ES/SE",
+		"name": "Sevilla",
+		"lang": "es",
+		"zip": "41",
+		"key": "SE"
+	},
+	"data/ES/SE--ca": {
+		"id": "data/ES/SE--ca",
+		"name": "Sevilla",
+		"lang": "ca",
+		"zip": "41",
+		"key": "SE"
+	},
+	"data/ES/SE--eu": {
+		"id": "data/ES/SE--eu",
+		"name": "Sevilla",
+		"lang": "eu",
+		"zip": "41",
+		"key": "SE"
+	},
+	"data/ES/SE--gl": {
+		"id": "data/ES/SE--gl",
+		"name": "Sevilla",
+		"lang": "gl",
+		"zip": "41",
+		"key": "SE"
+	},
+	"data/ES/SG": {
+		"id": "data/ES/SG",
+		"name": "Segovia",
+		"lang": "es",
+		"zip": "40",
+		"key": "SG"
+	},
+	"data/ES/SG--ca": {
+		"id": "data/ES/SG--ca",
+		"name": "Segovia",
+		"lang": "ca",
+		"zip": "40",
+		"key": "SG"
+	},
+	"data/ES/SG--eu": {
+		"id": "data/ES/SG--eu",
+		"name": "Segovia",
+		"lang": "eu",
+		"zip": "40",
+		"key": "SG"
+	},
+	"data/ES/SG--gl": {
+		"id": "data/ES/SG--gl",
+		"name": "Segovia",
+		"lang": "gl",
+		"zip": "40",
+		"key": "SG"
+	},
+	"data/ES/SO": {
+		"id": "data/ES/SO",
+		"name": "Soria",
+		"lang": "es",
+		"zip": "42",
+		"key": "SO"
+	},
+	"data/ES/SO--ca": {
+		"id": "data/ES/SO--ca",
+		"name": "Soria",
+		"lang": "ca",
+		"zip": "42",
+		"key": "SO"
+	},
+	"data/ES/SO--eu": {
+		"id": "data/ES/SO--eu",
+		"name": "Soria",
+		"lang": "eu",
+		"zip": "42",
+		"key": "SO"
+	},
+	"data/ES/SO--gl": {
+		"id": "data/ES/SO--gl",
+		"name": "Soria",
+		"lang": "gl",
+		"zip": "42",
+		"key": "SO"
+	},
+	"data/ES/SS": {
+		"id": "data/ES/SS",
+		"name": "Guipúzcoa",
+		"lang": "es",
+		"zip": "20",
+		"key": "SS"
+	},
+	"data/ES/SS--ca": {
+		"id": "data/ES/SS--ca",
+		"name": "Guipúscoa",
+		"lang": "ca",
+		"zip": "20",
+		"key": "SS"
+	},
+	"data/ES/SS--eu": {
+		"id": "data/ES/SS--eu",
+		"name": "Gipuzkoa",
+		"lang": "eu",
+		"zip": "20",
+		"key": "SS"
+	},
+	"data/ES/SS--gl": {
+		"id": "data/ES/SS--gl",
+		"name": "Guipúscoa",
+		"lang": "gl",
+		"zip": "20",
+		"key": "SS"
+	},
+	"data/ES/T": {
+		"id": "data/ES/T",
+		"name": "Tarragona",
+		"lang": "es",
+		"zip": "43",
+		"key": "T"
+	},
+	"data/ES/T--ca": {
+		"id": "data/ES/T--ca",
+		"name": "Tarragona",
+		"lang": "ca",
+		"zip": "43",
+		"key": "T"
+	},
+	"data/ES/T--eu": {
+		"id": "data/ES/T--eu",
+		"name": "Tarragona",
+		"lang": "eu",
+		"zip": "43",
+		"key": "T"
+	},
+	"data/ES/T--gl": {
+		"id": "data/ES/T--gl",
+		"name": "Tarragona",
+		"lang": "gl",
+		"zip": "43",
+		"key": "T"
+	},
+	"data/ES/TE": {
+		"id": "data/ES/TE",
+		"name": "Teruel",
+		"lang": "es",
+		"zip": "44",
+		"key": "TE"
+	},
+	"data/ES/TE--ca": {
+		"id": "data/ES/TE--ca",
+		"name": "Teruel",
+		"lang": "ca",
+		"zip": "44",
+		"key": "TE"
+	},
+	"data/ES/TE--eu": {
+		"id": "data/ES/TE--eu",
+		"name": "Teruel",
+		"lang": "eu",
+		"zip": "44",
+		"key": "TE"
+	},
+	"data/ES/TE--gl": {
+		"id": "data/ES/TE--gl",
+		"name": "Teruel",
+		"lang": "gl",
+		"zip": "44",
+		"key": "TE"
+	},
+	"data/ES/TF": {
+		"id": "data/ES/TF",
+		"name": "Santa Cruz de Tenerife",
+		"lang": "es",
+		"zip": "38",
+		"key": "TF"
+	},
+	"data/ES/TF--ca": {
+		"id": "data/ES/TF--ca",
+		"name": "Santa Cruz de Tenerife",
+		"lang": "ca",
+		"zip": "38",
+		"key": "TF"
+	},
+	"data/ES/TF--eu": {
+		"id": "data/ES/TF--eu",
+		"name": "Santa Cruz Tenerifekoa",
+		"lang": "eu",
+		"zip": "38",
+		"key": "TF"
+	},
+	"data/ES/TF--gl": {
+		"id": "data/ES/TF--gl",
+		"name": "Santa Cruz de Tenerife",
+		"lang": "gl",
+		"zip": "38",
+		"key": "TF"
+	},
+	"data/ES/TO": {
+		"id": "data/ES/TO",
+		"name": "Toledo",
+		"lang": "es",
+		"zip": "45",
+		"key": "TO"
+	},
+	"data/ES/TO--ca": {
+		"id": "data/ES/TO--ca",
+		"name": "Toledo",
+		"lang": "ca",
+		"zip": "45",
+		"key": "TO"
+	},
+	"data/ES/TO--eu": {
+		"id": "data/ES/TO--eu",
+		"name": "Toledo",
+		"lang": "eu",
+		"zip": "45",
+		"key": "TO"
+	},
+	"data/ES/TO--gl": {
+		"id": "data/ES/TO--gl",
+		"name": "Toledo",
+		"lang": "gl",
+		"zip": "45",
+		"key": "TO"
+	},
+	"data/ES/V": {
+		"id": "data/ES/V",
+		"name": "Valencia",
+		"lang": "es",
+		"zip": "46",
+		"key": "V"
+	},
+	"data/ES/V--ca": {
+		"id": "data/ES/V--ca",
+		"name": "València",
+		"lang": "ca",
+		"zip": "46",
+		"key": "V"
+	},
+	"data/ES/V--eu": {
+		"id": "data/ES/V--eu",
+		"name": "Valentzia",
+		"lang": "eu",
+		"zip": "46",
+		"key": "V"
+	},
+	"data/ES/V--gl": {
+		"id": "data/ES/V--gl",
+		"name": "Valencia",
+		"lang": "gl",
+		"zip": "46",
+		"key": "V"
+	},
+	"data/ES/VA": {
+		"id": "data/ES/VA",
+		"name": "Valladolid",
+		"lang": "es",
+		"zip": "47",
+		"key": "VA"
+	},
+	"data/ES/VA--ca": {
+		"id": "data/ES/VA--ca",
+		"name": "Valladolid",
+		"lang": "ca",
+		"zip": "47",
+		"key": "VA"
+	},
+	"data/ES/VA--eu": {
+		"id": "data/ES/VA--eu",
+		"name": "Valladolid",
+		"lang": "eu",
+		"zip": "47",
+		"key": "VA"
+	},
+	"data/ES/VA--gl": {
+		"id": "data/ES/VA--gl",
+		"name": "Valladolid",
+		"lang": "gl",
+		"zip": "47",
+		"key": "VA"
+	},
+	"data/ES/VI": {
+		"id": "data/ES/VI",
+		"name": "Álava",
+		"lang": "es",
+		"zip": "01",
+		"key": "VI"
+	},
+	"data/ES/VI--ca": {
+		"id": "data/ES/VI--ca",
+		"name": "Araba",
+		"lang": "ca",
+		"zip": "01",
+		"key": "VI"
+	},
+	"data/ES/VI--eu": {
+		"id": "data/ES/VI--eu",
+		"name": "Araba",
+		"lang": "eu",
+		"zip": "01",
+		"key": "VI"
+	},
+	"data/ES/VI--gl": {
+		"id": "data/ES/VI--gl",
+		"name": "Álava",
+		"lang": "gl",
+		"zip": "01",
+		"key": "VI"
+	},
+	"data/ES/Z": {
+		"id": "data/ES/Z",
+		"name": "Zaragoza",
+		"lang": "es",
+		"zip": "50",
+		"key": "Z"
+	},
+	"data/ES/Z--ca": {
+		"id": "data/ES/Z--ca",
+		"name": "Zaragoza",
+		"lang": "ca",
+		"zip": "50",
+		"key": "Z"
+	},
+	"data/ES/Z--eu": {
+		"id": "data/ES/Z--eu",
+		"name": "Zaragoza",
+		"lang": "eu",
+		"zip": "50",
+		"key": "Z"
+	},
+	"data/ES/Z--gl": {
+		"id": "data/ES/Z--gl",
+		"name": "Zaragoza",
+		"lang": "gl",
+		"zip": "50",
+		"key": "Z"
+	},
+	"data/ES/ZA": {
+		"id": "data/ES/ZA",
+		"name": "Zamora",
+		"lang": "es",
+		"zip": "49",
+		"key": "ZA"
+	},
+	"data/ES/ZA--ca": {
+		"id": "data/ES/ZA--ca",
+		"name": "Zamora",
+		"lang": "ca",
+		"zip": "49",
+		"key": "ZA"
+	},
+	"data/ES/ZA--eu": {
+		"id": "data/ES/ZA--eu",
+		"name": "Zamora",
+		"lang": "eu",
+		"zip": "49",
+		"key": "ZA"
+	},
+	"data/ES/ZA--gl": {
+		"id": "data/ES/ZA--gl",
+		"name": "Zamora",
+		"lang": "gl",
+		"zip": "49",
+		"key": "ZA"
 	}
 }

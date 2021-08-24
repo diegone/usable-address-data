@@ -1,52 +1,4 @@
 {
-	"data/IE/Co. Waterford": {
-		"id": "data/IE/Co. Waterford",
-		"key": "Co. Waterford",
-		"lang": "en",
-		"isoid": "WD"
-	},
-	"data/IE/Co. Wexford": {
-		"id": "data/IE/Co. Wexford",
-		"key": "Co. Wexford",
-		"lang": "en",
-		"isoid": "WX"
-	},
-	"data/IE/Co. Tipperary": {
-		"id": "data/IE/Co. Tipperary",
-		"key": "Co. Tipperary",
-		"lang": "en",
-		"isoid": "TA"
-	},
-	"data/IE/Co. Laois": {
-		"id": "data/IE/Co. Laois",
-		"key": "Co. Laois",
-		"lang": "en",
-		"isoid": "LS"
-	},
-	"data/IE/Co. Carlow": {
-		"id": "data/IE/Co. Carlow",
-		"key": "Co. Carlow",
-		"lang": "en",
-		"isoid": "CW"
-	},
-	"data/IE/Co. Donegal": {
-		"id": "data/IE/Co. Donegal",
-		"key": "Co. Donegal",
-		"lang": "en",
-		"isoid": "DL"
-	},
-	"data/IE/Co. Meath": {
-		"id": "data/IE/Co. Meath",
-		"key": "Co. Meath",
-		"lang": "en",
-		"isoid": "MH"
-	},
-	"data/IE/Co. Leitrim": {
-		"id": "data/IE/Co. Leitrim",
-		"key": "Co. Leitrim",
-		"lang": "en",
-		"isoid": "LM"
-	},
 	"data/IE": {
 		"id": "data/IE",
 		"key": "IE",
@@ -63,47 +15,11 @@
 		"sub_keys": "Co. Carlow~Co. Cavan~Co. Clare~Co. Cork~Co. Donegal~Co. Dublin~Co. Galway~Co. Kerry~Co. Kildare~Co. Kilkenny~Co. Laois~Co. Leitrim~Co. Limerick~Co. Longford~Co. Louth~Co. Mayo~Co. Meath~Co. Monaghan~Co. Offaly~Co. Roscommon~Co. Sligo~Co. Tipperary~Co. Waterford~Co. Westmeath~Co. Wexford~Co. Wicklow",
 		"sub_isoids": "CW~CN~CE~CO~DL~D~G~KY~KE~KK~LS~LM~LK~LD~LH~MO~MH~MN~OY~RN~SO~TA~WD~WH~WX~WW"
 	},
-	"data/IE/Co. Cork": {
-		"id": "data/IE/Co. Cork",
-		"key": "Co. Cork",
+	"data/IE/Co. Carlow": {
+		"id": "data/IE/Co. Carlow",
+		"key": "Co. Carlow",
 		"lang": "en",
-		"isoid": "CO"
-	},
-	"data/IE/Co. Longford": {
-		"id": "data/IE/Co. Longford",
-		"key": "Co. Longford",
-		"lang": "en",
-		"isoid": "LD"
-	},
-	"data/IE/Co. Mayo": {
-		"id": "data/IE/Co. Mayo",
-		"key": "Co. Mayo",
-		"lang": "en",
-		"isoid": "MO"
-	},
-	"data/IE/Co. Sligo": {
-		"id": "data/IE/Co. Sligo",
-		"key": "Co. Sligo",
-		"lang": "en",
-		"isoid": "SO"
-	},
-	"data/IE/Co. Offaly": {
-		"id": "data/IE/Co. Offaly",
-		"key": "Co. Offaly",
-		"lang": "en",
-		"isoid": "OY"
-	},
-	"data/IE/Co. Wicklow": {
-		"id": "data/IE/Co. Wicklow",
-		"key": "Co. Wicklow",
-		"lang": "en",
-		"isoid": "WW"
-	},
-	"data/IE/Co. Westmeath": {
-		"id": "data/IE/Co. Westmeath",
-		"key": "Co. Westmeath",
-		"lang": "en",
-		"isoid": "WH"
+		"isoid": "CW"
 	},
 	"data/IE/Co. Cavan": {
 		"id": "data/IE/Co. Cavan",
@@ -111,35 +27,23 @@
 		"lang": "en",
 		"isoid": "CN"
 	},
-	"data/IE/Co. Kilkenny": {
-		"id": "data/IE/Co. Kilkenny",
-		"key": "Co. Kilkenny",
-		"lang": "en",
-		"isoid": "KK"
-	},
-	"data/IE/Co. Kildare": {
-		"id": "data/IE/Co. Kildare",
-		"key": "Co. Kildare",
-		"lang": "en",
-		"isoid": "KE"
-	},
-	"data/IE/Co. Limerick": {
-		"id": "data/IE/Co. Limerick",
-		"key": "Co. Limerick",
-		"lang": "en",
-		"isoid": "LK"
-	},
-	"data/IE/Co. Kerry": {
-		"id": "data/IE/Co. Kerry",
-		"key": "Co. Kerry",
-		"lang": "en",
-		"isoid": "KY"
-	},
 	"data/IE/Co. Clare": {
 		"id": "data/IE/Co. Clare",
 		"key": "Co. Clare",
 		"lang": "en",
 		"isoid": "CE"
+	},
+	"data/IE/Co. Cork": {
+		"id": "data/IE/Co. Cork",
+		"key": "Co. Cork",
+		"lang": "en",
+		"isoid": "CO"
+	},
+	"data/IE/Co. Donegal": {
+		"id": "data/IE/Co. Donegal",
+		"key": "Co. Donegal",
+		"lang": "en",
+		"isoid": "DL"
 	},
 	"data/IE/Co. Dublin": {
 		"id": "data/IE/Co. Dublin",
@@ -147,11 +51,83 @@
 		"lang": "en",
 		"isoid": "D"
 	},
+	"data/IE/Co. Galway": {
+		"id": "data/IE/Co. Galway",
+		"key": "Co. Galway",
+		"lang": "en",
+		"isoid": "G"
+	},
+	"data/IE/Co. Kerry": {
+		"id": "data/IE/Co. Kerry",
+		"key": "Co. Kerry",
+		"lang": "en",
+		"isoid": "KY"
+	},
+	"data/IE/Co. Kildare": {
+		"id": "data/IE/Co. Kildare",
+		"key": "Co. Kildare",
+		"lang": "en",
+		"isoid": "KE"
+	},
+	"data/IE/Co. Kilkenny": {
+		"id": "data/IE/Co. Kilkenny",
+		"key": "Co. Kilkenny",
+		"lang": "en",
+		"isoid": "KK"
+	},
+	"data/IE/Co. Laois": {
+		"id": "data/IE/Co. Laois",
+		"key": "Co. Laois",
+		"lang": "en",
+		"isoid": "LS"
+	},
+	"data/IE/Co. Leitrim": {
+		"id": "data/IE/Co. Leitrim",
+		"key": "Co. Leitrim",
+		"lang": "en",
+		"isoid": "LM"
+	},
+	"data/IE/Co. Limerick": {
+		"id": "data/IE/Co. Limerick",
+		"key": "Co. Limerick",
+		"lang": "en",
+		"isoid": "LK"
+	},
+	"data/IE/Co. Longford": {
+		"id": "data/IE/Co. Longford",
+		"key": "Co. Longford",
+		"lang": "en",
+		"isoid": "LD"
+	},
+	"data/IE/Co. Louth": {
+		"id": "data/IE/Co. Louth",
+		"key": "Co. Louth",
+		"lang": "en",
+		"isoid": "LH"
+	},
+	"data/IE/Co. Mayo": {
+		"id": "data/IE/Co. Mayo",
+		"key": "Co. Mayo",
+		"lang": "en",
+		"isoid": "MO"
+	},
+	"data/IE/Co. Meath": {
+		"id": "data/IE/Co. Meath",
+		"key": "Co. Meath",
+		"lang": "en",
+		"isoid": "MH"
+	},
 	"data/IE/Co. Monaghan": {
 		"id": "data/IE/Co. Monaghan",
 		"key": "Co. Monaghan",
 		"lang": "en",
 		"isoid": "MN"
+	},
+	"data/IE/Co. Offaly": {
+		"id": "data/IE/Co. Offaly",
+		"key": "Co. Offaly",
+		"lang": "en",
+		"isoid": "OY"
 	},
 	"data/IE/Co. Roscommon": {
 		"id": "data/IE/Co. Roscommon",
@@ -159,16 +135,40 @@
 		"lang": "en",
 		"isoid": "RN"
 	},
-	"data/IE/Co. Galway": {
-		"id": "data/IE/Co. Galway",
-		"key": "Co. Galway",
+	"data/IE/Co. Sligo": {
+		"id": "data/IE/Co. Sligo",
+		"key": "Co. Sligo",
 		"lang": "en",
-		"isoid": "G"
+		"isoid": "SO"
 	},
-	"data/IE/Co. Louth": {
-		"id": "data/IE/Co. Louth",
-		"key": "Co. Louth",
+	"data/IE/Co. Tipperary": {
+		"id": "data/IE/Co. Tipperary",
+		"key": "Co. Tipperary",
 		"lang": "en",
-		"isoid": "LH"
+		"isoid": "TA"
+	},
+	"data/IE/Co. Waterford": {
+		"id": "data/IE/Co. Waterford",
+		"key": "Co. Waterford",
+		"lang": "en",
+		"isoid": "WD"
+	},
+	"data/IE/Co. Westmeath": {
+		"id": "data/IE/Co. Westmeath",
+		"key": "Co. Westmeath",
+		"lang": "en",
+		"isoid": "WH"
+	},
+	"data/IE/Co. Wexford": {
+		"id": "data/IE/Co. Wexford",
+		"key": "Co. Wexford",
+		"lang": "en",
+		"isoid": "WX"
+	},
+	"data/IE/Co. Wicklow": {
+		"id": "data/IE/Co. Wicklow",
+		"key": "Co. Wicklow",
+		"lang": "en",
+		"isoid": "WW"
 	}
 }
