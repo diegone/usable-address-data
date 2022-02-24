@@ -35,6 +35,9 @@ SINGAPORE {Postal Code}
 ```
 
 ## Scripts
+
+Change directory to the scripts directory before launching them.
+
 The `refreshRawData.js` script maintains an identical mirror in the `rawData` folder. That's the only script that makes http calls. All other scripts depend directly or indirectly to these raw files.
 
 The `refreshStructuredData.js` script produces `derivedData/structuredData.json` and its `.js` counterpart, which captures the whole data set in a single file. It has been formatted to reproduce the logical hierarchy of the data and eliminate redundancies.
