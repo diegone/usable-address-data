@@ -1592,7 +1592,7 @@
 		"isoid": "28",
 		"sub_keys": "강화군~계양구~남구~남동구~동구~부평구~서구~연수구~옹진군~중구",
 		"sub_lnames": "Ganghwa-gun~Gyeyang-gu~Nam-gu~Namdong-gu~Dong-gu~Bupyeong-gu~Seo-gu~Yeonsu-gu~Ongjin-gun~Jung-gu",
-		"sub_zips": "230~21[01]~22[12]~21[5-7]~225~21[34]~22[6-8]~2(?:19|20)~231~223"
+		"sub_zips": "230~21[01]~22[12]~21[5-7]~225~21[34]~22[6-8]~2(?:19|20)~231~22[34]"
 	},
 	"data/KR/인천광역시/강화군": {
 		"id": "data/KR/인천광역시/강화군",
@@ -1662,7 +1662,7 @@
 		"key": "중구",
 		"lang": "ko",
 		"lname": "Jung-gu",
-		"zip": "223"
+		"zip": "22[34]"
 	},
 	"data/KR/전라남도": {
 		"id": "data/KR/전라남도",
@@ -2208,7 +2208,7 @@
 		"zip": "28[0-9]",
 		"sub_keys": "상당구~서원구~청원구~흥덕구",
 		"sub_lnames": "Sangdang-gu~Seowon-gu~Cheongwon-gu~Heungdeok-gu",
-		"sub_zips": "28[1-3578]~28[1-35-8]~28[13-5]~28[13-6]"
+		"sub_zips": "28[1-3578]~28[1-35-8]~28[13-5]~28[1-6]"
 	},
 	"data/KR/충청북도/청주시/상당구": {
 		"id": "data/KR/충청북도/청주시/상당구",
@@ -2236,7 +2236,7 @@
 		"key": "흥덕구",
 		"lang": "ko",
 		"lname": "Heungdeok-gu",
-		"zip": "28[13-6]"
+		"zip": "28[1-6]"
 	},
 	"data/KR/충청북도/충주시": {
 		"id": "data/KR/충청북도/충주시",

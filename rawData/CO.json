@@ -3,11 +3,213 @@
 		"id": "data/CO",
 		"key": "CO",
 		"name": "COLOMBIA",
-		"fmt": "%N%n%O%n%A%n%C, %S, %Z",
+		"lang": "es",
+		"languages": "es",
+		"fmt": "%N%n%O%n%A%n%D%n%C, %S, %Z",
 		"require": "AS",
 		"zip": "\\d{6}",
 		"zipex": "111221,130001,760011",
 		"posturl": "http://www.codigopostal.gov.co/",
-		"state_name_type": "department"
+		"state_name_type": "department",
+		"sub_keys": "Amazonas~Antioquia~Arauca~Atlántico~Bogotá~Bolívar~Boyacá~Caldas~Caquetá~Casanare~Cauca~Cesar~Chocó~Córdoba~Cundinamarca~Guainía~Guaviare~Huila~La Guajira~Magdalena~Meta~Nariño~Norte de Santander~Putumayo~Quindío~Risaralda~San Andrés y Providencia~Santander~Sucre~Tolima~Valle del Cauca~Vaupés~Vichada",
+		"sub_isoids": "AMA~ANT~ARA~ATL~DC~BOL~BOY~CAL~CAQ~CAS~CAU~CES~CHO~COR~CUN~GUA~GUV~HUI~LAG~MAG~MET~NAR~NSA~PUT~QUI~RIS~SAP~SAN~SUC~TOL~VAC~VAU~VID"
+	},
+	"data/CO/Amazonas": {
+		"id": "data/CO/Amazonas",
+		"key": "Amazonas",
+		"lang": "es",
+		"isoid": "AMA"
+	},
+	"data/CO/Antioquia": {
+		"id": "data/CO/Antioquia",
+		"key": "Antioquia",
+		"lang": "es",
+		"isoid": "ANT"
+	},
+	"data/CO/Arauca": {
+		"id": "data/CO/Arauca",
+		"key": "Arauca",
+		"lang": "es",
+		"isoid": "ARA"
+	},
+	"data/CO/Atlántico": {
+		"id": "data/CO/Atlántico",
+		"key": "Atlántico",
+		"lang": "es",
+		"isoid": "ATL"
+	},
+	"data/CO/Bogotá": {
+		"id": "data/CO/Bogotá",
+		"key": "Bogotá",
+		"lang": "es",
+		"isoid": "DC"
+	},
+	"data/CO/Bolívar": {
+		"id": "data/CO/Bolívar",
+		"key": "Bolívar",
+		"lang": "es",
+		"isoid": "BOL"
+	},
+	"data/CO/Boyacá": {
+		"id": "data/CO/Boyacá",
+		"key": "Boyacá",
+		"lang": "es",
+		"isoid": "BOY"
+	},
+	"data/CO/Caldas": {
+		"id": "data/CO/Caldas",
+		"key": "Caldas",
+		"lang": "es",
+		"isoid": "CAL"
+	},
+	"data/CO/Caquetá": {
+		"id": "data/CO/Caquetá",
+		"key": "Caquetá",
+		"lang": "es",
+		"isoid": "CAQ"
+	},
+	"data/CO/Casanare": {
+		"id": "data/CO/Casanare",
+		"key": "Casanare",
+		"lang": "es",
+		"isoid": "CAS"
+	},
+	"data/CO/Cauca": {
+		"id": "data/CO/Cauca",
+		"key": "Cauca",
+		"lang": "es",
+		"isoid": "CAU"
+	},
+	"data/CO/Cesar": {
+		"id": "data/CO/Cesar",
+		"key": "Cesar",
+		"lang": "es",
+		"isoid": "CES"
+	},
+	"data/CO/Chocó": {
+		"id": "data/CO/Chocó",
+		"key": "Chocó",
+		"lang": "es",
+		"isoid": "CHO"
+	},
+	"data/CO/Cundinamarca": {
+		"id": "data/CO/Cundinamarca",
+		"key": "Cundinamarca",
+		"lang": "es",
+		"isoid": "CUN"
+	},
+	"data/CO/Córdoba": {
+		"id": "data/CO/Córdoba",
+		"key": "Córdoba",
+		"lang": "es",
+		"isoid": "COR"
+	},
+	"data/CO/Guainía": {
+		"id": "data/CO/Guainía",
+		"key": "Guainía",
+		"lang": "es",
+		"isoid": "GUA"
+	},
+	"data/CO/Guaviare": {
+		"id": "data/CO/Guaviare",
+		"key": "Guaviare",
+		"lang": "es",
+		"isoid": "GUV"
+	},
+	"data/CO/Huila": {
+		"id": "data/CO/Huila",
+		"key": "Huila",
+		"lang": "es",
+		"isoid": "HUI"
+	},
+	"data/CO/La Guajira": {
+		"id": "data/CO/La Guajira",
+		"key": "La Guajira",
+		"lang": "es",
+		"isoid": "LAG"
+	},
+	"data/CO/Magdalena": {
+		"id": "data/CO/Magdalena",
+		"key": "Magdalena",
+		"lang": "es",
+		"isoid": "MAG"
+	},
+	"data/CO/Meta": {
+		"id": "data/CO/Meta",
+		"key": "Meta",
+		"lang": "es",
+		"isoid": "MET"
+	},
+	"data/CO/Nariño": {
+		"id": "data/CO/Nariño",
+		"key": "Nariño",
+		"lang": "es",
+		"isoid": "NAR"
+	},
+	"data/CO/Norte de Santander": {
+		"id": "data/CO/Norte de Santander",
+		"key": "Norte de Santander",
+		"lang": "es",
+		"isoid": "NSA"
+	},
+	"data/CO/Putumayo": {
+		"id": "data/CO/Putumayo",
+		"key": "Putumayo",
+		"lang": "es",
+		"isoid": "PUT"
+	},
+	"data/CO/Quindío": {
+		"id": "data/CO/Quindío",
+		"key": "Quindío",
+		"lang": "es",
+		"isoid": "QUI"
+	},
+	"data/CO/Risaralda": {
+		"id": "data/CO/Risaralda",
+		"key": "Risaralda",
+		"lang": "es",
+		"isoid": "RIS"
+	},
+	"data/CO/San Andrés y Providencia": {
+		"id": "data/CO/San Andrés y Providencia",
+		"key": "San Andrés y Providencia",
+		"lang": "es",
+		"isoid": "SAP"
+	},
+	"data/CO/Santander": {
+		"id": "data/CO/Santander",
+		"key": "Santander",
+		"lang": "es",
+		"isoid": "SAN"
+	},
+	"data/CO/Sucre": {
+		"id": "data/CO/Sucre",
+		"key": "Sucre",
+		"lang": "es",
+		"isoid": "SUC"
+	},
+	"data/CO/Tolima": {
+		"id": "data/CO/Tolima",
+		"key": "Tolima",
+		"lang": "es",
+		"isoid": "TOL"
+	},
+	"data/CO/Valle del Cauca": {
+		"id": "data/CO/Valle del Cauca",
+		"key": "Valle del Cauca",
+		"lang": "es",
+		"isoid": "VAC"
+	},
+	"data/CO/Vaupés": {
+		"id": "data/CO/Vaupés",
+		"key": "Vaupés",
+		"lang": "es",
+		"isoid": "VAU"
+	},
+	"data/CO/Vichada": {
+		"id": "data/CO/Vichada",
+		"key": "Vichada",
+		"lang": "es",
+		"isoid": "VID"
 	}
 }

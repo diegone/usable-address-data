@@ -4374,7 +4374,7 @@
 		"sub_keys": "八里區~板橋區~淡水區~貢寮區~金山區~林口區~蘆洲區~平溪區~坪林區~瑞芳區~三峽區~三芝區~三重區~深坑區~石碇區~石門區~樹林區~雙溪區~泰山區~土城區~萬里區~烏來區~五股區~汐止區~新店區~新莊區~鶯歌區~永和區~中和區",
 		"sub_names": "八里區~板橋區~淡水區~貢寮區~金山區~林口區~蘆洲區~平溪區~坪林區~瑞芳區~三峽區~三芝區~三重區~深坑區~石碇區~石門區~樹林區~雙溪區~泰山區~土城區~萬里區~烏來區~五股區~汐止區~新店區~新莊區~鶯歌區~永和區~中和區",
 		"sub_lnames": "Bali District~Banqiao District~Tamsui District~Gongliao District~Jinshan District~Linkou District~Luzhou District~Pingxi District~Pinglin District~Ruifang District~Sanxia District~Sanzhi District~Sanchong District~Shenkeng District~Shiding District~Shimen District~Shulin District~Shuangxi District~Taishan District~Tucheng District~Wanli District~Wulai District~Wugu District~Xizhi District~Xindian District~Xinzhuang District~Yingge District~Yonghe District~Zhonghe District",
-		"sub_zips": "249~220~251~228~208~244~247~226~232~224~237~252~241~222~223~253~238~227~243~236~207~233~248~221~231~242~239~234~235"
+		"sub_zips": "249~220~251~228~208~244~247~226~232~224~237~252~241~222~223~253~238~227~243~236~207~233~248~221~231~24[28]~239~234~235"
 	},
 	"data/CN/台湾/新北市/三峽區": {
 		"id": "data/CN/台湾/新北市/三峽區",
@@ -4462,7 +4462,7 @@
 		"name": "新莊區",
 		"lang": "zh",
 		"lname": "Xinzhuang District",
-		"zip": "242"
+		"zip": "24[28]"
 	},
 	"data/CN/台湾/新北市/板橋區": {
 		"id": "data/CN/台湾/新北市/板橋區",
@@ -6065,11 +6065,11 @@
 		"lang": "zh",
 		"lname": "Songyuan Shi",
 		"zipex": "138000",
-		"sub_keys": "扶余县~乾安县~宁江区~前郭尔罗斯蒙古族自治县~长岭县",
-		"sub_names": "扶余县~乾安县~宁江区~前郭尔罗斯县~长岭县",
-		"sub_lnames": "Fuyu Xian~Qian'an Xian~Ningjiang Qu~Qian Gorlos Xian~Changling Xian",
-		"sub_zipexs": "131203~131400~138000~131100~131500",
-		"sub_lfnames": "~~~Qian Gorlos Mongolzu Zizhixian~"
+		"sub_keys": "扶余县~宁江区~前郭尔罗斯蒙古族自治县~乾安县~长岭县",
+		"sub_names": "扶余县~宁江区~前郭尔罗斯县~乾安县~长岭县",
+		"sub_lnames": "Fuyu Xian~Ningjiang Qu~Qian Gorlos Xian~Qian'an Xian~Changling Xian",
+		"sub_zipexs": "131203~138000~131100~131400~131500",
+		"sub_lfnames": "~~Qian Gorlos Mongolzu Zizhixian~~"
 	},
 	"data/CN/吉林省/松原市/乾安县": {
 		"id": "data/CN/吉林省/松原市/乾安县",
@@ -12716,10 +12716,18 @@
 		"lang": "zh",
 		"lname": "Shenzhen Shi",
 		"zipex": "518027",
-		"sub_keys": "宝安区~福田区~龙岗区~龙华区~罗湖区~南山区~坪山新区~盐田区",
-		"sub_names": "宝安区~福田区~龙岗区~龙华区~罗湖区~南山区~坪山新区~盐田区",
-		"sub_lnames": "Bao'an Qu~Futian Qu~Longgang Qu~Longhua Qu~Luohu Qu~Nanshan Qu~Pingshan Qu~Yantian Qu",
-		"sub_zipexs": "518101~518033~518116~518110~518001~518052~518118~518083"
+		"sub_keys": "宝安区~福田区~光明区~龙岗区~龙华区~罗湖区~南山区~坪山新区~盐田区",
+		"sub_names": "宝安区~福田区~光明区~龙岗区~龙华区~罗湖区~南山区~坪山新区~盐田区",
+		"sub_lnames": "Bao'an Qu~Futian Qu~Guangming Qu~Longgang Qu~Longhua Qu~Luohu Qu~Nanshan Qu~Pingshan Qu~Yantian Qu",
+		"sub_zipexs": "518101~518033~518107~518116~518110~518001~518052~518118~518083"
+	},
+	"data/CN/广东省/深圳市/光明区": {
+		"id": "data/CN/广东省/深圳市/光明区",
+		"key": "光明区",
+		"name": "光明区",
+		"lang": "zh",
+		"lname": "Guangming Qu",
+		"zipex": "518107"
 	},
 	"data/CN/广东省/深圳市/南山区": {
 		"id": "data/CN/广东省/深圳市/南山区",
@@ -19133,10 +19141,10 @@
 		"lang": "zh",
 		"lname": "Zhoukou Shi",
 		"zipex": "466000",
-		"sub_keys": "沈丘县~川汇区~郸城县~扶沟县~淮阳县~鹿邑县~商水县~太康县~西华县~项城市",
-		"sub_names": "沈丘县~川汇区~郸城县~扶沟县~淮阳县~鹿邑县~商水县~太康县~西华县~项城市",
-		"sub_lnames": "Shenqiu Xian~Chuanhui Qu~Dancheng Xian~Fugou Xian~Huaiyang Xian~Luyi Xian~Shangshui Xian~Taikang Xian~Xihua Xian~Xiangcheng Shi",
-		"sub_zipexs": "466300~466000~477150~461300~466700~477200~466100~461400~466600~466200"
+		"sub_keys": "川汇区~郸城县~扶沟县~淮阳县~鹿邑县~商水县~沈丘县~太康县~西华县~项城市",
+		"sub_names": "川汇区~郸城县~扶沟县~淮阳县~鹿邑县~商水县~沈丘县~太康县~西华县~项城市",
+		"sub_lnames": "Chuanhui Qu~Dancheng Xian~Fugou Xian~Huaiyang Xian~Luyi Xian~Shangshui Xian~Shenqiu Xian~Taikang Xian~Xihua Xian~Xiangcheng Shi",
+		"sub_zipexs": "466000~477150~461300~466700~477200~466100~466300~461400~466600~466200"
 	},
 	"data/CN/河南省/周口市/商水县": {
 		"id": "data/CN/河南省/周口市/商水县",
@@ -27204,10 +27212,10 @@
 		"lang": "zh",
 		"lname": "Shenyang Shi",
 		"zipex": "110013",
-		"sub_keys": "沈北新区~沈河区~大东区~法库县~和平区~皇姑区~东陵区~康平县~辽中县~苏家屯区~铁西区~新民市~于洪区",
-		"sub_names": "沈北新区~沈河区~大东区~法库县~和平区~皇姑区~浑南区~康平县~辽中县~苏家屯区~铁西区~新民市~于洪区",
-		"sub_lnames": "Chenbei Xinqu~Shenhe Qu~Dadong Qu~Faku Xian~Heping Qu~Huanggu Qu~Hunnan Qu~Kangping Xian~Liaozhong Xian~Sujiatun Qu~Tiexi Qu~Xinmin Shi~Yuhong Qu",
-		"sub_zipexs": "110121~110011~110041~110400~110001~110031~110015~110400~110200~110101~110021~110300~110024"
+		"sub_keys": "大东区~法库县~和平区~皇姑区~东陵区~康平县~辽中县~沈北新区~沈河区~苏家屯区~铁西区~新民市~于洪区",
+		"sub_names": "大东区~法库县~和平区~皇姑区~浑南区~康平县~辽中县~沈北新区~沈河区~苏家屯区~铁西区~新民市~于洪区",
+		"sub_lnames": "Dadong Qu~Faku Xian~Heping Qu~Huanggu Qu~Hunnan Qu~Kangping Xian~Liaozhong Xian~Chenbei Xinqu~Shenhe Qu~Sujiatun Qu~Tiexi Qu~Xinmin Shi~Yuhong Qu",
+		"sub_zipexs": "110041~110400~110001~110031~110015~110400~110200~110121~110011~110101~110021~110300~110024"
 	},
 	"data/CN/辽宁省/沈阳市/东陵区": {
 		"id": "data/CN/辽宁省/沈阳市/东陵区",
@@ -28162,10 +28170,10 @@
 		"lang": "zh",
 		"lname": "Xianyang Shi",
 		"zipex": "712000",
-		"sub_keys": "彬县~淳化县~乾县~泾阳县~礼泉县~秦都区~三原县~渭城区~武功县~兴平市~旬邑县~杨凌区~永寿县~长武县",
-		"sub_names": "彬县~淳化县~乾县~泾阳县~礼泉县~秦都区~三原县~渭城区~武功县~兴平市~旬邑县~杨凌区~永寿县~长武县",
-		"sub_lnames": "Bin Xian~Chunhua Xian~Qian Xian~Jingyang Xian~Liquan Xian~Qindu Qu~Sanyuan Xian~Weicheng Qu~Wugong Xian~Xingping Shi~Xunyi Xian~Yangling Qu~Yongshou Xian~Changwu Xian",
-		"sub_zipexs": "713500~711200~713300~713700~713200~712000~713800~712000~712200~713100~711300~712100~713400~713600"
+		"sub_keys": "彬县~淳化县~泾阳县~礼泉县~乾县~秦都区~三原县~渭城区~武功县~兴平市~旬邑县~杨凌区~永寿县~长武县",
+		"sub_names": "彬县~淳化县~泾阳县~礼泉县~乾县~秦都区~三原县~渭城区~武功县~兴平市~旬邑县~杨凌区~永寿县~长武县",
+		"sub_lnames": "Bin Xian~Chunhua Xian~Jingyang Xian~Liquan Xian~Qian Xian~Qindu Qu~Sanyuan Xian~Weicheng Qu~Wugong Xian~Xingping Shi~Xunyi Xian~Yangling Qu~Yongshou Xian~Changwu Xian",
+		"sub_zipexs": "713500~711200~713700~713200~713300~712000~713800~712000~712200~713100~711300~712100~713400~713600"
 	},
 	"data/CN/陕西省/咸阳市/三原县": {
 		"id": "data/CN/陕西省/咸阳市/三原县",

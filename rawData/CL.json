@@ -12,7 +12,7 @@
 		"sub_keys": "Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén~Biobío~Coquimbo~O'Higgins~Los Lagos~Los Ríos~Magallanes~Maule~Región Metropolitana~Ñuble~Tarapacá~Valparaíso",
 		"sub_names": "Antofagasta~Araucanía~Arica y Parinacota~Atacama~Aysén del General Carlos Ibáñez del Campo~Biobío~Coquimbo~Libertador General Bernardo O'Higgins~Los Lagos~Los Ríos~Magallanes y de la Antártica Chilena~Maule~Metropolitana de Santiago~Ñuble~Tarapacá~Valparaíso",
 		"sub_isoids": "AN~AR~AP~AT~AI~BI~CO~LI~LL~LR~MA~ML~RM~NB~TA~VS",
-		"sub_mores": "true~true~true~true~true~true~true~true~true~true~true~true~true~false~true~true"
+		"sub_mores": "true~true~true~true~true~true~true~true~true~true~true~true~true~true~true~true"
 	},
 	"data/CL/Antofagasta": {
 		"id": "data/CL/Antofagasta",
@@ -1869,6 +1869,47 @@
 		"key": "Ñuble",
 		"name": "Ñuble",
 		"lang": "es",
-		"isoid": "NB"
+		"isoid": "NB",
+		"sub_keys": "Bulnes~Chillán~Coelemu~Coihueco~Quillón~Quirihue~San Carlos~Yungay"
+	},
+	"data/CL/Ñuble/Bulnes": {
+		"id": "data/CL/Ñuble/Bulnes",
+		"key": "Bulnes",
+		"lang": "es"
+	},
+	"data/CL/Ñuble/Chillán": {
+		"id": "data/CL/Ñuble/Chillán",
+		"key": "Chillán",
+		"lang": "es"
+	},
+	"data/CL/Ñuble/Coelemu": {
+		"id": "data/CL/Ñuble/Coelemu",
+		"key": "Coelemu",
+		"lang": "es"
+	},
+	"data/CL/Ñuble/Coihueco": {
+		"id": "data/CL/Ñuble/Coihueco",
+		"key": "Coihueco",
+		"lang": "es"
+	},
+	"data/CL/Ñuble/Quillón": {
+		"id": "data/CL/Ñuble/Quillón",
+		"key": "Quillón",
+		"lang": "es"
+	},
+	"data/CL/Ñuble/Quirihue": {
+		"id": "data/CL/Ñuble/Quirihue",
+		"key": "Quirihue",
+		"lang": "es"
+	},
+	"data/CL/Ñuble/San Carlos": {
+		"id": "data/CL/Ñuble/San Carlos",
+		"key": "San Carlos",
+		"lang": "es"
+	},
+	"data/CL/Ñuble/Yungay": {
+		"id": "data/CL/Ñuble/Yungay",
+		"key": "Yungay",
+		"lang": "es"
 	}
 }

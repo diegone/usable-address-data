@@ -3,7 +3,7 @@
 		"id": "data/LT",
 		"key": "LT",
 		"name": "LITHUANIA",
-		"fmt": "%O%n%N%n%A%nLT-%Z %C",
+		"fmt": "%O%n%N%n%A%nLT-%Z %C %S",
 		"require": "ACZ",
 		"zip": "\\d{5}",
 		"zipex": "04340,03500",

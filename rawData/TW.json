@@ -12,6 +12,7 @@
 		"zipex": "104,106,10603,40867",
 		"posturl": "http://www.post.gov.tw/post/internet/f_searchzone/index.jsp?ID=190102",
 		"state_name_type": "county",
+		"locality_name_type": "district",
 		"sub_keys": "台中市~台北市~台東縣~台南市~宜蘭縣~花蓮縣~金門縣~南投縣~屏東縣~苗栗縣~桃園市~高雄市~基隆市~連江縣~雲林縣~新北市~新竹市~新竹縣~嘉義市~嘉義縣~彰化縣~澎湖縣",
 		"sub_lnames": "Taichung City~Taipei City~Taitung County~Tainan City~Yilan County~Hualien County~Kinmen County~Nantou County~Pingtung County~Miaoli County~Taoyuan City~Kaohsiung City~Keelung City~Lienchiang County~Yunlin County~New Taipei City~Hsinchu City~Hsinchu County~Chiayi City~Chiayi County~Changhua County~Penghu County",
 		"sub_zips": "4[0-3]~1[01]~9[56]~7[0-4]~2[67]~9[78]~89~5[45]~9[0-4]~3[56]~3[23]~8[02-5]|81[1-579]~20[0-6]~209|21[012]~6[3-5]~20[78]|2[2345]~300~30[2-8]|31~600~60[1-9]|6[12]~5[0123]~88",
@@ -1592,7 +1593,7 @@
 		"isoid": "NWT",
 		"sub_keys": "八里區~三芝區~三重區~三峽區~土城區~中和區~五股區~平溪區~永和區~石門區~石碇區~汐止區~坪林區~板橋區~林口區~金山區~泰山區~烏來區~貢寮區~淡水區~深坑區~新店區~新莊區~瑞芳區~萬里區~樹林區~雙溪區~蘆洲區~鶯歌區",
 		"sub_lnames": "Bali District~Sanzhi District~Sanchong District~Sanxia District~Tucheng District~Zhonghe District~Wugu District~Pingxi District~Yonghe District~Shimen District~Shiding District~Xizhi District~Pinglin District~Banqiao District~Linkou District~Jinshan District~Taishan District~Wulai District~Gongliao District~Tamsui District~Shenkeng District~Xindian District~Xinzhuang District~Ruifang District~Wanli District~Shulin District~Shuangxi District~Luzhou District~Yingge District",
-		"sub_zips": "249~252~241~237~236~235~248~226~234~253~223~221~232~220~244~208~243~233~228~251~222~231~242~224~207~238~227~247~239"
+		"sub_zips": "249~252~241~237~236~235~248~226~234~253~223~221~232~220~244~208~243~233~228~251~222~231~24[28]~224~207~238~227~247~239"
 	},
 	"data/TW/新北市/三峽區": {
 		"id": "data/TW/新北市/三峽區",
@@ -1669,7 +1670,7 @@
 		"key": "新莊區",
 		"lang": "zh-Hant",
 		"lname": "Xinzhuang District",
-		"zip": "242"
+		"zip": "24[28]"
 	},
 	"data/TW/新北市/板橋區": {
 		"id": "data/TW/新北市/板橋區",

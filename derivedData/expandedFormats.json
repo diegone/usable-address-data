@@ -1001,7 +1001,7 @@
 			},
 			{
 				"field": "postal-code",
-				"regex": "(?:\\d|1[0-2])\\d{2}",
+				"regex": "(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)",
 				"label": "postal"
 			}
 		]
@@ -2050,6 +2050,13 @@
 				"field": "break"
 			},
 			{
+				"field": "address-level3",
+				"label": "suburb"
+			},
+			{
+				"field": "break"
+			},
+			{
 				"field": "address-level2",
 				"label": "city",
 				"upper": true
@@ -2070,7 +2077,8 @@
 				"regex": "\\d{6}",
 				"label": "postal"
 			}
-		]
+		],
+		"lang": "es"
 	},
 	"CR": {
 		"region": "COSTA RICA",
@@ -2697,6 +2705,13 @@
 				"label": "city",
 				"required": true,
 				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
 			}
 		]
 	},
@@ -5686,6 +5701,13 @@
 				"label": "city",
 				"required": true,
 				"upper": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
 			}
 		]
 	},
@@ -5755,6 +5777,13 @@
 				"field": "address-line",
 				"label": "address-line",
 				"required": true
+			},
+			{
+				"field": "break"
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
 			},
 			{
 				"field": "break"
@@ -7136,7 +7165,7 @@
 			},
 			{
 				"field": "postal-code",
-				"regex": "\\d{4} ?[A-Z]{2}",
+				"regex": "[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])",
 				"label": "postal",
 				"required": true
 			},
@@ -7662,6 +7691,13 @@
 				"field": "break"
 			},
 			{
+				"field": "address-level3",
+				"label": "suburb"
+			},
+			{
+				"field": "break"
+			},
+			{
 				"field": "address-level2",
 				"label": "city",
 				"required": true,
@@ -8144,6 +8180,13 @@
 				"regex": "\\d{6}",
 				"label": "postal",
 				"required": true
+			},
+			{
+				"label": " "
+			},
+			{
+				"field": "address-level1",
+				"label": "province"
 			},
 			{
 				"label": " "
@@ -9732,7 +9775,7 @@
 			},
 			{
 				"field": "address-level2",
-				"label": "city",
+				"label": "district",
 				"required": true,
 				"upper": true
 			},
